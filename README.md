@@ -1,83 +1,154 @@
 # TryHackMe Writeups and Cybersecurity Learning Notes
 
-This repository documents my ongoing TryHackMe learning journey, including room summaries, tools practiced, concepts learned, and cybersecurity takeaways.
+Welcome! 👋
 
-I do not share flags, direct answers, or sensitive walkthrough steps.  
-The focus is on learning, methodology, tools, practical understanding, and defensive security perspective.
+This repository documents my **ongoing cybersecurity learning journey** through **TryHackMe**. It contains beginner-friendly learning notes, room summaries, key concepts, and practical takeaways from the rooms I complete.
 
-## TryHackMe Profile
+> **Note:** I do **not** share flags, direct answers, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
 
-TryHackMe Profile: https://tryhackme.com/p/sunnysharma11200
+---
 
-## Current Learning Status
+# 🎯 About
 
-I am currently upskilling in cybersecurity through TryHackMe by practicing beginner-friendly rooms, documenting my learning through Hashnode blogs, and maintaining notes in this GitHub repository.
+This repository serves as my public cybersecurity learning portfolio.
 
-My current focus areas are:
+For every TryHackMe room I complete, I follow a structured learning process:
 
-- Cybersecurity fundamentals
-- Web application basics
-- HTTP and networking concepts
-- OSINT and search skills
-- Vulnerability research
-- Practical hands-on labs
-- Defensive security understanding
+- ✅ Complete the room independently
+- 📝 Take structured notes
+- 📖 Publish a beginner-friendly Hashnode blog
+- 💻 Maintain organized GitHub notes
+- 🌐 Share my learning journey on LinkedIn
 
-## Rooms Completed
+This approach helps reinforce my understanding while building a consistent public portfolio.
+
+---
+
+# 🎯 TryHackMe Profile
+
+**Profile:**  
+https://tryhackme.com/p/sunnysharma11200
+
+---
+
+# 🚀 Current Learning Status
+
+I am currently upskilling in cybersecurity by completing TryHackMe rooms and documenting everything I learn.
+
+### Current Focus Areas
+
+- Cybersecurity Fundamentals
+- Networking Fundamentals
+- Nmap
+- Web Application Security
+- HTTP Fundamentals
+- Linux Fundamentals
+- OSINT
+- Defensive Security
+- Ethical Hacking Basics
+
+---
+
+# 📚 Rooms Completed
 
 | No. | Room | Topic | Difficulty | TryHackMe Room | Blog | Notes |
 |---|---|---|---|---|---|---|
 | 1 | Search Skills | OSINT, Search, Documentation | Easy | https://tryhackme.com/room/searchskills | https://cybersecurity-learning.hashnode.dev/tryhackme-search-skills-beginner-friendly-step-by-step-learning-guide | [Notes](./Search-Skills/) |
 | 2 | Web Application Basics | Web Applications, HTTP, URLs | Easy | https://tryhackme.com/room/webapplicationbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide | [Notes](./Web-Application-Basics/) |
+| 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Easy | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
 
-## Learning Roadmap
+---
 
-This repository will be updated regularly as I complete more rooms.
+# 🛠 Skills Gained
 
-Planned learning areas:
+Through these rooms, I have gained hands-on exposure to:
 
-- Linux fundamentals
-- Networking basics
-- Web security
-- Burp Suite
-- OWASP Top 10
-- Cryptography basics
-- Privilege escalation
-- Blue team fundamentals
-- Vulnerability scanning
-- Capture The Flag practice
+### Cybersecurity Fundamentals
+- Open Source Intelligence (OSINT)
+- Security Research
+- Technical Documentation
+- Learning Methodology
 
-## Topics Covered So Far
+### Networking
+- TCP/IP Fundamentals
+- IP Addressing
+- Subnetting
+- Host Discovery
+- ARP
+- ICMP
+- TCP & UDP Discovery
+
+### Web Technologies
+- Web Applications
+- HTTP Protocol
+- URLs
+- HTTP Methods
+- Request & Response Headers
+- Status Codes
+- Security Headers
+
+### Tools
+- Nmap
+- Browser Developer Tools
+- Search Engines
+- GitHub Search
+- VirusTotal
+- Shodan
+
+---
+
+# 📖 Topics Covered
 
 - Search Skills
 - OSINT
+- Search Operators
+- GitHub Search
+- VirusTotal
+- Shodan
 - Web Applications
 - HTTP
 - URLs
-- Request Methods
-- Headers
+- HTTP Methods
+- Request Headers
+- Response Headers
 - Status Codes
 - Security Headers
-- Vulnerability Research
+- Networking Basics
+- Nmap
+- Host Discovery
+- ARP
+- ICMP
+- TCP Discovery
+- UDP Discovery
+- Reverse DNS Lookup
+- Defensive Security Concepts
 - Technical Documentation
-- GitHub Search
-- Defensive Security Basics
 
-## Blog Publication
+---
 
-I publish detailed learning blogs on Hashnode:
+# ✍️ Hashnode Blog
 
-Hashnode Blog: https://cybersecurity-learning.hashnode.dev/
+I regularly publish beginner-friendly blogs explaining the concepts I learn while completing TryHackMe rooms.
 
-## Repository Structure
+🌐 **Hashnode**
 
-```text
-tryhackme-writeups/
-│
-├── README.md
-│
-├── Search-Skills/
-│   └── README.md
-│
-└── Web-Application-Basics/
-    └── README.md
+https://cybersecurity-learning.hashnode.dev/
+
+---
+
+# 🤝 Connect With Me
+
+- **GitHub:** https://github.com/SunnySharma04
+- **Hashnode:** https://cybersecurity-learning.hashnode.dev/
+- **TryHackMe:** https://tryhackme.com/p/sunnysharma11200
+- **LinkedIn:** https://www.linkedin.com/in/sunny-sharma-2487312a7/
+
+---
+
+# 📄 Disclaimer
+
+These notes are created for **educational purposes only**.
+
+I do **not** publish room flags, direct answers, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
+
+The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
