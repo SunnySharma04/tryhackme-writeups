@@ -68,7 +68,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 |---|---|---|---|---|---|---|
 | 1 | Search Skills | OSINT, Search, Documentation | Easy | https://tryhackme.com/room/searchskills | https://cybersecurity-learning.hashnode.dev/tryhackme-search-skills-beginner-friendly-step-by-step-learning-guide | [Notes](./Search-Skills/) |
 | 2 | Web Application Basics | Web Applications, HTTP, URLs | Easy | https://tryhackme.com/room/webapplicationbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide | [Notes](./Web-Application-Basics/) |
-| 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Easy | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
+| 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Medium | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
 | 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
 ---
 
