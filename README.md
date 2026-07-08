@@ -23,6 +23,19 @@ For every TryHackMe room I complete, I follow a structured learning process:
 This approach helps reinforce my understanding while building a consistent public portfolio.
 
 ---
+# 💡 Why This Repository?
+
+This repository serves as my personal cybersecurity knowledge base and public learning portfolio.
+
+Every room I complete is documented with:
+
+- Structured notes
+- Key concepts
+- Practical takeaways
+- Defensive security insights
+- Beginner-friendly explanations
+
+The goal is to continuously improve my cybersecurity knowledge while creating a resource that demonstrates my learning process and technical documentation skills.
 
 # 🎯 TryHackMe Profile
 
@@ -56,7 +69,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 1 | Search Skills | OSINT, Search, Documentation | Easy | https://tryhackme.com/room/searchskills | https://cybersecurity-learning.hashnode.dev/tryhackme-search-skills-beginner-friendly-step-by-step-learning-guide | [Notes](./Search-Skills/) |
 | 2 | Web Application Basics | Web Applications, HTTP, URLs | Easy | https://tryhackme.com/room/webapplicationbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide | [Notes](./Web-Application-Basics/) |
 | 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Easy | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
-
+| 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
 ---
 
 # 🛠 Skills Gained
@@ -87,14 +100,31 @@ Through these rooms, I have gained hands-on exposure to:
 - Status Codes
 - Security Headers
 
+### Authentication & Password Security
+- Authentication Security
+- Password Auditing
+- Hydra
+- Dictionary Attacks
+- Brute Force Concepts
+- Password Security Best Practices
+- Multi-Factor Authentication (MFA)
+- Account Lockout Mechanisms
+- Login Rate Limiting
+- Credential Security
+- Responsible Use of Security Tools
+- Ethical Password Testing
+
 ### Tools
 - Nmap
+- Hydra
 - Browser Developer Tools
-- Search Engines
 - GitHub Search
 - VirusTotal
 - Shodan
-
+- Linux Terminal
+- HTTP Protocol
+- DNS
+- Networking Concepts
 ---
 
 # 📖 Topics Covered
@@ -123,6 +153,11 @@ Through these rooms, I have gained hands-on exposure to:
 - Reverse DNS Lookup
 - Defensive Security Concepts
 - Technical Documentation
+- Hydra
+- Password Auditing
+- Dictionary Attacks
+- Brute Force
+- Authentication Security
 
 ---
 
