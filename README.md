@@ -4,7 +4,7 @@ Welcome! 👋
 
 This repository documents my **ongoing cybersecurity learning journey** through **TryHackMe**. It contains beginner-friendly learning notes, room summaries, key concepts, and practical takeaways from the rooms I complete.
 
-> **Note:** I do **not** share flags, direct answers, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
+> **Note:** I do **not** share flags, direct answers, passwords, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
 
 ---
 
@@ -23,6 +23,7 @@ For every TryHackMe room I complete, I follow a structured learning process:
 This approach helps reinforce my understanding while building a consistent public portfolio.
 
 ---
+
 # 💡 Why This Repository?
 
 This repository serves as my personal cybersecurity knowledge base and public learning portfolio.
@@ -36,6 +37,8 @@ Every room I complete is documented with:
 - Beginner-friendly explanations
 
 The goal is to continuously improve my cybersecurity knowledge while creating a resource that demonstrates my learning process and technical documentation skills.
+
+---
 
 # 🎯 TryHackMe Profile
 
@@ -59,6 +62,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - OSINT
 - Defensive Security
 - Ethical Hacking Basics
+- Authentication Security
+- Password Auditing
+- Metasploit Framework
+- Penetration Testing Basics
 
 ---
 
@@ -70,6 +77,8 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 2 | Web Application Basics | Web Applications, HTTP, URLs | Easy | https://tryhackme.com/room/webapplicationbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide | [Notes](./Web-Application-Basics/) |
 | 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Medium | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
 | 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
+| 5 | Metasploit: Introduction | Metasploit Framework, Modules, msfconsole | Easy | https://tryhackme.com/room/metasploitintro | https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide | [Notes](./Metasploit-Introduction/) |
+
 ---
 
 # 🛠 Skills Gained
@@ -77,12 +86,16 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 Through these rooms, I have gained hands-on exposure to:
 
 ### Cybersecurity Fundamentals
+
 - Open Source Intelligence (OSINT)
 - Security Research
 - Technical Documentation
 - Learning Methodology
+- Ethical Hacking Mindset
+- Defensive Security Thinking
 
 ### Networking
+
 - TCP/IP Fundamentals
 - IP Addressing
 - Subnetting
@@ -90,8 +103,10 @@ Through these rooms, I have gained hands-on exposure to:
 - ARP
 - ICMP
 - TCP & UDP Discovery
+- Reverse DNS Lookup
 
 ### Web Technologies
+
 - Web Applications
 - HTTP Protocol
 - URLs
@@ -101,6 +116,7 @@ Through these rooms, I have gained hands-on exposure to:
 - Security Headers
 
 ### Authentication & Password Security
+
 - Authentication Security
 - Password Auditing
 - Hydra
@@ -114,9 +130,25 @@ Through these rooms, I have gained hands-on exposure to:
 - Responsible Use of Security Tools
 - Ethical Password Testing
 
+### Metasploit & Security Testing
+
+- Metasploit Framework Basics
+- Understanding msfconsole
+- Metasploit Module Structure
+- Exploit and Payload Concepts
+- Auxiliary Modules
+- Post-Exploitation Concepts
+- Vulnerability Validation
+- Penetration Testing Methodology
+- Responsible Use of Offensive Security Tools
+- Defensive Value of Understanding Attacker Tools
+
 ### Tools
+
 - Nmap
 - Hydra
+- Metasploit
+- msfconsole
 - Browser Developer Tools
 - GitHub Search
 - VirusTotal
@@ -125,6 +157,7 @@ Through these rooms, I have gained hands-on exposure to:
 - HTTP Protocol
 - DNS
 - Networking Concepts
+
 ---
 
 # 📖 Topics Covered
@@ -158,6 +191,17 @@ Through these rooms, I have gained hands-on exposure to:
 - Dictionary Attacks
 - Brute Force
 - Authentication Security
+- Metasploit
+- Metasploit Framework
+- msfconsole
+- Exploit Modules
+- Payload Modules
+- Auxiliary Modules
+- Post-Exploitation Concepts
+- Vulnerability Validation
+- Penetration Testing Basics
+- Ethical Security Testing
+- Responsible Tool Usage
 
 ---
 
@@ -184,6 +228,6 @@ https://cybersecurity-learning.hashnode.dev/
 
 These notes are created for **educational purposes only**.
 
-I do **not** publish room flags, direct answers, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
+I do **not** publish room flags, direct answers, passwords, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
 
 The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
