@@ -66,6 +66,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Password Auditing
 - Metasploit Framework
 - Penetration Testing Basics
+- SOC Fundamentals
+- Blue Team Security
+- Security Monitoring
+- Incident Response Basics
 
 ---
 
@@ -78,6 +82,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Medium | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
 | 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
 | 5 | Metasploit: Introduction | Metasploit Framework, Modules, msfconsole | Easy | https://tryhackme.com/room/metasploitintro | https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide | [Notes](./Metasploit-Introduction/) |
+| 6 | SOC Fundamentals | SOC, Blue Team, Defensive Security | Easy | https://tryhackme.com/room/socfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide | [Notes](./SOC-Fundamentals/) |
 
 ---
 
@@ -143,6 +148,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Responsible Use of Offensive Security Tools
 - Defensive Value of Understanding Attacker Tools
 
+### SOC & Defensive Security
+
+- Security Operations Center fundamentals
+- SOC team structure
+- People, process, and technology in SOC operations
+- Alert triage basics
+- Incident response basics
+- Security monitoring
+- SIEM concepts
+- EDR concepts
+- IDS and IPS concepts
+- Threat intelligence concepts
+- SOC analyst mindset
+- Defensive security operations
+
 ### Tools
 
 - Nmap
@@ -157,6 +177,12 @@ Through these rooms, I have gained hands-on exposure to:
 - HTTP Protocol
 - DNS
 - Networking Concepts
+- SIEM Concepts
+- EDR Concepts
+- IDS/IPS Concepts
+- Firewall Monitoring Concepts
+- Threat Intelligence Concepts
+- Ticketing System Concepts
 
 ---
 
@@ -202,6 +228,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Penetration Testing Basics
 - Ethical Security Testing
 - Responsible Tool Usage
+- SOC Fundamentals
+- Security Operations Center
+- Blue Team Security
+- Defensive Security
+- Alert Triage
+- Incident Response
+- SOC Analyst Roles
+- People, Process, and Technology
+- SIEM
+- EDR
+- IDS
+- IPS
+- Firewalls
+- Threat Intelligence
+- Security Monitoring
 
 ---
 
