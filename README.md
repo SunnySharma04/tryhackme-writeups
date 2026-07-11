@@ -70,6 +70,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Blue Team Security
 - Security Monitoring
 - Incident Response Basics
+- Web Application Security Testing
+- OWASP ZAP
+- Automated Scanning
+- Manual Web Testing
 
 ---
 
@@ -83,7 +87,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
 | 5 | Metasploit: Introduction | Metasploit Framework, Modules, msfconsole | Easy | https://tryhackme.com/room/metasploitintro | https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide | [Notes](./Metasploit-Introduction/) |
 | 6 | SOC Fundamentals | SOC, Blue Team, Defensive Security | Easy | https://tryhackme.com/room/socfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide | [Notes](./SOC-Fundamentals/) |
-
+| 7 | Introduction to OWASP ZAP | OWASP ZAP, Web Security, Scanning | Easy | https://tryhackme.com/room/learnowaspzap | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide | [Notes](./Introduction-to-OWASP-ZAP/) |
 ---
 
 # 🛠 Skills Gained
@@ -163,6 +167,19 @@ Through these rooms, I have gained hands-on exposure to:
 - SOC analyst mindset
 - Defensive security operations
 
+### Web Application Security Testing
+
+- OWASP ZAP fundamentals
+- Intercepting proxy concepts
+- Automated scanning concepts
+- Manual web application testing
+- Authenticated scanning concepts
+- Directory discovery methodology
+- Web login security concepts
+- Understanding scanner limitations
+- Responsible web application security testing
+- Defensive web security controls
+
 ### Tools
 
 - Nmap
@@ -183,6 +200,11 @@ Through these rooms, I have gained hands-on exposure to:
 - Firewall Monitoring Concepts
 - Threat Intelligence Concepts
 - Ticketing System Concepts
+- OWASP ZAP
+- Web Security Scanner Concepts
+- Intercepting Proxy Concepts
+- Automated Scan Concepts
+- Manual Web Testing Concepts
 
 ---
 
@@ -243,7 +265,18 @@ Through these rooms, I have gained hands-on exposure to:
 - Firewalls
 - Threat Intelligence
 - Security Monitoring
-
+- OWASP ZAP
+- Web Application Security Testing
+- Intercepting Proxy
+- Automated Scanning
+- Manual Scanning
+- Authenticated Web Application Testing
+- Directory Discovery
+- Web Login Security
+- ZAP Extensions
+- OWASP
+- Web Security Testing
+- Responsible Security Testing
 ---
 
 # ✍️ Hashnode Blog
