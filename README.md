@@ -74,6 +74,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - OWASP ZAP
 - Automated Scanning
 - Manual Web Testing
+- SOC Analyst Roles
+- Blue Team Career Path
+- Security Team Hierarchy
+- Incident Response Collaboration
 
 ---
 
@@ -88,6 +92,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 5 | Metasploit: Introduction | Metasploit Framework, Modules, msfconsole | Easy | https://tryhackme.com/room/metasploitintro | https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide | [Notes](./Metasploit-Introduction/) |
 | 6 | SOC Fundamentals | SOC, Blue Team, Defensive Security | Easy | https://tryhackme.com/room/socfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide | [Notes](./SOC-Fundamentals/) |
 | 7 | Introduction to OWASP ZAP | OWASP ZAP, Web Security, Scanning | Easy | https://tryhackme.com/room/learnowaspzap | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide | [Notes](./Introduction-to-OWASP-ZAP/) |
+| 8 | SOC Role in Blue Team | SOC, Blue Team, SOC Analyst Roles | Easy | https://tryhackme.com/room/socroleinblueteam | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide | [Notes](./SOC-Role-in-Blue-Team/) |
 ---
 
 # 🛠 Skills Gained
@@ -180,6 +185,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Responsible web application security testing
 - Defensive web security controls
 
+### SOC Roles & Blue Team Career
+
+- Understanding SOC roles in Blue Team operations
+- Security hierarchy fundamentals
+- SOC Level 1 analyst responsibilities
+- SOC Level 2 analyst responsibilities
+- SOC Level 3 analyst responsibilities
+- Incident response collaboration
+- Threat intelligence support
+- Digital forensics awareness
+- GRC awareness
+- SOC career progression
+- Blue Team communication and documentation
+
 ### Tools
 
 - Nmap
@@ -205,6 +224,13 @@ Through these rooms, I have gained hands-on exposure to:
 - Intercepting Proxy Concepts
 - Automated Scan Concepts
 - Manual Web Testing Concepts
+- SOC Concepts
+- Blue Team Concepts
+- SIEM Concepts
+- Incident Response Concepts
+- Threat Intelligence Concepts
+- Digital Forensics Concepts
+- GRC Concepts
 
 ---
 
@@ -277,6 +303,20 @@ Through these rooms, I have gained hands-on exposure to:
 - OWASP
 - Web Security Testing
 - Responsible Security Testing
+- SOC Role in Blue Team
+- Blue Team Security
+- SOC Analyst
+- SOC Level 1 Analyst
+- SOC Level 2 Analyst
+- SOC Level 3 Analyst
+- Security Hierarchy
+- Incident Response Team
+- Threat Intelligence Analyst
+- Digital Forensics Analyst
+- SOC Engineer
+- GRC
+- Cybersecurity Career Path
+- Defensive Security Operations
 ---
 
 # ✍️ Hashnode Blog
