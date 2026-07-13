@@ -78,6 +78,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Blue Team Career Path
 - Security Team Hierarchy
 - Incident Response Collaboration
+- VPN Connectivity
+- OpenVPN
+- Secure Lab Access
+- Network Troubleshooting
 
 ---
 
@@ -93,6 +97,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 6 | SOC Fundamentals | SOC, Blue Team, Defensive Security | Easy | https://tryhackme.com/room/socfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide | [Notes](./SOC-Fundamentals/) |
 | 7 | Introduction to OWASP ZAP | OWASP ZAP, Web Security, Scanning | Easy | https://tryhackme.com/room/learnowaspzap | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide | [Notes](./Introduction-to-OWASP-ZAP/) |
 | 8 | SOC Role in Blue Team | SOC, Blue Team, SOC Analyst Roles | Easy | https://tryhackme.com/room/socroleinblueteam | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide | [Notes](./SOC-Role-in-Blue-Team/) |
+| 9 | OpenVPN | VPN Connectivity, Lab Access, Networking | Easy | https://tryhackme.com/room/openvpn | https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide | [Notes](./OpenVPN/) |
 ---
 
 # 🛠 Skills Gained
@@ -199,6 +204,19 @@ Through these rooms, I have gained hands-on exposure to:
 - SOC career progression
 - Blue Team communication and documentation
 
+### VPN Connectivity & Lab Access
+
+- OpenVPN fundamentals
+- VPN connectivity basics
+- TryHackMe lab access setup
+- Secure connection verification
+- Basic network troubleshooting
+- Windows VPN connection concepts
+- macOS VPN connection concepts
+- Linux VPN connection concepts
+- Safe handling of VPN configuration files
+- Responsible cybersecurity lab usage
+
 ### Tools
 
 - Nmap
@@ -231,6 +249,10 @@ Through these rooms, I have gained hands-on exposure to:
 - Threat Intelligence Concepts
 - Digital Forensics Concepts
 - GRC Concepts
+- OpenVPN
+- VPN Concepts
+- TryHackMe Lab Network
+- Network Connectivity Concepts
 
 ---
 
@@ -317,6 +339,16 @@ Through these rooms, I have gained hands-on exposure to:
 - GRC
 - Cybersecurity Career Path
 - Defensive Security Operations
+- OpenVPN
+- VPN
+- Virtual Private Network
+- TryHackMe Lab Access
+- Secure Lab Connectivity
+- Network Troubleshooting
+- Windows VPN Setup Concepts
+- macOS VPN Setup Concepts
+- Linux VPN Setup Concepts
+- Responsible Lab Usage
 ---
 
 # ✍️ Hashnode Blog
