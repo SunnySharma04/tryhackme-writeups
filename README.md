@@ -82,6 +82,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - OpenVPN
 - Secure Lab Access
 - Network Troubleshooting
+- Defensive Security
+- Blue Team Fundamentals
+- Security Monitoring
+- Attack Detection
+- Incident Response
 
 ---
 
@@ -98,6 +103,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 7 | Introduction to OWASP ZAP | OWASP ZAP, Web Security, Scanning | Easy | https://tryhackme.com/room/learnowaspzap | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide | [Notes](./Introduction-to-OWASP-ZAP/) |
 | 8 | SOC Role in Blue Team | SOC, Blue Team, SOC Analyst Roles | Easy | https://tryhackme.com/room/socroleinblueteam | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide | [Notes](./SOC-Role-in-Blue-Team/) |
 | 9 | OpenVPN | VPN Connectivity, Lab Access, Networking | Easy | https://tryhackme.com/room/openvpn | https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide | [Notes](./OpenVPN/) |
+| 10 | Defensive Security Intro | Defensive Security, Blue Team, Incident Response | Easy | https://tryhackme.com/room/defensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide | [Notes](./Defensive-Security-Intro/) |
 ---
 
 # 🛠 Skills Gained
@@ -217,6 +223,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Safe handling of VPN configuration files
 - Responsible cybersecurity lab usage
 
+### Defensive Security Fundamentals
+
+- Defensive security fundamentals
+- Blue team thinking
+- Suspicious activity detection
+- Security monitoring basics
+- Log analysis concepts
+- Attack identification methodology
+- Incident response basics
+- Threat containment concepts
+- Recovery concepts
+- Lessons learned after incidents
+
 ### Tools
 
 - Nmap
@@ -253,6 +272,12 @@ Through these rooms, I have gained hands-on exposure to:
 - VPN Concepts
 - TryHackMe Lab Network
 - Network Connectivity Concepts
+- Defensive Security Concepts
+- Blue Team Concepts
+- SOC Concepts
+- Security Monitoring Concepts
+- Incident Response Concepts
+- Log Analysis Concepts
 
 ---
 
@@ -349,6 +374,18 @@ Through these rooms, I have gained hands-on exposure to:
 - macOS VPN Setup Concepts
 - Linux VPN Setup Concepts
 - Responsible Lab Usage
+- Defensive Security Intro
+- Defensive Security
+- Blue Team
+- Security Monitoring
+- Suspicious Activity Detection
+- Attack Identification
+- Incident Response
+- Threat Containment
+- Recovery
+- Lessons Learned
+- SOC Fundamentals
+- Log Analysis
 ---
 
 # ✍️ Hashnode Blog
