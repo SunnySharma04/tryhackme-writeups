@@ -87,6 +87,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Security Monitoring
 - Attack Detection
 - Incident Response
+- SQL Injection
+- Web Application Security
+- Database Security
+- Secure Coding Basics
 
 ---
 
@@ -104,6 +108,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 8 | SOC Role in Blue Team | SOC, Blue Team, SOC Analyst Roles | Easy | https://tryhackme.com/room/socroleinblueteam | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide | [Notes](./SOC-Role-in-Blue-Team/) |
 | 9 | OpenVPN | VPN Connectivity, Lab Access, Networking | Easy | https://tryhackme.com/room/openvpn | https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide | [Notes](./OpenVPN/) |
 | 10 | Defensive Security Intro | Defensive Security, Blue Team, Incident Response | Easy | https://tryhackme.com/room/defensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide | [Notes](./Defensive-Security-Intro/) |
+| 11 | SQL Injection | SQL Injection, Web Security, Database Security | Medium | https://tryhackme.com/room/sqlinjectionlm | https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide | [Notes](./SQL-Injection/) |
 ---
 
 # 🛠 Skills Gained
@@ -236,6 +241,22 @@ Through these rooms, I have gained hands-on exposure to:
 - Recovery concepts
 - Lessons learned after incidents
 
+### SQL Injection & Database Security
+
+- Database fundamentals
+- SQL basics
+- SQL Injection concepts
+- In-band SQL Injection
+- Blind SQL Injection
+- Boolean-based SQLi concepts
+- Time-based SQLi concepts
+- Out-of-band SQLi concepts
+- Authentication security risks
+- SQL Injection remediation
+- Parameterized query awareness
+- Secure coding practices
+- Database least privilege principles
+
 ### Tools
 
 - Nmap
@@ -278,6 +299,11 @@ Through these rooms, I have gained hands-on exposure to:
 - Security Monitoring Concepts
 - Incident Response Concepts
 - Log Analysis Concepts
+- SQL Concepts
+- Database Security Concepts
+- OWASP SQL Injection Concepts
+- Web Application Security Concepts
+- Secure Coding Concepts
 
 ---
 
@@ -386,6 +412,23 @@ Through these rooms, I have gained hands-on exposure to:
 - Lessons Learned
 - SOC Fundamentals
 - Log Analysis
+- SQL Injection
+- SQL
+- Databases
+- Database Security
+- Web Application Security
+- In-Band SQLi
+- Blind SQLi
+- Boolean-Based SQLi
+- Time-Based SQLi
+- Out-of-Band SQLi
+- Authentication Bypass Concepts
+- SQL Injection Remediation
+- Parameterized Queries
+- Input Validation
+- Least Privilege
+- Safe Error Handling
+- OWASP
 ---
 
 # ✍️ Hashnode Blog
