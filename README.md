@@ -91,6 +91,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Web Application Security
 - Database Security
 - Secure Coding Basics
+- Burp Suite
+- Burp Suite Repeater
+- Manual Web Application Testing
+- HTTP Request and Response Analysis
 
 ---
 
@@ -109,6 +113,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 9 | OpenVPN | VPN Connectivity, Lab Access, Networking | Easy | https://tryhackme.com/room/openvpn | https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide | [Notes](./OpenVPN/) |
 | 10 | Defensive Security Intro | Defensive Security, Blue Team, Incident Response | Easy | https://tryhackme.com/room/defensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide | [Notes](./Defensive-Security-Intro/) |
 | 11 | SQL Injection | SQL Injection, Web Security, Database Security | Medium | https://tryhackme.com/room/sqlinjectionlm | https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide | [Notes](./SQL-Injection/) |
+| 12 | Burp Suite: Repeater | Burp Suite, Repeater, Web Security | Easy | https://tryhackme.com/room/burpsuiterepeater | https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide | [Notes](./Burp-Suite-Repeater/) |
 ---
 
 # 🛠 Skills Gained
@@ -257,6 +262,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Secure coding practices
 - Database least privilege principles
 
+### Burp Suite & Manual Web Testing
+
+- Burp Suite Repeater fundamentals
+- Manual HTTP request testing
+- HTTP response analysis
+- Request modification concepts
+- Message analysis toolbar usage
+- Inspector concepts
+- Parameter, header, and cookie analysis
+- Web application behavior testing
+- Manual security testing methodology
+- Responsible web application testing
+
 ### Tools
 
 - Nmap
@@ -304,6 +322,11 @@ Through these rooms, I have gained hands-on exposure to:
 - OWASP SQL Injection Concepts
 - Web Application Security Concepts
 - Secure Coding Concepts
+- Burp Suite
+- Burp Suite Repeater
+- HTTP Request Analysis
+- HTTP Response Analysis
+- Inspector Concepts
 
 ---
 
@@ -429,6 +452,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Least Privilege
 - Safe Error Handling
 - OWASP
+- Burp Suite
+- Burp Suite Repeater
+- Web Application Security
+- Manual Web Testing
+- HTTP Requests
+- HTTP Responses
+- Request Modification
+- Response Analysis
+- Message Analysis Toolbar
+- Inspector
+- Parameters
+- Headers
+- Cookies
+- Responsible Web Security Testing
 ---
 
 # ✍️ Hashnode Blog
