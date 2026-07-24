@@ -95,6 +95,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Burp Suite Repeater
 - Manual Web Application Testing
 - HTTP Request and Response Analysis
+- Offensive Security Basics
+- Ethical Hacking Fundamentals
+- Web Reconnaissance Basics
+- Safe Lab Practice
 
 ---
 
@@ -114,6 +118,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 10 | Defensive Security Intro | Defensive Security, Blue Team, Incident Response | Easy | https://tryhackme.com/room/defensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide | [Notes](./Defensive-Security-Intro/) |
 | 11 | SQL Injection | SQL Injection, Web Security, Database Security | Medium | https://tryhackme.com/room/sqlinjectionlm | https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide | [Notes](./SQL-Injection/) |
 | 12 | Burp Suite: Repeater | Burp Suite, Repeater, Web Security | Easy | https://tryhackme.com/room/burpsuiterepeater | https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide | [Notes](./Burp-Suite-Repeater/) |
+| 13 | Offensive Security Intro | Offensive Security, Ethical Hacking Basics | Easy | https://tryhackme.com/room/offensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide | [Notes](./Offensive-Security-Intro/) |
 ---
 
 # 🛠 Skills Gained
@@ -275,6 +280,17 @@ Through these rooms, I have gained hands-on exposure to:
 - Manual security testing methodology
 - Responsible web application testing
 
+### Offensive Security Basics
+
+- Offensive security fundamentals
+- Ethical hacking mindset
+- Safe lab practice
+- Web application reconnaissance concepts
+- Hidden page discovery concepts
+- Admin page security concepts
+- Authentication and authorization basics
+- Responsible cybersecurity learning
+
 ### Tools
 
 - Nmap
@@ -327,6 +343,10 @@ Through these rooms, I have gained hands-on exposure to:
 - HTTP Request Analysis
 - HTTP Response Analysis
 - Inspector Concepts
+- Offensive Security Concepts
+- Ethical Hacking Concepts
+- Web Reconnaissance Concepts
+- TryHackMe Lab Environment
 
 ---
 
@@ -466,6 +486,17 @@ Through these rooms, I have gained hands-on exposure to:
 - Headers
 - Cookies
 - Responsible Web Security Testing
+- Offensive Security Intro
+- Offensive Security
+- Ethical Hacking
+- Thinking Like a Hacker
+- Safe Lab Practice
+- Web Reconnaissance
+- Hidden Pages
+- Admin Page Security
+- Authentication
+- Authorization
+- Responsible Cybersecurity Learning
 ---
 
 # ✍️ Hashnode Blog
