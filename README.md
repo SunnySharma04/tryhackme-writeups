@@ -99,6 +99,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Ethical Hacking Fundamentals
 - Web Reconnaissance Basics
 - Safe Lab Practice
+- Computer Fundamentals
+- Computer Hardware Basics
+- System Components
+- Hardware and Software Relationship
 
 ---
 
@@ -119,6 +123,8 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 11 | SQL Injection | SQL Injection, Web Security, Database Security | Medium | https://tryhackme.com/room/sqlinjectionlm | https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide | [Notes](./SQL-Injection/) |
 | 12 | Burp Suite: Repeater | Burp Suite, Repeater, Web Security | Easy | https://tryhackme.com/room/burpsuiterepeater | https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide | [Notes](./Burp-Suite-Repeater/) |
 | 13 | Offensive Security Intro | Offensive Security, Ethical Hacking Basics | Easy | https://tryhackme.com/room/offensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide | [Notes](./Offensive-Security-Intro/) |
+| 14 | Inside a Computer System | Computer Fundamentals, Hardware Basics | Easy | https://tryhackme.com/room/insideacomputer | https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide | [Notes](./Inside-a-Computer-System/) |
+
 ---
 
 # 🛠 Skills Gained
@@ -291,6 +297,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Authentication and authorization basics
 - Responsible cybersecurity learning
 
+### Computer Fundamentals
+
+- Computer system fundamentals
+- Hardware and software concepts
+- CPU fundamentals
+- RAM and temporary memory concepts
+- Storage concepts
+- HDD and SSD basics
+- Motherboard fundamentals
+- BIOS and UEFI awareness
+- Power supply basics
+- Peripheral and input/output device concepts
+- Hardware security awareness
+
 ### Tools
 
 - Nmap
@@ -347,6 +367,12 @@ Through these rooms, I have gained hands-on exposure to:
 - Ethical Hacking Concepts
 - Web Reconnaissance Concepts
 - TryHackMe Lab Environment
+- Computer System Concepts
+- Hardware Fundamentals
+- CPU Concepts
+- RAM Concepts
+- Storage Concepts
+- Motherboard Concepts
 
 ---
 
@@ -497,6 +523,23 @@ Through these rooms, I have gained hands-on exposure to:
 - Authentication
 - Authorization
 - Responsible Cybersecurity Learning
+- Inside a Computer System
+- Computer Fundamentals
+- Computer Hardware
+- Hardware vs Software
+- CPU
+- RAM
+- Storage
+- HDD
+- SSD
+- Motherboard
+- BIOS
+- UEFI
+- Power Supply
+- Peripherals
+- Input Devices
+- Output Devices
+- Hardware Security Basics
 ---
 
 # ✍️ Hashnode Blog
