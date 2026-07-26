@@ -103,6 +103,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Computer Hardware Basics
 - System Components
 - Hardware and Software Relationship
+- Introductory Networking
+- OSI Model
+- TCP/IP Model
+- DNS Fundamentals
+- Network Troubleshooting Tools
 
 ---
 
@@ -124,6 +129,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 12 | Burp Suite: Repeater | Burp Suite, Repeater, Web Security | Easy | https://tryhackme.com/room/burpsuiterepeater | https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide | [Notes](./Burp-Suite-Repeater/) |
 | 13 | Offensive Security Intro | Offensive Security, Ethical Hacking Basics | Easy | https://tryhackme.com/room/offensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide | [Notes](./Offensive-Security-Intro/) |
 | 14 | Inside a Computer System | Computer Fundamentals, Hardware Basics | Easy | https://tryhackme.com/room/insideacomputer | https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide | [Notes](./Inside-a-Computer-System/) |
+| 15 | Introductory Networking | Networking, OSI Model, TCP/IP, DNS | Easy | https://tryhackme.com/room/introtonetworking | https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide | [Notes](./Introductory-Networking/) |
 
 ---
 
@@ -311,6 +317,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Peripheral and input/output device concepts
 - Hardware security awareness
 
+### Networking Fundamentals
+
+- Introductory networking concepts
+- OSI model fundamentals
+- TCP/IP model fundamentals
+- Encapsulation and decapsulation concepts
+- Ping usage concepts
+- Traceroute concepts
+- WHOIS lookup concepts
+- Dig and DNS query concepts
+- Network troubleshooting mindset
+- Cybersecurity networking foundation
+
 ### Tools
 
 - Nmap
@@ -373,6 +392,13 @@ Through these rooms, I have gained hands-on exposure to:
 - RAM Concepts
 - Storage Concepts
 - Motherboard Concepts
+- Ping
+- Traceroute
+- WHOIS
+- Dig
+- DNS Concepts
+- OSI Model Concepts
+- TCP/IP Concepts
 
 ---
 
@@ -540,6 +566,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Input Devices
 - Output Devices
 - Hardware Security Basics
+- Introductory Networking
+- Networking Fundamentals
+- OSI Model
+- TCP/IP Model
+- Encapsulation
+- Decapsulation
+- Ping
+- Traceroute
+- WHOIS
+- Dig
+- DNS
+- Network Troubleshooting
+- Network Security Basics
+  
 ---
 
 # ✍️ Hashnode Blog
