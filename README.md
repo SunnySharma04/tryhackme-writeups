@@ -108,6 +108,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - TCP/IP Model
 - DNS Fundamentals
 - Network Troubleshooting Tools
+- Pentesting Fundamentals
+- Penetration Testing Ethics
+- Security Assessment Methodologies
+- Rules of Engagement
 
 ---
 
@@ -130,6 +134,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 13 | Offensive Security Intro | Offensive Security, Ethical Hacking Basics | Easy | https://tryhackme.com/room/offensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide | [Notes](./Offensive-Security-Intro/) |
 | 14 | Inside a Computer System | Computer Fundamentals, Hardware Basics | Easy | https://tryhackme.com/room/insideacomputer | https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide | [Notes](./Inside-a-Computer-System/) |
 | 15 | Introductory Networking | Networking, OSI Model, TCP/IP, DNS | Easy | https://tryhackme.com/room/introtonetworking | https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide | [Notes](./Introductory-Networking/) |
+| 16 | Pentesting Fundamentals | Penetration Testing, Ethics, Methodologies | Easy | https://tryhackme.com/room/pentestingfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide | [Notes](./Pentesting-Fundamentals/) |
 
 ---
 
@@ -330,6 +335,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Network troubleshooting mindset
 - Cybersecurity networking foundation
 
+### Penetration Testing Fundamentals
+
+- Penetration testing fundamentals
+- Ethical hacking principles
+- Authorization and scope concepts
+- Rules of engagement awareness
+- Security assessment methodology
+- Black box testing concepts
+- White box testing concepts
+- Grey box testing concepts
+- Professional reporting mindset
+- Responsible penetration testing practices
+
 ### Tools
 
 - Nmap
@@ -399,6 +417,10 @@ Through these rooms, I have gained hands-on exposure to:
 - DNS Concepts
 - OSI Model Concepts
 - TCP/IP Concepts
+- Penetration Testing Concepts
+- Ethical Hacking Concepts
+- Security Assessment Concepts
+- Rules of Engagement Concepts
 
 ---
 
@@ -579,6 +601,20 @@ Through these rooms, I have gained hands-on exposure to:
 - DNS
 - Network Troubleshooting
 - Network Security Basics
+- Pentesting Fundamentals
+- Penetration Testing
+- Ethical Hacking
+- Penetration Testing Ethics
+- Authorization
+- Scope
+- Rules of Engagement
+- Penetration Testing Methodologies
+- Black Box Testing
+- White Box Testing
+- Grey Box Testing
+- Security Assessment
+- Responsible Disclosure
+- Professional Reporting
   
 ---
 
