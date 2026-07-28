@@ -112,6 +112,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Penetration Testing Ethics
 - Security Assessment Methodologies
 - Rules of Engagement
+- Vulnerability Research
+- Vulnerability Scoring
+- CVSS and VPR
+- CVE Databases
+- Vulnerability Management Basics
 
 ---
 
@@ -135,6 +140,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 14 | Inside a Computer System | Computer Fundamentals, Hardware Basics | Easy | https://tryhackme.com/room/insideacomputer | https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide | [Notes](./Inside-a-Computer-System/) |
 | 15 | Introductory Networking | Networking, OSI Model, TCP/IP, DNS | Easy | https://tryhackme.com/room/introtonetworking | https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide | [Notes](./Introductory-Networking/) |
 | 16 | Pentesting Fundamentals | Penetration Testing, Ethics, Methodologies | Easy | https://tryhackme.com/room/pentestingfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide | [Notes](./Pentesting-Fundamentals/) |
+| 17 | Vulnerabilities 101 | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | https://tryhackme.com/room/vulnerabilities101 | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide | [Notes](./Vulnerabilities-101/) |
 
 ---
 
@@ -348,6 +354,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Professional reporting mindset
 - Responsible penetration testing practices
 
+### Vulnerability Research & Management
+
+- Vulnerability fundamentals
+- Common vulnerability types
+- CVSS scoring concepts
+- VPR prioritization concepts
+- CVE awareness
+- Vulnerability database research
+- Vulnerability vs exploit understanding
+- Risk prioritization basics
+- Responsible vulnerability research
+- Defensive vulnerability management
+
 ### Tools
 
 - Nmap
@@ -421,6 +440,13 @@ Through these rooms, I have gained hands-on exposure to:
 - Ethical Hacking Concepts
 - Security Assessment Concepts
 - Rules of Engagement Concepts
+- CVSS Concepts
+- VPR Concepts
+- CVE Concepts
+- Vulnerability Databases
+- NVD Concepts
+- Exploit-DB Concepts
+- Vulnerability Research Concepts
 
 ---
 
@@ -615,6 +641,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Security Assessment
 - Responsible Disclosure
 - Professional Reporting
+- Vulnerabilities 101
+- Vulnerabilities
+- Vulnerability Research
+- CVSS
+- VPR
+- CVE
+- Vulnerability Databases
+- NVD
+- Exploit Database
+- Vulnerability Scoring
+- Vulnerability Management
+- Risk Prioritization
+- Vulnerability vs Exploit
+- Responsible Security Research
   
 ---
 
