@@ -117,6 +117,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - CVSS and VPR
 - CVE Databases
 - Vulnerability Management Basics
+- OWASP Top 10 2025
+- IAAA Security Model
+- Broken Access Control
+- Authentication Failures
+- Logging and Alerting Failures
 
 ---
 
@@ -141,6 +146,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 15 | Introductory Networking | Networking, OSI Model, TCP/IP, DNS | Easy | https://tryhackme.com/room/introtonetworking | https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide | [Notes](./Introductory-Networking/) |
 | 16 | Pentesting Fundamentals | Penetration Testing, Ethics, Methodologies | Easy | https://tryhackme.com/room/pentestingfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide | [Notes](./Pentesting-Fundamentals/) |
 | 17 | Vulnerabilities 101 | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | https://tryhackme.com/room/vulnerabilities101 | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide | [Notes](./Vulnerabilities-101/) |
+| 18 | OWASP Top 10 2025: IAAA Failures | OWASP Top 10, IAAA, Web Security | Easy | https://tryhackme.com/room/owasptopten2025one | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
 
 ---
 
@@ -367,6 +373,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Responsible vulnerability research
 - Defensive vulnerability management
 
+### OWASP Top 10 & IAAA Failures
+
+- OWASP Top 10 2025 awareness
+- IAAA security model fundamentals
+- Identity concepts
+- Authentication security concepts
+- Authorization and access control concepts
+- Accountability through logging and monitoring
+- Broken Access Control awareness
+- Authentication Failure awareness
+- Logging and Alerting Failure awareness
+- Secure web application design mindset
+- Defensive monitoring awareness
+
 ### Tools
 
 - Nmap
@@ -447,6 +467,11 @@ Through these rooms, I have gained hands-on exposure to:
 - NVD Concepts
 - Exploit-DB Concepts
 - Vulnerability Research Concepts
+- OWASP Top 10 Concepts
+- IAAA Model Concepts
+- Access Control Concepts
+- Authentication Security Concepts
+- Logging and Alerting Concepts
 
 ---
 
@@ -655,6 +680,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Risk Prioritization
 - Vulnerability vs Exploit
 - Responsible Security Research
+- OWASP Top 10 2025
+- IAAA Failures
+- Identity
+- Authentication
+- Authorization
+- Accountability
+- Broken Access Control
+- Authentication Failures
+- Logging and Alerting Failures
+- Web Application Security
+- Access Control
+- Secure Authentication
+- Security Logging
+- Security Alerting
+- Defensive Monitoring
   
 ---
 
