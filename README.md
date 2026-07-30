@@ -122,6 +122,13 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Broken Access Control
 - Authentication Failures
 - Logging and Alerting Failures
+- OWASP Top 10 2025
+- Application Design Flaws
+- Security Misconfigurations
+- Software Supply Chain Security
+- Cryptographic Failures
+- Insecure Design
+- Secure Application Architecture
 
 ---
 
@@ -147,6 +154,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 16 | Pentesting Fundamentals | Penetration Testing, Ethics, Methodologies | Easy | https://tryhackme.com/room/pentestingfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide | [Notes](./Pentesting-Fundamentals/) |
 | 17 | Vulnerabilities 101 | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | https://tryhackme.com/room/vulnerabilities101 | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide | [Notes](./Vulnerabilities-101/) |
 | 18 | OWASP Top 10 2025: IAAA Failures | OWASP Top 10, IAAA, Web Security | Easy | https://tryhackme.com/room/owasptopten2025one | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
+| 19 | OWASP Top 10 2025: Application Design Flaws | OWASP Top 10, Application Security, Secure Design | Easy | https://tryhackme.com/room/owasptopten2025two | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
 
 ---
 
@@ -387,6 +395,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Secure web application design mindset
 - Defensive monitoring awareness
 
+### OWASP Top 10 & Application Design Flaws
+
+- OWASP Top 10 2025 awareness
+- Application design flaw concepts
+- Security misconfiguration awareness
+- Software supply chain security basics
+- Dependency verification concepts
+- Cryptographic failure awareness
+- Secure encryption and hashing awareness
+- Key management concepts
+- Insecure design awareness
+- Threat modelling basics
+- Secure application design mindset
+
 ### Tools
 
 - Nmap
@@ -472,6 +494,13 @@ Through these rooms, I have gained hands-on exposure to:
 - Access Control Concepts
 - Authentication Security Concepts
 - Logging and Alerting Concepts
+- OWASP Top 10 Concepts
+- Application Security Concepts
+- Secure Design Concepts
+- Security Misconfiguration Concepts
+- Software Supply Chain Security Concepts
+- Cryptographic Security Concepts
+- Threat Modelling Concepts
 
 ---
 
@@ -695,6 +724,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Security Logging
 - Security Alerting
 - Defensive Monitoring
+- OWASP Top 10 2025
+- Application Design Flaws
+- Security Misconfigurations
+- Software Supply Chain Failures
+- Cryptographic Failures
+- Insecure Design
+- Secure Application Design
+- Secure Configuration
+- Dependency Security
+- Supply Chain Security
+- Encryption
+- Hashing
+- Key Management
+- Threat Modelling
+- Secure Development Lifecycle
   
 ---
 
