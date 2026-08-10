@@ -129,6 +129,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Cryptographic Failures
 - Insecure Design
 - Secure Application Architecture
+- OWASP Top 10 2025
+- Insecure Data Handling
+- Cryptographic Failures
+- Injection
+- Software or Data Integrity Failures
+- Secure Data Handling
 
 ---
 
@@ -155,6 +161,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 17 | Vulnerabilities 101 | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | https://tryhackme.com/room/vulnerabilities101 | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide | [Notes](./Vulnerabilities-101/) |
 | 18 | OWASP Top 10 2025: IAAA Failures | OWASP Top 10, IAAA, Web Security | Easy | https://tryhackme.com/room/owasptopten2025one | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
 | 19 | OWASP Top 10 2025: Application Design Flaws | OWASP Top 10, Application Security, Secure Design | Easy | https://tryhackme.com/room/owasptopten2025two | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
+| 20 | OWASP Top 10 2025: Insecure Data Handling | OWASP Top 10, Data Security, Web Security | Easy | https://tryhackme.com/room/owasptopten2025three | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
 
 ---
 
@@ -409,6 +416,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Threat modelling basics
 - Secure application design mindset
 
+### OWASP Top 10 & Insecure Data Handling
+
+- OWASP Top 10 2025 awareness
+- Insecure data handling concepts
+- Cryptographic failure awareness
+- Encryption and hashing fundamentals
+- Key management awareness
+- Injection concepts
+- Input validation awareness
+- Software integrity concepts
+- Data integrity concepts
+- Secure coding mindset
+- Defensive monitoring awareness
+
 ### Tools
 
 - Nmap
@@ -501,6 +522,13 @@ Through these rooms, I have gained hands-on exposure to:
 - Software Supply Chain Security Concepts
 - Cryptographic Security Concepts
 - Threat Modelling Concepts
+- OWASP Top 10 Concepts
+- Data Security Concepts
+- Cryptographic Security Concepts
+- Injection Concepts
+- Software Integrity Concepts
+- Data Integrity Concepts
+- Secure Coding Concepts
 
 ---
 
@@ -739,6 +767,23 @@ Through these rooms, I have gained hands-on exposure to:
 - Key Management
 - Threat Modelling
 - Secure Development Lifecycle
+- OWASP Top 10 2025
+- Insecure Data Handling
+- Cryptographic Failures
+- Injection
+- Software or Data Integrity Failures
+- Data Security
+- Secure Data Handling
+- Encryption
+- Hashing
+- Key Management
+- Input Validation
+- Parameterized Queries
+- Software Integrity
+- Data Integrity
+- Insecure Deserialization Concepts
+- Secure Coding
+- Defensive Monitoring
   
 ---
 
