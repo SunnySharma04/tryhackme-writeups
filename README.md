@@ -135,6 +135,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Injection
 - Software or Data Integrity Failures
 - Secure Data Handling
+- IDOR
+- Broken Access Control
+- Web Authorization
+- Object Reference Security
+- Secure Access Control
 
 ---
 
@@ -162,6 +167,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 18 | OWASP Top 10 2025: IAAA Failures | OWASP Top 10, IAAA, Web Security | Easy | https://tryhackme.com/room/owasptopten2025one | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
 | 19 | OWASP Top 10 2025: Application Design Flaws | OWASP Top 10, Application Security, Secure Design | Easy | https://tryhackme.com/room/owasptopten2025two | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
 | 20 | OWASP Top 10 2025: Insecure Data Handling | OWASP Top 10, Data Security, Web Security | Easy | https://tryhackme.com/room/owasptopten2025three | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
+| 21 | Corridor | IDOR, Broken Access Control, Web Security | Easy | https://tryhackme.com/room/corridor | https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide | [Notes](./Corridor/) |
 
 ---
 
@@ -430,6 +436,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Secure coding mindset
 - Defensive monitoring awareness
 
+### IDOR & Broken Access Control
+
+- IDOR fundamentals
+- Broken access control concepts
+- Object reference security
+- URL endpoint analysis concepts
+- Server-side authorization awareness
+- Secure access control practices
+- API authorization awareness
+- OWASP Broken Access Control awareness
+- Defensive monitoring for suspicious access patterns
+- Responsible web security testing
+
 ### Tools
 
 - Nmap
@@ -529,6 +548,11 @@ Through these rooms, I have gained hands-on exposure to:
 - Software Integrity Concepts
 - Data Integrity Concepts
 - Secure Coding Concepts
+- IDOR Concepts
+- Broken Access Control Concepts
+- Web Authorization Concepts
+- Access Control Concepts
+- OWASP Access Control Concepts
 
 ---
 
@@ -784,6 +808,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Insecure Deserialization Concepts
 - Secure Coding
 - Defensive Monitoring
+- Corridor
+- IDOR
+- Insecure Direct Object Reference
+- Broken Access Control
+- Object References
+- URL Endpoints
+- Hash-Like Identifiers
+- Security Through Obscurity
+- Server-Side Authorization
+- Access Control
+- API Authorization
+- OWASP Broken Access Control
+- Secure Web Application Design
   
 ---
 
