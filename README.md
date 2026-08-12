@@ -140,6 +140,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Web Authorization
 - Object Reference Security
 - Secure Access Control
+- Vulnversity
+- Active Reconnaissance
+- Web Application Enumeration
+- Directory Discovery
+- Privilege Escalation Basics
 
 ---
 
@@ -168,6 +173,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 19 | OWASP Top 10 2025: Application Design Flaws | OWASP Top 10, Application Security, Secure Design | Easy | https://tryhackme.com/room/owasptopten2025two | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
 | 20 | OWASP Top 10 2025: Insecure Data Handling | OWASP Top 10, Data Security, Web Security | Easy | https://tryhackme.com/room/owasptopten2025three | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
 | 21 | Corridor | IDOR, Broken Access Control, Web Security | Easy | https://tryhackme.com/room/corridor | https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide | [Notes](./Corridor/) |
+| 22 | Vulnversity | Reconnaissance, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/vulnversity | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide | [Notes](./Vulnversity/) |
 
 ---
 
@@ -449,6 +455,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Defensive monitoring for suspicious access patterns
 - Responsible web security testing
 
+### Vulnversity & Practical Pentesting Flow
+
+- Active reconnaissance concepts
+- Service enumeration awareness
+- Web application enumeration
+- Directory discovery methodology
+- Gobuster concepts
+- Web server security basics
+- Initial access methodology
+- Linux privilege escalation concepts
+- Least privilege awareness
+- Defensive monitoring for attack paths
+
 ### Tools
 
 - Nmap
@@ -553,6 +572,11 @@ Through these rooms, I have gained hands-on exposure to:
 - Web Authorization Concepts
 - Access Control Concepts
 - OWASP Access Control Concepts
+- Gobuster Concepts
+- Active Reconnaissance Concepts
+- Service Enumeration Concepts
+- Web Application Enumeration Concepts
+- Privilege Escalation Concepts
 
 ---
 
@@ -821,6 +845,20 @@ Through these rooms, I have gained hands-on exposure to:
 - API Authorization
 - OWASP Broken Access Control
 - Secure Web Application Design
+- Vulnversity
+- Active Reconnaissance
+- Service Enumeration
+- Web Application Enumeration
+- Directory Discovery
+- Gobuster
+- Web Server Security
+- File Upload Security
+- Initial Access Concepts
+- Privilege Escalation
+- Linux Privilege Escalation
+- Least Privilege
+- Defensive Monitoring
+- Responsible Penetration Testing
   
 ---
 
