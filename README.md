@@ -145,6 +145,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Web Application Enumeration
 - Directory Discovery
 - Privilege Escalation Basics
+- Passive Reconnaissance
+- OSINT
+- WHOIS Lookup
+- DNS Reconnaissance
+- Shodan
+- External Attack Surface Awareness
 
 ---
 
@@ -174,6 +180,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 20 | OWASP Top 10 2025: Insecure Data Handling | OWASP Top 10, Data Security, Web Security | Easy | https://tryhackme.com/room/owasptopten2025three | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
 | 21 | Corridor | IDOR, Broken Access Control, Web Security | Easy | https://tryhackme.com/room/corridor | https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide | [Notes](./Corridor/) |
 | 22 | Vulnversity | Reconnaissance, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/vulnversity | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide | [Notes](./Vulnversity/) |
+| 23 | Passive Reconnaissance | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | https://tryhackme.com/room/passiverecon | https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide | [Notes](./Passive-Reconnaissance/) |
 
 ---
 
@@ -468,6 +475,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Least privilege awareness
 - Defensive monitoring for attack paths
 
+### Passive Reconnaissance & OSINT
+
+- Passive reconnaissance fundamentals
+- Passive vs active reconnaissance understanding
+- OSINT methodology
+- WHOIS lookup concepts
+- DNS record investigation
+- nslookup concepts
+- dig concepts
+- DNSDumpster usage concepts
+- Shodan.io awareness
+- External attack surface awareness
+- Defensive exposure review
+
 ### Tools
 
 - Nmap
@@ -577,6 +598,14 @@ Through these rooms, I have gained hands-on exposure to:
 - Service Enumeration Concepts
 - Web Application Enumeration Concepts
 - Privilege Escalation Concepts
+- WHOIS
+- nslookup
+- dig
+- DNSDumpster
+- Shodan.io
+- DNS Reconnaissance Concepts
+- OSINT Concepts
+- Passive Reconnaissance Concepts
 
 ---
 
@@ -859,6 +888,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Least Privilege
 - Defensive Monitoring
 - Responsible Penetration Testing
+- Passive Reconnaissance
+- OSINT
+- Passive vs Active Reconnaissance
+- WHOIS
+- DNS
+- DNS Records
+- nslookup
+- dig
+- DNSDumpster
+- Shodan
+- Subdomain Discovery
+- External Attack Surface
+- Public Information Gathering
+- Threat Intelligence Basics
+- Responsible Reconnaissance
   
 ---
 
