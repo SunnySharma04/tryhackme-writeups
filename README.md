@@ -151,6 +151,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - DNS Reconnaissance
 - Shodan
 - External Attack Surface Awareness
+- Active Reconnaissance
+- Browser-Based Reconnaissance
+- Network Reachability Testing
+- Service Interaction
+- Network Troubleshooting Tools
 
 ---
 
@@ -181,6 +186,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 21 | Corridor | IDOR, Broken Access Control, Web Security | Easy | https://tryhackme.com/room/corridor | https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide | [Notes](./Corridor/) |
 | 22 | Vulnversity | Reconnaissance, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/vulnversity | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide | [Notes](./Vulnversity/) |
 | 23 | Passive Reconnaissance | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | https://tryhackme.com/room/passiverecon | https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide | [Notes](./Passive-Reconnaissance/) |
+| 24 | Active Reconnaissance | Active Reconnaissance, Networking, Service Interaction | Easy | https://tryhackme.com/room/activerecon | https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide | [Notes](./Active-Reconnaissance/) |
 
 ---
 
@@ -489,6 +495,19 @@ Through these rooms, I have gained hands-on exposure to:
 - External attack surface awareness
 - Defensive exposure review
 
+### Active Reconnaissance & Network Interaction
+
+- Active reconnaissance fundamentals
+- Passive vs active reconnaissance understanding
+- Web browser reconnaissance concepts
+- Browser Developer Tools awareness
+- Ping reachability testing concepts
+- Traceroute path discovery concepts
+- Telnet service interaction concepts
+- Netcat network communication concepts
+- Service response analysis awareness
+- Defensive monitoring for reconnaissance activity
+
 ### Tools
 
 - Nmap
@@ -606,6 +625,14 @@ Through these rooms, I have gained hands-on exposure to:
 - DNS Reconnaissance Concepts
 - OSINT Concepts
 - Passive Reconnaissance Concepts
+- Web Browser
+- Browser Developer Tools
+- Ping
+- Traceroute
+- Telnet
+- Netcat
+- Active Reconnaissance Concepts
+- Network Troubleshooting Concepts
 
 ---
 
@@ -903,6 +930,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Public Information Gathering
 - Threat Intelligence Basics
 - Responsible Reconnaissance
+- Active Reconnaissance
+- Passive vs Active Reconnaissance
+- Web Browser Reconnaissance
+- Browser Developer Tools
+- HTTP Headers
+- Ping
+- ICMP
+- Traceroute
+- Network Path Discovery
+- Telnet
+- Netcat
+- Service Interaction
+- Network Connections
+- Responsible Reconnaissance
+- Defensive Monitoring
   
 ---
 
