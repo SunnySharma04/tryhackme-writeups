@@ -156,6 +156,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Network Reachability Testing
 - Service Interaction
 - Network Troubleshooting Tools
+- Basic Pentesting
+- Web Application Testing
+- Service Enumeration
+- Authentication Security
+- Linux Enumeration
+- Privilege Escalation Basics
 
 ---
 
@@ -187,6 +193,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 22 | Vulnversity | Reconnaissance, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/vulnversity | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide | [Notes](./Vulnversity/) |
 | 23 | Passive Reconnaissance | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | https://tryhackme.com/room/passiverecon | https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide | [Notes](./Passive-Reconnaissance/) |
 | 24 | Active Reconnaissance | Active Reconnaissance, Networking, Service Interaction | Easy | https://tryhackme.com/room/activerecon | https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide | [Notes](./Active-Reconnaissance/) |
+| 25 | Basic Pentesting | Penetration Testing, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/basicpentestingjt | https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide | [Notes](./Basic-Pentesting/) |
 
 ---
 
@@ -508,6 +515,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Service response analysis awareness
 - Defensive monitoring for reconnaissance activity
 
+### Basic Pentesting & Enumeration
+
+- Basic penetration testing methodology
+- Web application testing concepts
+- Service enumeration awareness
+- Directory discovery concepts
+- Authentication security awareness
+- Brute-force attack awareness
+- Hash cracking concepts
+- Remote access security awareness
+- Linux enumeration concepts
+- Privilege escalation basics
+- Defensive security mindset
+
 ### Tools
 
 - Nmap
@@ -633,6 +654,13 @@ Through these rooms, I have gained hands-on exposure to:
 - Netcat
 - Active Reconnaissance Concepts
 - Network Troubleshooting Concepts
+- Web Application Testing Concepts
+- Service Enumeration Concepts
+- Directory Discovery Concepts
+- Authentication Security Concepts
+- Hash Cracking Concepts
+- Linux Enumeration Concepts
+- Privilege Escalation Concepts
 
 ---
 
@@ -945,6 +973,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Network Connections
 - Responsible Reconnaissance
 - Defensive Monitoring
+- Basic Pentesting
+- Penetration Testing
+- Web Application Testing
+- Service Enumeration
+- Directory Discovery
+- Authentication Security
+- Brute-Force Awareness
+- Hash Cracking Concepts
+- Remote Access Security
+- Linux Enumeration
+- Privilege Escalation
+- Least Privilege
+- Defensive Monitoring
+- Responsible Penetration Testing
   
 ---
 
