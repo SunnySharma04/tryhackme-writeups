@@ -162,6 +162,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Authentication Security
 - Linux Enumeration
 - Privilege Escalation Basics
+- Simple CTF
+- CTF Methodology
+- Service Enumeration
+- Vulnerability Research
+- Linux Enumeration
+- Privilege Escalation Basics
 
 ---
 
@@ -194,6 +200,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 23 | Passive Reconnaissance | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | https://tryhackme.com/room/passiverecon | https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide | [Notes](./Passive-Reconnaissance/) |
 | 24 | Active Reconnaissance | Active Reconnaissance, Networking, Service Interaction | Easy | https://tryhackme.com/room/activerecon | https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide | [Notes](./Active-Reconnaissance/) |
 | 25 | Basic Pentesting | Penetration Testing, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/basicpentestingjt | https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide | [Notes](./Basic-Pentesting/) |
+| 26 | Simple CTF | CTF, Enumeration, Linux, Privilege Escalation | Easy | https://tryhackme.com/room/easyctf | https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide | [Notes](./Simple-CTF/) |
 
 ---
 
@@ -529,6 +536,20 @@ Through these rooms, I have gained hands-on exposure to:
 - Privilege escalation basics
 - Defensive security mindset
 
+### CTF Methodology & Linux Enumeration
+
+- Beginner CTF methodology
+- Reconnaissance concepts
+- Service enumeration awareness
+- Web application analysis concepts
+- Vulnerability research awareness
+- CVE awareness
+- Authentication security concepts
+- Linux enumeration basics
+- Privilege escalation concepts
+- Least privilege awareness
+- Defensive security mindset
+
 ### Tools
 
 - Nmap
@@ -659,6 +680,14 @@ Through these rooms, I have gained hands-on exposure to:
 - Directory Discovery Concepts
 - Authentication Security Concepts
 - Hash Cracking Concepts
+- Linux Enumeration Concepts
+- Privilege Escalation Concepts
+- CTF Methodology Concepts
+- Reconnaissance Concepts
+- Service Enumeration Concepts
+- Web Application Analysis Concepts
+- Vulnerability Research Concepts
+- CVE Concepts
 - Linux Enumeration Concepts
 - Privilege Escalation Concepts
 
@@ -987,6 +1016,21 @@ Through these rooms, I have gained hands-on exposure to:
 - Least Privilege
 - Defensive Monitoring
 - Responsible Penetration Testing
+- Simple CTF
+- Capture The Flag
+- CTF Methodology
+- Reconnaissance
+- Service Enumeration
+- Web Application Analysis
+- Directory Discovery Concepts
+- Vulnerability Research
+- CVE Awareness
+- Authentication Security
+- Linux Enumeration
+- Privilege Escalation
+- Least Privilege
+- Defensive Monitoring
+- Responsible Security Learning
   
 ---
 
