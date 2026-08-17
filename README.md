@@ -168,6 +168,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Vulnerability Research
 - Linux Enumeration
 - Privilege Escalation Basics
+- RootMe
+- CTF Methodology
+- Web Application Enumeration
+- File Upload Security
+- Linux Enumeration
+- Privilege Escalation Basics
 
 ---
 
@@ -201,6 +207,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 24 | Active Reconnaissance | Active Reconnaissance, Networking, Service Interaction | Easy | https://tryhackme.com/room/activerecon | https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide | [Notes](./Active-Reconnaissance/) |
 | 25 | Basic Pentesting | Penetration Testing, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/basicpentestingjt | https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide | [Notes](./Basic-Pentesting/) |
 | 26 | Simple CTF | CTF, Enumeration, Linux, Privilege Escalation | Easy | https://tryhackme.com/room/easyctf | https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide | [Notes](./Simple-CTF/) |
+| 27 | RootMe | CTF, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/rrootme | https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide | [Notes](./RootMe/) |
 
 ---
 
@@ -550,6 +557,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Least privilege awareness
 - Defensive security mindset
 
+### RootMe & Web-to-Linux CTF Flow
+
+- Beginner CTF methodology
+- Reconnaissance concepts
+- Web application enumeration
+- Directory discovery concepts
+- File upload security awareness
+- Shell access concepts
+- Linux enumeration basics
+- Privilege escalation concepts
+- Least privilege awareness
+- Defensive monitoring mindset
+
 ### Tools
 
 - Nmap
@@ -688,6 +708,14 @@ Through these rooms, I have gained hands-on exposure to:
 - Web Application Analysis Concepts
 - Vulnerability Research Concepts
 - CVE Concepts
+- Linux Enumeration Concepts
+- Privilege Escalation Concepts
+- CTF Methodology Concepts
+- Reconnaissance Concepts
+- Web Enumeration Concepts
+- Directory Discovery Concepts
+- File Upload Security Concepts
+- Shell Access Concepts
 - Linux Enumeration Concepts
 - Privilege Escalation Concepts
 
@@ -1026,6 +1054,19 @@ Through these rooms, I have gained hands-on exposure to:
 - Vulnerability Research
 - CVE Awareness
 - Authentication Security
+- Linux Enumeration
+- Privilege Escalation
+- Least Privilege
+- Defensive Monitoring
+- Responsible Security Learning
+- RootMe
+- Capture The Flag
+- CTF Methodology
+- Reconnaissance
+- Web Application Enumeration
+- Directory Discovery
+- File Upload Security
+- Getting a Shell Concepts
 - Linux Enumeration
 - Privilege Escalation
 - Least Privilege
