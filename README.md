@@ -4,11 +4,11 @@ Welcome! 👋
 
 This repository documents my **ongoing cybersecurity learning journey** through **TryHackMe**. It contains beginner-friendly learning notes, room summaries, key concepts, and practical takeaways from the rooms I complete.
 
-> **Note:** I do **not** share flags, direct answers, passwords, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
+> **Note:** I do **not** share flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
 
 ---
 
-# 🎯 About
+## 🎯 About
 
 This repository serves as my public cybersecurity learning portfolio.
 
@@ -20,34 +20,33 @@ For every TryHackMe room I complete, I follow a structured learning process:
 - 💻 Maintain organized GitHub notes
 - 🌐 Share my learning journey on LinkedIn
 
-This approach helps reinforce my understanding while building a consistent public portfolio.
+This approach helps me reinforce my understanding while building a consistent portfolio around practical cybersecurity learning, documentation, and defensive security thinking.
 
 ---
 
-# 💡 Why This Repository?
+## 💡 Why This Repository?
 
-This repository serves as my personal cybersecurity knowledge base and public learning portfolio.
-
-Every room I complete is documented with:
+Every completed room is documented with:
 
 - Structured notes
+- Room summaries
 - Key concepts
 - Practical takeaways
 - Defensive security insights
 - Beginner-friendly explanations
 
-The goal is to continuously improve my cybersecurity knowledge while creating a resource that demonstrates my learning process and technical documentation skills.
+The goal is to continuously improve my cybersecurity knowledge while creating a resource that demonstrates my learning process, technical documentation skills, and ethical security mindset.
 
 ---
 
-# 🎯 TryHackMe Profile
+## 🎯 TryHackMe Profile
 
 **Profile:**  
 https://tryhackme.com/p/sunnysharma11200
 
 ---
 
-# 🚀 Current Learning Status
+## 🚀 Current Learning Status
 
 I am currently upskilling in cybersecurity by completing TryHackMe rooms and documenting everything I learn.
 
@@ -55,129 +54,22 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 
 - Cybersecurity Fundamentals
 - Networking Fundamentals
-- Nmap
 - Web Application Security
-- HTTP Fundamentals
 - Linux Fundamentals
-- OSINT
-- Defensive Security
-- Ethical Hacking Basics
-- Authentication Security
-- Password Auditing
-- Metasploit Framework
-- Penetration Testing Basics
-- SOC Fundamentals
-- Blue Team Security
-- Security Monitoring
-- Incident Response Basics
-- Web Application Security Testing
-- OWASP ZAP
-- Automated Scanning
-- Manual Web Testing
-- SOC Analyst Roles
-- Blue Team Career Path
-- Security Team Hierarchy
-- Incident Response Collaboration
-- VPN Connectivity
-- OpenVPN
-- Secure Lab Access
-- Network Troubleshooting
-- Defensive Security
-- Blue Team Fundamentals
-- Security Monitoring
-- Attack Detection
-- Incident Response
-- SQL Injection
-- Web Application Security
-- Database Security
-- Secure Coding Basics
-- Burp Suite
-- Burp Suite Repeater
-- Manual Web Application Testing
-- HTTP Request and Response Analysis
-- Offensive Security Basics
-- Ethical Hacking Fundamentals
-- Web Reconnaissance Basics
-- Safe Lab Practice
-- Computer Fundamentals
-- Computer Hardware Basics
-- System Components
-- Hardware and Software Relationship
-- Introductory Networking
-- OSI Model
-- TCP/IP Model
-- DNS Fundamentals
-- Network Troubleshooting Tools
-- Pentesting Fundamentals
-- Penetration Testing Ethics
-- Security Assessment Methodologies
-- Rules of Engagement
-- Vulnerability Research
-- Vulnerability Scoring
-- CVSS and VPR
-- CVE Databases
-- Vulnerability Management Basics
-- OWASP Top 10 2025
-- IAAA Security Model
-- Broken Access Control
-- Authentication Failures
-- Logging and Alerting Failures
-- OWASP Top 10 2025
-- Application Design Flaws
-- Security Misconfigurations
-- Software Supply Chain Security
-- Cryptographic Failures
-- Insecure Design
-- Secure Application Architecture
-- OWASP Top 10 2025
-- Insecure Data Handling
-- Cryptographic Failures
-- Injection
-- Software or Data Integrity Failures
-- Secure Data Handling
-- IDOR
-- Broken Access Control
-- Web Authorization
-- Object Reference Security
-- Secure Access Control
-- Vulnversity
-- Active Reconnaissance
-- Web Application Enumeration
-- Directory Discovery
-- Privilege Escalation Basics
-- Passive Reconnaissance
-- OSINT
-- WHOIS Lookup
-- DNS Reconnaissance
-- Shodan
-- External Attack Surface Awareness
-- Active Reconnaissance
-- Browser-Based Reconnaissance
-- Network Reachability Testing
-- Service Interaction
-- Network Troubleshooting Tools
-- Basic Pentesting
-- Web Application Testing
-- Service Enumeration
-- Authentication Security
-- Linux Enumeration
-- Privilege Escalation Basics
-- Simple CTF
+- OSINT and Reconnaissance
+- Authentication and Password Security
+- Penetration Testing Methodology
 - CTF Methodology
-- Service Enumeration
-- Vulnerability Research
-- Linux Enumeration
+- Vulnerability Research and Management
+- OWASP Top 10 Concepts
+- SOC and Blue Team Fundamentals
+- Defensive Security and Incident Response
 - Privilege Escalation Basics
-- RootMe
-- CTF Methodology
-- Web Application Enumeration
-- File Upload Security
-- Linux Enumeration
-- Privilege Escalation Basics
+- Responsible Security Documentation
 
 ---
 
-# 📚 Rooms Completed
+## 📚 Rooms Completed
 
 | No. | Room | Topic | Difficulty | TryHackMe Room | Blog | Notes |
 |---|---|---|---|---|---|---|
@@ -208,884 +100,244 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 25 | Basic Pentesting | Penetration Testing, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/basicpentestingjt | https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide | [Notes](./Basic-Pentesting/) |
 | 26 | Simple CTF | CTF, Enumeration, Linux, Privilege Escalation | Easy | https://tryhackme.com/room/easyctf | https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide | [Notes](./Simple-CTF/) |
 | 27 | RootMe | CTF, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/rrootme | https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide | [Notes](./RootMe/) |
+| 28 | Pickle Rick | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | https://tryhackme.com/room/picklerick | https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide | [Notes](./Pickle-Rick/) |
 
 ---
 
-# 🛠 Skills Gained
+## 🛠 Skills Gained
 
-Through these rooms, I have gained hands-on exposure to:
+Through these rooms, I have gained hands-on exposure to the following areas:
 
-### Cybersecurity Fundamentals
+### Cybersecurity Foundations
 
-- Open Source Intelligence (OSINT)
-- Security Research
-- Technical Documentation
-- Learning Methodology
-- Ethical Hacking Mindset
-- Defensive Security Thinking
-
-### Networking
-
-- TCP/IP Fundamentals
-- IP Addressing
-- Subnetting
-- Host Discovery
-- ARP
-- ICMP
-- TCP & UDP Discovery
-- Reverse DNS Lookup
-
-### Web Technologies
-
-- Web Applications
-- HTTP Protocol
-- URLs
-- HTTP Methods
-- Request & Response Headers
-- Status Codes
-- Security Headers
-
-### Authentication & Password Security
-
-- Authentication Security
-- Password Auditing
-- Hydra
-- Dictionary Attacks
-- Brute Force Concepts
-- Password Security Best Practices
-- Multi-Factor Authentication (MFA)
-- Account Lockout Mechanisms
-- Login Rate Limiting
-- Credential Security
-- Responsible Use of Security Tools
-- Ethical Password Testing
-
-### Metasploit & Security Testing
-
-- Metasploit Framework Basics
-- Understanding msfconsole
-- Metasploit Module Structure
-- Exploit and Payload Concepts
-- Auxiliary Modules
-- Post-Exploitation Concepts
-- Vulnerability Validation
-- Penetration Testing Methodology
-- Responsible Use of Offensive Security Tools
-- Defensive Value of Understanding Attacker Tools
-
-### SOC & Defensive Security
-
-- Security Operations Center fundamentals
-- SOC team structure
-- People, process, and technology in SOC operations
-- Alert triage basics
-- Incident response basics
-- Security monitoring
-- SIEM concepts
-- EDR concepts
-- IDS and IPS concepts
-- Threat intelligence concepts
-- SOC analyst mindset
-- Defensive security operations
-
-### Web Application Security Testing
-
-- OWASP ZAP fundamentals
-- Intercepting proxy concepts
-- Automated scanning concepts
-- Manual web application testing
-- Authenticated scanning concepts
-- Directory discovery methodology
-- Web login security concepts
-- Understanding scanner limitations
-- Responsible web application security testing
-- Defensive web security controls
-
-### SOC Roles & Blue Team Career
-
-- Understanding SOC roles in Blue Team operations
-- Security hierarchy fundamentals
-- SOC Level 1 analyst responsibilities
-- SOC Level 2 analyst responsibilities
-- SOC Level 3 analyst responsibilities
-- Incident response collaboration
-- Threat intelligence support
-- Digital forensics awareness
-- GRC awareness
-- SOC career progression
-- Blue Team communication and documentation
-
-### VPN Connectivity & Lab Access
-
-- OpenVPN fundamentals
-- VPN connectivity basics
-- TryHackMe lab access setup
-- Secure connection verification
-- Basic network troubleshooting
-- Windows VPN connection concepts
-- macOS VPN connection concepts
-- Linux VPN connection concepts
-- Safe handling of VPN configuration files
-- Responsible cybersecurity lab usage
-
-### Defensive Security Fundamentals
-
-- Defensive security fundamentals
-- Blue team thinking
-- Suspicious activity detection
-- Security monitoring basics
-- Log analysis concepts
-- Attack identification methodology
-- Incident response basics
-- Threat containment concepts
-- Recovery concepts
-- Lessons learned after incidents
-
-### SQL Injection & Database Security
-
-- Database fundamentals
-- SQL basics
-- SQL Injection concepts
-- In-band SQL Injection
-- Blind SQL Injection
-- Boolean-based SQLi concepts
-- Time-based SQLi concepts
-- Out-of-band SQLi concepts
-- Authentication security risks
-- SQL Injection remediation
-- Parameterized query awareness
-- Secure coding practices
-- Database least privilege principles
-
-### Burp Suite & Manual Web Testing
-
-- Burp Suite Repeater fundamentals
-- Manual HTTP request testing
-- HTTP response analysis
-- Request modification concepts
-- Message analysis toolbar usage
-- Inspector concepts
-- Parameter, header, and cookie analysis
-- Web application behavior testing
-- Manual security testing methodology
-- Responsible web application testing
-
-### Offensive Security Basics
-
-- Offensive security fundamentals
 - Ethical hacking mindset
 - Safe lab practice
-- Web application reconnaissance concepts
-- Hidden page discovery concepts
-- Admin page security concepts
-- Authentication and authorization basics
-- Responsible cybersecurity learning
+- Technical documentation
+- Responsible disclosure awareness
+- Learning-in-public portfolio building
+- Defensive security thinking
 
-### Computer Fundamentals
+### Networking and Connectivity
 
-- Computer system fundamentals
-- Hardware and software concepts
-- CPU fundamentals
-- RAM and temporary memory concepts
-- Storage concepts
-- HDD and SSD basics
-- Motherboard fundamentals
-- BIOS and UEFI awareness
-- Power supply basics
-- Peripheral and input/output device concepts
-- Hardware security awareness
+- TCP/IP fundamentals
+- OSI model concepts
+- IP addressing and subnetting basics
+- Host discovery methodology
+- DNS investigation concepts
+- VPN connectivity with OpenVPN
+- Network troubleshooting with ping and traceroute
 
-### Networking Fundamentals
+### Reconnaissance and OSINT
 
-- Introductory networking concepts
-- OSI model fundamentals
-- TCP/IP model fundamentals
-- Encapsulation and decapsulation concepts
-- Ping usage concepts
-- Traceroute concepts
-- WHOIS lookup concepts
-- Dig and DNS query concepts
-- Network troubleshooting mindset
-- Cybersecurity networking foundation
-
-### Penetration Testing Fundamentals
-
-- Penetration testing fundamentals
-- Ethical hacking principles
-- Authorization and scope concepts
-- Rules of engagement awareness
-- Security assessment methodology
-- Black box testing concepts
-- White box testing concepts
-- Grey box testing concepts
-- Professional reporting mindset
-- Responsible penetration testing practices
-
-### Vulnerability Research & Management
-
-- Vulnerability fundamentals
-- Common vulnerability types
-- CVSS scoring concepts
-- VPR prioritization concepts
-- CVE awareness
-- Vulnerability database research
-- Vulnerability vs exploit understanding
-- Risk prioritization basics
-- Responsible vulnerability research
-- Defensive vulnerability management
-
-### OWASP Top 10 & IAAA Failures
-
-- OWASP Top 10 2025 awareness
-- IAAA security model fundamentals
-- Identity concepts
-- Authentication security concepts
-- Authorization and access control concepts
-- Accountability through logging and monitoring
-- Broken Access Control awareness
-- Authentication Failure awareness
-- Logging and Alerting Failure awareness
-- Secure web application design mindset
-- Defensive monitoring awareness
-
-### OWASP Top 10 & Application Design Flaws
-
-- OWASP Top 10 2025 awareness
-- Application design flaw concepts
-- Security misconfiguration awareness
-- Software supply chain security basics
-- Dependency verification concepts
-- Cryptographic failure awareness
-- Secure encryption and hashing awareness
-- Key management concepts
-- Insecure design awareness
-- Threat modelling basics
-- Secure application design mindset
-
-### OWASP Top 10 & Insecure Data Handling
-
-- OWASP Top 10 2025 awareness
-- Insecure data handling concepts
-- Cryptographic failure awareness
-- Encryption and hashing fundamentals
-- Key management awareness
-- Injection concepts
-- Input validation awareness
-- Software integrity concepts
-- Data integrity concepts
-- Secure coding mindset
-- Defensive monitoring awareness
-
-### IDOR & Broken Access Control
-
-- IDOR fundamentals
-- Broken access control concepts
-- Object reference security
-- URL endpoint analysis concepts
-- Server-side authorization awareness
-- Secure access control practices
-- API authorization awareness
-- OWASP Broken Access Control awareness
-- Defensive monitoring for suspicious access patterns
-- Responsible web security testing
-
-### Vulnversity & Practical Pentesting Flow
-
-- Active reconnaissance concepts
-- Service enumeration awareness
-- Web application enumeration
-- Directory discovery methodology
-- Gobuster concepts
-- Web server security basics
-- Initial access methodology
-- Linux privilege escalation concepts
-- Least privilege awareness
-- Defensive monitoring for attack paths
-
-### Passive Reconnaissance & OSINT
-
-- Passive reconnaissance fundamentals
-- Passive vs active reconnaissance understanding
-- OSINT methodology
+- Passive reconnaissance methodology
+- Active reconnaissance methodology
 - WHOIS lookup concepts
 - DNS record investigation
-- nslookup concepts
-- dig concepts
-- DNSDumpster usage concepts
-- Shodan.io awareness
-- External attack surface awareness
-- Defensive exposure review
+- Shodan and external attack surface awareness
+- Browser-based reconnaissance
+- Service response analysis
 
-### Active Reconnaissance & Network Interaction
+### Web Application Security
 
-- Active reconnaissance fundamentals
-- Passive vs active reconnaissance understanding
-- Web browser reconnaissance concepts
-- Browser Developer Tools awareness
-- Ping reachability testing concepts
-- Traceroute path discovery concepts
-- Telnet service interaction concepts
-- Netcat network communication concepts
-- Service response analysis awareness
-- Defensive monitoring for reconnaissance activity
-
-### Basic Pentesting & Enumeration
-
-- Basic penetration testing methodology
-- Web application testing concepts
-- Service enumeration awareness
-- Directory discovery concepts
-- Authentication security awareness
-- Brute-force attack awareness
-- Hash cracking concepts
-- Remote access security awareness
-- Linux enumeration concepts
-- Privilege escalation basics
-- Defensive security mindset
-
-### CTF Methodology & Linux Enumeration
-
-- Beginner CTF methodology
-- Reconnaissance concepts
-- Service enumeration awareness
-- Web application analysis concepts
-- Vulnerability research awareness
-- CVE awareness
-- Authentication security concepts
-- Linux enumeration basics
-- Privilege escalation concepts
-- Least privilege awareness
-- Defensive security mindset
-
-### RootMe & Web-to-Linux CTF Flow
-
-- Beginner CTF methodology
-- Reconnaissance concepts
+- HTTP request and response analysis
 - Web application enumeration
 - Directory discovery concepts
-- File upload security awareness
+- Source code awareness
+- Authentication and authorization basics
+- OWASP Top 10 awareness
+- SQL Injection concepts and remediation
+- IDOR and broken access control awareness
+- Secure file upload principles
+
+### Authentication and Password Security
+
+- Password auditing concepts
+- Hydra awareness in authorized labs
+- Brute-force risk understanding
+- Credential security best practices
+- Account lockout and rate limiting concepts
+- Multi-Factor Authentication awareness
+- Secure credential storage mindset
+
+### Penetration Testing and CTF Flow
+
+- Penetration testing ethics
+- Rules of engagement awareness
+- Black box, white box, and grey box testing concepts
+- Enumeration-first methodology
+- Initial access concepts
 - Shell access concepts
 - Linux enumeration basics
-- Privilege escalation concepts
-- Least privilege awareness
-- Defensive monitoring mindset
+- Privilege escalation awareness
+- Professional reporting mindset
 
-### Tools
+### Vulnerability Research and OWASP
+
+- Vulnerability vs exploit understanding
+- CVSS and VPR scoring concepts
+- CVE and vulnerability database awareness
+- Risk prioritization basics
+- IAAA security model concepts
+- Security misconfiguration awareness
+- Software supply chain security basics
+- Cryptographic failure awareness
+- Injection and data integrity concepts
+- Secure application design mindset
+
+### SOC and Defensive Security
+
+- SOC team structure awareness
+- Alert triage basics
+- Security monitoring concepts
+- Log analysis mindset
+- Incident response lifecycle awareness
+- Threat intelligence concepts
+- SIEM, EDR, IDS, and IPS awareness
+- Defensive monitoring for reconnaissance, web attacks, and privilege activity
+
+### Computer and Linux Fundamentals
+
+- Computer hardware and software basics
+- CPU, RAM, storage, BIOS, and UEFI awareness
+- Linux terminal familiarity
+- Files, directories, users, groups, and permissions
+- Least privilege principles
+- System hardening awareness
+
+---
+
+## 🧰 Tools and Concepts Practiced
 
 - Nmap
 - Hydra
-- Metasploit
+- Metasploit Framework
 - msfconsole
+- OWASP ZAP
+- Burp Suite Repeater
 - Browser Developer Tools
 - GitHub Search
 - VirusTotal
 - Shodan
+- OpenVPN
 - Linux Terminal
-- HTTP Protocol
-- DNS
-- Networking Concepts
+- Ping
+- Traceroute
+- WHOIS
+- nslookup
+- dig
+- DNSDumpster
+- Telnet
+- Netcat
+- Gobuster Concepts
 - SIEM Concepts
 - EDR Concepts
 - IDS/IPS Concepts
 - Firewall Monitoring Concepts
 - Threat Intelligence Concepts
 - Ticketing System Concepts
-- OWASP ZAP
-- Web Security Scanner Concepts
-- Intercepting Proxy Concepts
-- Automated Scan Concepts
-- Manual Web Testing Concepts
-- SOC Concepts
-- Blue Team Concepts
-- SIEM Concepts
-- Incident Response Concepts
-- Threat Intelligence Concepts
-- Digital Forensics Concepts
-- GRC Concepts
-- OpenVPN
-- VPN Concepts
-- TryHackMe Lab Network
-- Network Connectivity Concepts
-- Defensive Security Concepts
-- Blue Team Concepts
-- SOC Concepts
-- Security Monitoring Concepts
-- Incident Response Concepts
-- Log Analysis Concepts
-- SQL Concepts
-- Database Security Concepts
-- OWASP SQL Injection Concepts
-- Web Application Security Concepts
-- Secure Coding Concepts
-- Burp Suite
-- Burp Suite Repeater
-- HTTP Request Analysis
-- HTTP Response Analysis
-- Inspector Concepts
-- Offensive Security Concepts
-- Ethical Hacking Concepts
-- Web Reconnaissance Concepts
-- TryHackMe Lab Environment
-- Computer System Concepts
-- Hardware Fundamentals
-- CPU Concepts
-- RAM Concepts
-- Storage Concepts
-- Motherboard Concepts
-- Ping
-- Traceroute
-- WHOIS
-- Dig
-- DNS Concepts
-- OSI Model Concepts
-- TCP/IP Concepts
-- Penetration Testing Concepts
-- Ethical Hacking Concepts
-- Security Assessment Concepts
-- Rules of Engagement Concepts
-- CVSS Concepts
-- VPR Concepts
-- CVE Concepts
-- Vulnerability Databases
-- NVD Concepts
-- Exploit-DB Concepts
-- Vulnerability Research Concepts
-- OWASP Top 10 Concepts
-- IAAA Model Concepts
-- Access Control Concepts
-- Authentication Security Concepts
-- Logging and Alerting Concepts
-- OWASP Top 10 Concepts
-- Application Security Concepts
-- Secure Design Concepts
-- Security Misconfiguration Concepts
-- Software Supply Chain Security Concepts
-- Cryptographic Security Concepts
-- Threat Modelling Concepts
-- OWASP Top 10 Concepts
-- Data Security Concepts
-- Cryptographic Security Concepts
-- Injection Concepts
-- Software Integrity Concepts
-- Data Integrity Concepts
-- Secure Coding Concepts
-- IDOR Concepts
-- Broken Access Control Concepts
-- Web Authorization Concepts
-- Access Control Concepts
-- OWASP Access Control Concepts
-- Gobuster Concepts
-- Active Reconnaissance Concepts
-- Service Enumeration Concepts
-- Web Application Enumeration Concepts
-- Privilege Escalation Concepts
-- WHOIS
-- nslookup
-- dig
-- DNSDumpster
-- Shodan.io
-- DNS Reconnaissance Concepts
-- OSINT Concepts
-- Passive Reconnaissance Concepts
-- Web Browser
-- Browser Developer Tools
-- Ping
-- Traceroute
-- Telnet
-- Netcat
-- Active Reconnaissance Concepts
-- Network Troubleshooting Concepts
-- Web Application Testing Concepts
-- Service Enumeration Concepts
-- Directory Discovery Concepts
-- Authentication Security Concepts
-- Hash Cracking Concepts
-- Linux Enumeration Concepts
-- Privilege Escalation Concepts
-- CTF Methodology Concepts
-- Reconnaissance Concepts
-- Service Enumeration Concepts
-- Web Application Analysis Concepts
-- Vulnerability Research Concepts
-- CVE Concepts
-- Linux Enumeration Concepts
-- Privilege Escalation Concepts
-- CTF Methodology Concepts
-- Reconnaissance Concepts
-- Web Enumeration Concepts
-- Directory Discovery Concepts
-- File Upload Security Concepts
-- Shell Access Concepts
-- Linux Enumeration Concepts
-- Privilege Escalation Concepts
 
 ---
 
-# 📖 Topics Covered
+## 📖 Topics Covered
 
-- Search Skills
-- OSINT
-- Search Operators
-- GitHub Search
-- VirusTotal
-- Shodan
-- Web Applications
-- HTTP
-- URLs
-- HTTP Methods
-- Request Headers
-- Response Headers
-- Status Codes
-- Security Headers
-- Networking Basics
-- Nmap
-- Host Discovery
-- ARP
-- ICMP
-- TCP Discovery
-- UDP Discovery
-- Reverse DNS Lookup
-- Defensive Security Concepts
-- Technical Documentation
-- Hydra
-- Password Auditing
-- Dictionary Attacks
-- Brute Force
-- Authentication Security
-- Metasploit
-- Metasploit Framework
-- msfconsole
-- Exploit Modules
-- Payload Modules
-- Auxiliary Modules
-- Post-Exploitation Concepts
-- Vulnerability Validation
-- Penetration Testing Basics
-- Ethical Security Testing
-- Responsible Tool Usage
-- SOC Fundamentals
-- Security Operations Center
-- Blue Team Security
-- Defensive Security
-- Alert Triage
-- Incident Response
-- SOC Analyst Roles
-- People, Process, and Technology
-- SIEM
-- EDR
-- IDS
-- IPS
-- Firewalls
-- Threat Intelligence
-- Security Monitoring
-- OWASP ZAP
-- Web Application Security Testing
-- Intercepting Proxy
-- Automated Scanning
-- Manual Scanning
-- Authenticated Web Application Testing
-- Directory Discovery
-- Web Login Security
-- ZAP Extensions
-- OWASP
-- Web Security Testing
-- Responsible Security Testing
-- SOC Role in Blue Team
-- Blue Team Security
-- SOC Analyst
-- SOC Level 1 Analyst
-- SOC Level 2 Analyst
-- SOC Level 3 Analyst
-- Security Hierarchy
-- Incident Response Team
-- Threat Intelligence Analyst
-- Digital Forensics Analyst
-- SOC Engineer
-- GRC
-- Cybersecurity Career Path
-- Defensive Security Operations
-- OpenVPN
-- VPN
-- Virtual Private Network
-- TryHackMe Lab Access
-- Secure Lab Connectivity
-- Network Troubleshooting
-- Windows VPN Setup Concepts
-- macOS VPN Setup Concepts
-- Linux VPN Setup Concepts
-- Responsible Lab Usage
-- Defensive Security Intro
-- Defensive Security
-- Blue Team
-- Security Monitoring
-- Suspicious Activity Detection
-- Attack Identification
-- Incident Response
-- Threat Containment
-- Recovery
-- Lessons Learned
-- SOC Fundamentals
-- Log Analysis
-- SQL Injection
-- SQL
-- Databases
-- Database Security
-- Web Application Security
-- In-Band SQLi
-- Blind SQLi
-- Boolean-Based SQLi
-- Time-Based SQLi
-- Out-of-Band SQLi
-- Authentication Bypass Concepts
-- SQL Injection Remediation
-- Parameterized Queries
-- Input Validation
-- Least Privilege
-- Safe Error Handling
-- OWASP
-- Burp Suite
-- Burp Suite Repeater
-- Web Application Security
-- Manual Web Testing
-- HTTP Requests
-- HTTP Responses
-- Request Modification
-- Response Analysis
-- Message Analysis Toolbar
-- Inspector
-- Parameters
-- Headers
-- Cookies
-- Responsible Web Security Testing
-- Offensive Security Intro
-- Offensive Security
-- Ethical Hacking
-- Thinking Like a Hacker
-- Safe Lab Practice
-- Web Reconnaissance
-- Hidden Pages
-- Admin Page Security
-- Authentication
-- Authorization
-- Responsible Cybersecurity Learning
-- Inside a Computer System
-- Computer Fundamentals
-- Computer Hardware
-- Hardware vs Software
-- CPU
-- RAM
-- Storage
-- HDD
-- SSD
-- Motherboard
-- BIOS
-- UEFI
-- Power Supply
-- Peripherals
-- Input Devices
-- Output Devices
-- Hardware Security Basics
-- Introductory Networking
-- Networking Fundamentals
-- OSI Model
-- TCP/IP Model
-- Encapsulation
-- Decapsulation
-- Ping
-- Traceroute
-- WHOIS
-- Dig
-- DNS
-- Network Troubleshooting
-- Network Security Basics
-- Pentesting Fundamentals
-- Penetration Testing
-- Ethical Hacking
-- Penetration Testing Ethics
-- Authorization
-- Scope
-- Rules of Engagement
-- Penetration Testing Methodologies
-- Black Box Testing
-- White Box Testing
-- Grey Box Testing
-- Security Assessment
-- Responsible Disclosure
-- Professional Reporting
-- Vulnerabilities 101
-- Vulnerabilities
-- Vulnerability Research
-- CVSS
-- VPR
-- CVE
-- Vulnerability Databases
-- NVD
-- Exploit Database
-- Vulnerability Scoring
-- Vulnerability Management
-- Risk Prioritization
-- Vulnerability vs Exploit
-- Responsible Security Research
-- OWASP Top 10 2025
-- IAAA Failures
-- Identity
-- Authentication
-- Authorization
-- Accountability
-- Broken Access Control
-- Authentication Failures
-- Logging and Alerting Failures
-- Web Application Security
 - Access Control
-- Secure Authentication
-- Security Logging
-- Security Alerting
-- Defensive Monitoring
-- OWASP Top 10 2025
+- Active Reconnaissance
 - Application Design Flaws
-- Security Misconfigurations
-- Software Supply Chain Failures
-- Cryptographic Failures
-- Insecure Design
-- Secure Application Design
-- Secure Configuration
-- Dependency Security
-- Supply Chain Security
-- Encryption
-- Hashing
-- Key Management
-- Threat Modelling
-- Secure Development Lifecycle
-- OWASP Top 10 2025
-- Insecure Data Handling
-- Cryptographic Failures
-- Injection
-- Software or Data Integrity Failures
-- Data Security
-- Secure Data Handling
-- Encryption
-- Hashing
-- Key Management
-- Input Validation
-- Parameterized Queries
-- Software Integrity
-- Data Integrity
-- Insecure Deserialization Concepts
-- Secure Coding
-- Defensive Monitoring
-- Corridor
-- IDOR
-- Insecure Direct Object Reference
+- Authentication Security
+- Blue Team Security
 - Broken Access Control
-- Object References
-- URL Endpoints
-- Hash-Like Identifiers
-- Security Through Obscurity
-- Server-Side Authorization
-- Access Control
-- API Authorization
-- OWASP Broken Access Control
-- Secure Web Application Design
-- Vulnversity
-- Active Reconnaissance
-- Service Enumeration
-- Web Application Enumeration
-- Directory Discovery
-- Gobuster
-- Web Server Security
-- File Upload Security
-- Initial Access Concepts
-- Privilege Escalation
-- Linux Privilege Escalation
-- Least Privilege
+- Burp Suite Repeater
+- Capture The Flag
+- Computer Fundamentals
+- Cryptographic Failures
+- CTF Methodology
+- Cybersecurity Fundamentals
+- Database Security
 - Defensive Monitoring
-- Responsible Penetration Testing
-- Passive Reconnaissance
+- Defensive Security
+- Directory Discovery
+- DNS Fundamentals
+- Ethical Hacking
+- File Upload Security
+- Host Discovery
+- HTTP Fundamentals
+- IDOR
+- Incident Response
+- Injection Concepts
+- Linux Basics
+- Linux Enumeration
+- Networking Fundamentals
+- Nmap
 - OSINT
-- Passive vs Active Reconnaissance
-- WHOIS
-- DNS
-- DNS Records
-- nslookup
-- dig
-- DNSDumpster
-- Shodan
-- Subdomain Discovery
-- External Attack Surface
-- Public Information Gathering
-- Threat Intelligence Basics
-- Responsible Reconnaissance
-- Active Reconnaissance
-- Passive vs Active Reconnaissance
-- Web Browser Reconnaissance
-- Browser Developer Tools
-- HTTP Headers
-- Ping
-- ICMP
-- Traceroute
-- Network Path Discovery
-- Telnet
-- Netcat
-- Service Interaction
-- Network Connections
-- Responsible Reconnaissance
-- Defensive Monitoring
-- Basic Pentesting
+- OWASP Top 10
+- Password Auditing
 - Penetration Testing
-- Web Application Testing
-- Service Enumeration
-- Directory Discovery
-- Authentication Security
-- Brute-Force Awareness
-- Hash Cracking Concepts
-- Remote Access Security
-- Linux Enumeration
 - Privilege Escalation
-- Least Privilege
-- Defensive Monitoring
-- Responsible Penetration Testing
-- Simple CTF
-- Capture The Flag
-- CTF Methodology
 - Reconnaissance
-- Service Enumeration
-- Web Application Analysis
-- Directory Discovery Concepts
+- Responsible Security Learning
+- Rules of Engagement
+- Security Monitoring
+- Shell Access Concepts
+- SOC Fundamentals
+- Software Supply Chain Security
+- Source Code Awareness
+- SQL Injection
+- Vulnerability Management
 - Vulnerability Research
-- CVE Awareness
-- Authentication Security
-- Linux Enumeration
-- Privilege Escalation
-- Least Privilege
-- Defensive Monitoring
-- Responsible Security Learning
-- RootMe
-- Capture The Flag
-- CTF Methodology
-- Reconnaissance
 - Web Application Enumeration
-- Directory Discovery
-- File Upload Security
-- Getting a Shell Concepts
-- Linux Enumeration
-- Privilege Escalation
-- Least Privilege
-- Defensive Monitoring
-- Responsible Security Learning
-  
+- Web Application Security
+- Web Server Exposure
+
 ---
 
-# ✍️ Hashnode Blog
+## 📁 Repository Structure
+
+Each room has its own folder containing organized notes.
+
+```text
+tryhackme-writeups/
+├── Search-Skills/
+├── Web-Application-Basics/
+├── Nmap-Live-Host-Discovery/
+├── Hydra/
+├── Metasploit-Introduction/
+├── SOC-Fundamentals/
+├── Introduction-to-OWASP-ZAP/
+├── SOC-Role-in-Blue-Team/
+├── OpenVPN/
+├── Defensive-Security-Intro/
+├── SQL-Injection/
+├── Burp-Suite-Repeater/
+├── Offensive-Security-Intro/
+├── Inside-a-Computer-System/
+├── Introductory-Networking/
+├── Pentesting-Fundamentals/
+├── Vulnerabilities-101/
+├── OWASP-Top-10-2025-IAAA-Failures/
+├── OWASP-Top-10-2025-Application-Design-Flaws/
+├── OWASP-Top-10-2025-Insecure-Data-Handling/
+├── Corridor/
+├── Vulnversity/
+├── Passive-Reconnaissance/
+├── Active-Reconnaissance/
+├── Basic-Pentesting/
+├── Simple-CTF/
+├── RootMe/
+└── Pickle-Rick/
+```
+
+---
+
+## ✍️ Hashnode Blog
 
 I regularly publish beginner-friendly blogs explaining the concepts I learn while completing TryHackMe rooms.
 
-🌐 **Hashnode**
-
+🌐 **Hashnode**  
 https://cybersecurity-learning.hashnode.dev/
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 - **GitHub:** https://github.com/SunnySharma04
 - **Hashnode:** https://cybersecurity-learning.hashnode.dev/
@@ -1094,10 +346,10 @@ https://cybersecurity-learning.hashnode.dev/
 
 ---
 
-# 📄 Disclaimer
+## 📄 Disclaimer
 
 These notes are created for **educational purposes only**.
 
-I do **not** publish room flags, direct answers, passwords, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
+I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
 
 The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
