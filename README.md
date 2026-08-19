@@ -66,6 +66,12 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Defensive Security and Incident Response
 - Privilege Escalation Basics
 - Responsible Security Documentation
+- Network Security Essentials
+- Network Visibility
+- Perimeter Security
+- Firewall Log Analysis
+- IDS and IPS Monitoring
+- SOC Analyst Investigation
 
 ---
 
@@ -101,6 +107,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 26 | Simple CTF | CTF, Enumeration, Linux, Privilege Escalation | Easy | https://tryhackme.com/room/easyctf | https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide | [Notes](./Simple-CTF/) |
 | 27 | RootMe | CTF, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/rrootme | https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide | [Notes](./RootMe/) |
 | 28 | Pickle Rick | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | https://tryhackme.com/room/picklerick | https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide | [Notes](./Pickle-Rick/) |
+| 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
 
 ---
 
@@ -204,6 +211,23 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Least privilege principles
 - System hardening awareness
 
+### Network Security & Perimeter Monitoring
+
+- Network security fundamentals
+- Network component awareness
+- Network visibility concepts
+- Host-centric log awareness
+- Network-centric log awareness
+- Firewall monitoring concepts
+- IDS and IPS concepts
+- VPN gateway security awareness
+- Perimeter security concepts
+- Port scanning detection concepts
+- Brute-force detection concepts
+- Malware beaconing awareness
+- Perimeter log investigation
+- SOC analyst mindset
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -235,6 +259,15 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Firewall Monitoring Concepts
 - Threat Intelligence Concepts
 - Ticketing System Concepts
+- Network Security Concepts
+- Firewall Log Analysis Concepts
+- IDS Concepts
+- IPS Concepts
+- VPN Gateway Monitoring Concepts
+- SIEM Concepts
+- Perimeter Monitoring Concepts
+- Network Visibility Concepts
+- SOC Investigation Concepts
 
 ---
 
@@ -287,6 +320,24 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Web Application Enumeration
 - Web Application Security
 - Web Server Exposure
+- Network Security Essentials
+- Network Security
+- Defensive Security
+- Network Visibility
+- Network Perimeter
+- Firewall Logs
+- IDS
+- IPS
+- VPN Gateway Monitoring
+- Perimeter Monitoring
+- Port Scanning Detection
+- Brute-Force Detection
+- Malware Beaconing
+- Host-Centric Logs
+- Network-Centric Logs
+- SOC Analyst Thinking
+- Perimeter Log Investigation
+- Defensive Monitoring
 
 ---
 
@@ -323,8 +374,8 @@ tryhackme-writeups/
 ├── Basic-Pentesting/
 ├── Simple-CTF/
 ├── RootMe/
-└── Pickle-Rick/
-```
+├── Pickle-Rick/
+└── Network-Security-Essentials/
 
 ---
 
