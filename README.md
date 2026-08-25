@@ -72,6 +72,11 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Firewall Log Analysis
 - IDS and IPS Monitoring
 - SOC Analyst Investigation
+- Windows Reconnaissance & Enumeration
+- Web Application Directory Discovery
+- RDP Credential Security
+- Windows Local Privilege Escalation
+- Post-Exploitation Persistence Analysis
 
 ---
 
@@ -108,6 +113,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 27 | RootMe | CTF, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/rrootme | https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide | [Notes](./RootMe/) |
 | 28 | Pickle Rick | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | https://tryhackme.com/room/picklerick | https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide | [Notes](./Pickle-Rick/) |
 | 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
+| 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy / Medium | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
 
 ---
 
@@ -228,6 +234,17 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Perimeter log investigation
 - SOC analyst mindset
 
+### Windows Exploitation & Privilege Escalation
+
+- Web directory discovery and enumeration
+- Service scanning and protocol analysis
+- RDP attack surface evaluation
+- Windows initial access execution
+- Local privilege escalation methodology
+- SYSTEM authority escalation concepts
+- Post-exploitation persistence analysis
+- SOC event log correlation (Event IDs 4624, 4625, 4688)
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -268,6 +285,12 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Perimeter Monitoring Concepts
 - Network Visibility Concepts
 - SOC Investigation Concepts
+- Nmap
+- Gobuster
+- xfreerdp / RDP Clients
+- Metasploit Framework
+- Windows System Utilities
+- Windows Event Viewer
 
 ---
 
@@ -338,6 +361,17 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - SOC Analyst Thinking
 - Perimeter Log Investigation
 - Defensive Monitoring
+- Blaster
+- Windows Security
+- Web Enumeration
+- Directory Brute-Forcing
+- Remote Desktop Protocol (RDP)
+- Initial Access
+- Windows Privilege Escalation
+- SYSTEM Privileges
+- Post-Exploitation
+- Persistence Mechanisms
+- SOC Log Analysis
 
 ---
 
@@ -376,6 +410,7 @@ tryhackme-writeups/
 ├── RootMe/
 ├── Pickle-Rick/
 └── Network-Security-Essentials/
+└── Blaster/
 
 ---
 
