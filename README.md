@@ -77,6 +77,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - RDP Credential Security
 - Windows Local Privilege Escalation
 - Post-Exploitation Persistence Analysis
+- OWASP Top 10 Vulnerabilities
+- Broken Access Control & Authorization Logic
+- Burp Suite Proxy Analysis
+- Server-Side Security Architecture
 
 ---
 
@@ -114,6 +118,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 28 | Pickle Rick | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | https://tryhackme.com/room/picklerick | https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide | [Notes](./Pickle-Rick/) |
 | 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
 | 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
+| 31 | Broken Access Control | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | https://tryhackme.com/room/owaspbrokenaccesscontrol | https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive | [Notes](./Broken-Access-Control/) |
 
 ---
 
@@ -245,6 +250,16 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Post-exploitation persistence analysis
 - SOC event log correlation (Event IDs 4624, 4625, 4688)
 
+### Web Application Security & Authorization
+
+- Access control model evaluation (DAC, MAC, RBAC, ABAC)
+- Burp Suite HTTP proxy manipulation
+- Parameter tampering and client-side logic bypass
+- Vertical privilege escalation detection
+- Insecure Direct Object Reference (IDOR) awareness
+- Server-side authorization enforcement
+- Least Privilege & Deny-by-Default implementation
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -291,6 +306,9 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Metasploit Framework
 - Windows System Utilities
 - Windows Event Viewer
+- Burp Suite Proxy
+- FoxyProxy
+- Web Application Developer Tools
 
 ---
 
@@ -372,6 +390,14 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Post-Exploitation
 - Persistence Mechanisms
 - SOC Log Analysis
+- Broken Access Control
+- OWASP Top 10 (A01:2021)
+- Authorization vs Authentication
+- Role-Based Access Control (RBAC)
+- Attribute-Based Access Control (ABAC)
+- Client-Side Parameter Tampering
+- Vertical Privilege Escalation
+- Server-Side Mitigation Strategies
 
 ---
 
