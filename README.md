@@ -437,6 +437,7 @@ tryhackme-writeups/
 ├── Pickle-Rick/
 └── Network-Security-Essentials/
 └── Blaster/
+└── Broken Access Control
 
 ---
 
