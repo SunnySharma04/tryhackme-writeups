@@ -81,6 +81,10 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Broken Access Control & Authorization Logic
 - Burp Suite Proxy Analysis
 - Server-Side Security Architecture
+- Infrastructure Security & Network Services
+- NFS Root-Squashing Exploitation
+- Protocol-Level Enumeration (SMTP, MySQL)
+- Privilege Escalation via SUID Binaries
 
 ---
 
@@ -119,6 +123,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
 | 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
 | 31 | Broken Access Control | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | https://tryhackme.com/room/owaspbrokenaccesscontrol | https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive | [Notes](./Broken-Access-Control/) |
+| 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy / Medium | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
 
 ---
 
@@ -260,6 +265,14 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Server-side authorization enforcement
 - Least Privilege & Deny-by-Default implementation
 
+### Infrastructure Security & Protocol Exploitation
+
+- NFS share discovery & mount manipulation
+- Root-squashing misconfiguration exploitation
+- SMTP account enumeration & mapping
+- MySQL database remote access & querying
+- Local privilege escalation via SUID binaries
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -309,6 +322,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Burp Suite Proxy
 - FoxyProxy
 - Web Application Developer Tools
+- Showmount
+- SMTP User Enum
+- MySQL Client
+- Nmap RPC & Database Scripts
 
 ---
 
@@ -398,6 +415,12 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Client-Side Parameter Tampering
 - Vertical Privilege Escalation
 - Server-Side Mitigation Strategies
+- Network Services 2
+- NFS Security
+- Root Squashing
+- SMTP Enumeration
+- MySQL Hardening
+- Infrastructure Exploitation
 
 ---
 
