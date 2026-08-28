@@ -85,6 +85,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - NFS Root-Squashing Exploitation
 - Protocol-Level Enumeration (SMTP, MySQL)
 - Privilege Escalation via SUID Binaries
+- Operating System Architecture & Internals
+- Kernel Resource Management & Memory Isolation
+- System Administration & CLI Operations
 
 ---
 
@@ -124,6 +127,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
 | 31 | Broken Access Control | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | https://tryhackme.com/room/owaspbrokenaccesscontrol | https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive | [Notes](./Broken-Access-Control/) |
 | 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy / Medium | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
+| 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Very Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
 
 ---
 
@@ -273,6 +277,14 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - MySQL database remote access & querying
 - Local privilege escalation via SUID binaries
 
+### System Architecture & Operating Systems
+
+- Kernel-space vs. User-space execution boundary analysis
+- CPU scheduling and memory allocation concepts
+- File system abstraction and device management
+- Operating system landscape evaluation (Windows, Linux, macOS)
+- CLI and shell administration fundamentals
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -326,6 +338,9 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - SMTP User Enum
 - MySQL Client
 - Nmap RPC & Database Scripts
+- Linux Shell / Bash
+- Windows PowerShell
+- OS Monitoring Utilities
 
 ---
 
@@ -421,6 +436,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - SMTP Enumeration
 - MySQL Hardening
 - Infrastructure Exploitation
+- Operating Systems Basics
+- Kernel Architecture
+- Process Scheduling
+- Memory Management
+- CLI vs. GUI
 
 ---
 
