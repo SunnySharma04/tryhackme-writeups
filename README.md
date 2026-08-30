@@ -91,6 +91,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Computer Science & Software Fundamentals
 - Binary, Decimal, and Hexadecimal Conversions
 - Low-Level Data Representation & Encoding
+- Computer Science & Data Standards
+- Character Sets & Encoding Protocols (ASCII, Unicode, UTF-8)
+- Payload Obfuscation & Base64 Transformation Analysis
 
 ---
 
@@ -132,6 +135,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy / Medium | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
 | 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Very Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
 | 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Very Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
+| 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Very Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
 
 ---
 
@@ -296,6 +300,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - RGB color triplet encoding and Hex code analysis
 - Low-level binary structure interpretation for memory & traffic analysis
 
+### Data Encoding & System Standards
+
+- ASCII bit mapping and Unicode variable-length (UTF-8) mechanics
+- Base64 6-bit indexing, binary regrouping, and padding verification
+- Command-line data transformation pipelines (`base64`, `xxd`, `hexdump`)
+- Identifying payload obfuscation techniques in web security and log triage
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -354,6 +365,9 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - OS Monitoring Utilities
 - Hex Editors / Converters
 - Base Conversion Tools
+- `base64` CLI
+- `xxd` / `hexdump`
+- CyberChef
 
 ---
 
@@ -459,6 +473,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Hexadecimal Encoding
 - RGB Color Models
 - Low-Level Computing
+- Data Encoding vs Encryption vs Hashing
+- ASCII & Extended ASCII
+- Unicode & UTF-8 / UTF-16 / UTF-32
+- Base64 Encoding Mechanics
+- Payload Transformations
 
 ---
 
@@ -499,7 +518,8 @@ tryhackme-writeups/
 └── Network-Security-Essentials/
 └── Blaster/
 └── Broken Access Control/
-└── Data Representation
+└── Data Representation/
+└── Data Encoding
 
 ---
 
