@@ -94,6 +94,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Computer Science & Data Standards
 - Character Sets & Encoding Protocols (ASCII, Unicode, UTF-8)
 - Payload Obfuscation & Base64 Transformation Analysis
+- Network Fundamentals & LAN Architecture
+- Layer 2 MAC & Layer 3 IP Address Resolution Mechanics
+- Subnetting & Network Segmentation Principles
 
 ---
 
@@ -136,6 +139,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Very Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
 | 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Very Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
 | 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Very Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
+| 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Very Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
 
 ---
 
@@ -307,6 +311,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Command-line data transformation pipelines (`base64`, `xxd`, `hexdump`)
 - Identifying payload obfuscation techniques in web security and log triage
 
+### Network Architecture & Fundamentals
+
+- Evaluating physical and logical network topologies (Star, Bus, Ring, Mesh)
+- Calculating subnets, host capacities, and subnet masks using CIDR notation
+- Analyzing ARP resolution traffic and local ARP cache management
+- Inspecting DHCP DORA packet sequences and troubleshooting lease assignments
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -368,6 +379,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `base64` CLI
 - `xxd` / `hexdump`
 - CyberChef
+- `arp` / `arping`
+- `ip` / `ifconfig` / `ipconfig`
+- `dhclient`
+- `tcpdump`
 
 ---
 
@@ -478,6 +493,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Unicode & UTF-8 / UTF-16 / UTF-32
 - Base64 Encoding Mechanics
 - Payload Transformations
+- Network Topologies
+- IPv4 Subnetting & CIDR
+- Address Resolution Protocol (ARP)
+- Dynamic Host Configuration Protocol (DHCP)
+- Network Interface Configuration
 
 ---
 
@@ -519,7 +539,8 @@ tryhackme-writeups/
 └── Blaster/
 └── Broken Access Control/
 └── Data Representation/
-└── Data Encoding
+└── Data Encoding/
+└── Intro to LAN/
 
 ---
 
