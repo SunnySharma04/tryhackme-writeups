@@ -97,6 +97,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Network Fundamentals & LAN Architecture
 - Layer 2 MAC & Layer 3 IP Address Resolution Mechanics
 - Subnetting & Network Segmentation Principles
+- Cybersecurity Principles & Security Mindset
+- Risk Assessment & Threat Modeling (CIA vs. DAD)
+- Fundamental Security Architecture & Controls
 
 ---
 
@@ -140,6 +143,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Very Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
 | 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Very Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
 | 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Very Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
+| 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Very Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
 
 ---
 
@@ -318,6 +322,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Analyzing ARP resolution traffic and local ARP cache management
 - Inspecting DHCP DORA packet sequences and troubleshooting lease assignments
 
+### Security Architecture & Principles
+
+- Evaluating system architecture against Confidentiality, Integrity, and Availability requirements
+- Analyzing security breaches using the Disclosure, Alteration, and Destruction (DAD) framework
+- Verifying data integrity using cryptographic hashing and digital signatures
+- Balancing risk mitigation with business usability and operational availability
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -383,6 +394,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `ip` / `ifconfig` / `ipconfig`
 - `dhclient`
 - `tcpdump`
+- `sha256sum` / `md5sum`
+- `gpg`
+- `openssl`
+- `icacls`
 
 ---
 
@@ -498,6 +513,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Address Resolution Protocol (ARP)
 - Dynamic Host Configuration Protocol (DHCP)
 - Network Interface Configuration
+- The CIA Triad (Confidentiality, Integrity, Availability)
+- The DAD Triad (Disclosure, Alteration, Destruction)
+- Security Mindset & Controls Balancing
+- Data Integrity & Cryptographic Hashing
 
 ---
 
@@ -541,6 +560,7 @@ tryhackme-writeups/
 └── Data Representation/
 └── Data Encoding/
 └── Intro to LAN/
+└── The CIA Triad/
 
 ---
 
