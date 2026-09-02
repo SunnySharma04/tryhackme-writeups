@@ -100,6 +100,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Cybersecurity Principles & Security Mindset
 - Risk Assessment & Threat Modeling (CIA vs. DAD)
 - Fundamental Security Architecture & Controls
+- Applied Cryptography & Encryption Standards (AES, RSA, ECC)
+- Public Key Infrastructure (PKI) & Asymmetric Key Exchange
+- Digital Signatures, Key Management, and PKI Verification
 
 ---
 
@@ -144,6 +147,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Very Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
 | 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Very Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
 | 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Very Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
+| 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Very Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
 
 ---
 
@@ -329,6 +333,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Verifying data integrity using cryptographic hashing and digital signatures
 - Balancing risk mitigation with business usability and operational availability
 
+### Cryptography & Data Protection
+
+- Implementing symmetric encryption (AES-256) for secure data-at-rest storage
+- Generating, managing, and securing asymmetric key pairs (RSA, ECC) using OpenSSL and GPG
+- Analyzing hybrid encryption workflows used in SSL/TLS and SSH protocols
+- Signing and verifying digital files to enforce data integrity and non-repudiation
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -398,6 +409,7 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `gpg`
 - `openssl`
 - `icacls`
+- `ssh-keygen`
 
 ---
 
@@ -517,6 +529,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - The DAD Triad (Disclosure, Alteration, Destruction)
 - Security Mindset & Controls Balancing
 - Data Integrity & Cryptographic Hashing
+- Symmetric Encryption (AES, DES, 3DES)
+- Asymmetric Encryption (RSA, ECC)
+- Hybrid Cryptography & Key Distribution
+- Digital Signatures & File Verification
+- Public Key Infrastructure (PKI)
 
 ---
 
