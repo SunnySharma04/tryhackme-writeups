@@ -103,6 +103,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Applied Cryptography & Encryption Standards (AES, RSA, ECC)
 - Public Key Infrastructure (PKI) & Asymmetric Key Exchange
 - Digital Signatures, Key Management, and PKI Verification
+- Windows Operating System Architecture & Administration
+- Windows Registry Analysis & Persistence Mechanisms
+- User Account Control (UAC) & Windows Access Boundaries
 
 ---
 
@@ -148,6 +151,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Very Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
 | 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Very Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
 | 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Very Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
+| 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Very Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
 
 ---
 
@@ -340,6 +344,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Analyzing hybrid encryption workflows used in SSL/TLS and SSH protocols
 - Signing and verifying digital files to enforce data integrity and non-repudiation
 
+### Operating System & Host Administration
+
+- Navigating and analyzing Windows OS file structures (`C:\Windows`, `C:\Program Files`, `C:\Users`)
+- Querying and inspecting Windows Registry hives (`HKLM`, `HKCU`) for system configuration and persistence analysis
+- Managing Windows user privileges, local accounts, and User Account Control (UAC) boundaries
+- Monitoring active processes, services, and system performance using Task Manager and PowerShell
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -410,6 +421,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `openssl`
 - `icacls`
 - `ssh-keygen`
+- `regedit` / `reg` CLI
+- `lusrmgr.msc`
+- `services.msc`
+- Task Manager / Resource Monitor
 
 ---
 
@@ -534,6 +549,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Hybrid Cryptography & Key Distribution
 - Digital Signatures & File Verification
 - Public Key Infrastructure (PKI)
+- Windows File System (NTFS) Structure
+- Windows Registry Hives (`HKLM`, `HKCU`, `HKCR`, `HKU`)
+- User Account Control (UAC) & Privilege Management
+- Windows Services & Task Manager Inspection
+- System Diagnostics via Command Prompt & PowerShell
 
 ---
 
