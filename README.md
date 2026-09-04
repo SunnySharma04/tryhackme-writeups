@@ -106,6 +106,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Windows Operating System Architecture & Administration
 - Windows Registry Analysis & Persistence Mechanisms
 - User Account Control (UAC) & Windows Access Boundaries
+- Windows System Administration & Management Consoles
+- Windows Event Log Triage & Forensic Analysis (EVTX)
+- Task Scheduling & Persistence Audit Operations
 
 ---
 
@@ -152,6 +155,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Very Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
 | 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Very Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
 | 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Very Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
+| 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Very Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
 
 ---
 
@@ -351,6 +355,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Managing Windows user privileges, local accounts, and User Account Control (UAC) boundaries
 - Monitoring active processes, services, and system performance using Task Manager and PowerShell
 
+### System Diagnostics & Event Analysis
+
+- Navigating and utilizing core administrative tools (`compmgmt.msc`, `eventvwr.msc`, `taskschd.msc`, `msconfig`)
+- Inspecting and querying Windows Event Logs (Security, System, Application) using PowerShell (`Get-WinEvent`) and `wevtutil`
+- Auditing active scheduled tasks to identify potential system persistence entries
+- Managing and controlling Windows background services using command-line utilities (`sc`)
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -425,6 +436,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `lusrmgr.msc`
 - `services.msc`
 - Task Manager / Resource Monitor
+- `eventvwr.msc`
+- `taskschd.msc`
+- `compmgmt.msc`
+- `wevtutil` / `schtasks`
 
 ---
 
@@ -554,6 +569,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - User Account Control (UAC) & Privilege Management
 - Windows Services & Task Manager Inspection
 - System Diagnostics via Command Prompt & PowerShell
+- Windows Event Logging & Security Event IDs (`4624`, `4625`, `4698`)
+- Task Scheduler & Persistence Mechanisms
+- Computer Management Snap-ins & Disk Management
+- System Configuration (`msconfig`) & Boot Parameters
+- Windows Service Control Manager (`sc`)
 
 ---
 
@@ -598,6 +618,9 @@ tryhackme-writeups/
 └── Data Encoding/
 └── Intro to LAN/
 └── The CIA Triad/
+└── Cryptography Concepts/
+└── Windows Fundamentals 1/
+└── Windows Fundamentals 2/
 
 ---
 
