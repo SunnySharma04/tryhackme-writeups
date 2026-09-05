@@ -109,6 +109,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Windows System Administration & Management Consoles
 - Windows Event Log Triage & Forensic Analysis (EVTX)
 - Task Scheduling & Persistence Audit Operations
+- Native Windows Command Line (CMD) Administration & Triage
+- Process Inspection & Correlation (`tasklist`, `taskkill`)
+- CLI Network Diagnostics & Socket Analysis (`ipconfig`, `netstat`)
 
 ---
 
@@ -156,6 +159,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Very Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
 | 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Very Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
 | 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Very Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
+| 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Very Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
 
 ---
 
@@ -362,6 +366,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Auditing active scheduled tasks to identify potential system persistence entries
 - Managing and controlling Windows background services using command-line utilities (`sc`)
 
+### Command Line & System Administration
+
+- Navigating and managing the Windows filesystem via Command Prompt (`cmd.exe`)
+- Querying hardware, OS configuration, and system patch levels using `systeminfo`
+- Correlating active processes to open network sockets using `tasklist` and `netstat -ano`
+- Managing process execution and forcing termination of rogue tasks via `taskkill`
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -440,6 +451,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `taskschd.msc`
 - `compmgmt.msc`
 - `wevtutil` / `schtasks`
+- `cmd.exe`
+- `tasklist` / `taskkill`
+- `systeminfo`
+- `netstat` / `ipconfig`
 
 ---
 
@@ -574,6 +589,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Computer Management Snap-ins & Disk Management
 - System Configuration (`msconfig`) & Boot Parameters
 - Windows Service Control Manager (`sc`)
+- Windows File System Navigation & Manipulation
+- System Configuration & Patch Retrieval
+- Process & Task Management
+- Network Interface Diagnostics & Socket Inspection
 
 ---
 
