@@ -112,6 +112,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Native Windows Command Line (CMD) Administration & Triage
 - Process Inspection & Correlation (`tasklist`, `taskkill`)
 - CLI Network Diagnostics & Socket Analysis (`ipconfig`, `netstat`)
+- Network Architecture & Layered Models (OSI & TCP/IP)
+- Protocol Analysis (DNS, ARP, DHCP, ICMP, TCP/UDP)
+- Network Infrastructure & Routing Fundamentals
 
 ---
 
@@ -160,6 +163,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Very Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
 | 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Very Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
 | 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Very Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
+| 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Very Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
 
 ---
 
@@ -373,6 +377,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Correlating active processes to open network sockets using `tasklist` and `netstat -ano`
 - Managing process execution and forcing termination of rogue tasks via `taskkill`
 
+### Networking & Infrastructure
+
+- Mapping communication workflows across OSI and TCP/IP protocol stacks
+- Troubleshooting Layer 2/3 connectivity using `ip`, `arp`, and `traceroute`
+- Querying and diagnosing DNS record hierarchies using `nslookup` and `dig`
+- Analyzing address resolution mechanics (ARP) and IP subnetting structures
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -455,6 +466,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `tasklist` / `taskkill`
 - `systeminfo`
 - `netstat` / `ipconfig`
+- `dig` / `nslookup`
+- `ip` / `ipconfig`
+- `arp`
+- `traceroute` / `tracert`
 
 ---
 
@@ -593,6 +608,11 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - System Configuration & Patch Retrieval
 - Process & Task Management
 - Network Interface Diagnostics & Socket Inspection
+- OSI 7-Layer & TCP/IP Models
+- IPv4 vs. IPv6 Addressing & Subnetting
+- Address Resolution Protocol (ARP)
+- Domain Name System (DNS) & DHCP Mechanics
+- Network Path Diagnostics & ICMP
 
 ---
 
@@ -640,6 +660,8 @@ tryhackme-writeups/
 └── Cryptography Concepts/
 └── Windows Fundamentals 1/
 └── Windows Fundamentals 2/
+└── Windows Command Line/
+└── Networking Concepts/
 
 ---
 
