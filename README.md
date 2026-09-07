@@ -115,6 +115,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Network Architecture & Layered Models (OSI & TCP/IP)
 - Protocol Analysis (DNS, ARP, DHCP, ICMP, TCP/UDP)
 - Network Infrastructure & Routing Fundamentals
+- SIEM Architecture & Log Ingestion Workflows
+- Correlation Rule Evaluation & Alert Triage
+- SOC Operations & Baseline Incident Response
 
 ---
 
@@ -164,6 +167,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Very Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
 | 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Very Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
 | 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Very Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
+| 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Very Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
 
 ---
 
@@ -384,6 +388,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Querying and diagnosing DNS record hierarchies using `nslookup` and `dig`
 - Analyzing address resolution mechanics (ARP) and IP subnetting structures
 
+### Security Operations & SIEM
+
+- Aggregating, parsing, and normalizing security logs across heterogenous network environments
+- Writing and evaluating search queries to detect suspicious authentication and execution events
+- Triaging SIEM dashboard alerts to differentiate between true threats and false positives
+- Building forensic timelines by correlating time-synchronized logs across endpoints and firewalls
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -470,6 +481,9 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `ip` / `ipconfig`
 - `arp`
 - `traceroute` / `tracert`
+- SIEM Engines (Splunk / Elastic / Generic SIEM)
+- `grep` / `awk` (Log Parsing)
+- PowerShell `Get-WinEvent`
 
 ---
 
@@ -613,6 +627,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Address Resolution Protocol (ARP)
 - Domain Name System (DNS) & DHCP Mechanics
 - Network Path Diagnostics & ICMP
+- SIEM Architecture & Operational Workflows
+- Centralized Log Collection & Normalization
+- Correlation Rules & Behavioral Detection
+- Alert Triage & Incident Investigation
 
 ---
 
@@ -662,6 +680,7 @@ tryhackme-writeups/
 └── Windows Fundamentals 2/
 └── Windows Command Line/
 └── Networking Concepts/
+└── Introduction to SIEM/
 
 ---
 
