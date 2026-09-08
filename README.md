@@ -118,6 +118,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - SIEM Architecture & Log Ingestion Workflows
 - Correlation Rule Evaluation & Alert Triage
 - SOC Operations & Baseline Incident Response
+- Data Transformation & Obfuscation Analysis
+- Automated IOC Extraction & Phishing Triage Workflows
+- Recipe Pipelines & Pattern Analysis (CyberChef)
 
 ---
 
@@ -168,6 +171,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Very Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
 | 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Very Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
 | 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Very Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
+| 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
 
 ---
 
@@ -395,6 +399,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Triaging SIEM dashboard alerts to differentiate between true threats and false positives
 - Building forensic timelines by correlating time-synchronized logs across endpoints and firewalls
 
+### Analysis & Data Transformation
+
+- Constructing multi-stage processing pipelines to decode obfuscated payloads and strings
+- Performing multi-scheme encoding/decoding operations (Base64, Hex, URL, ROT13, XOR)
+- Extracting Indicators of Compromise (IPs, URLs, Domains) from unstructured raw data streams
+- Leveraging automated detection tools (`Magic` operation) to identify unknown encoding schemes
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -484,6 +495,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - SIEM Engines (Splunk / Elastic / Generic SIEM)
 - `grep` / `awk` (Log Parsing)
 - PowerShell `Get-WinEvent`
+- CyberChef
+- `xxd`
+- `base64` CLI
+- Regular Expressions (Regex Extractors)
 
 ---
 
@@ -631,6 +646,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Centralized Log Collection & Normalization
 - Correlation Rules & Behavioral Detection
 - Alert Triage & Incident Investigation
+- Multi-Stage Data Encoding & Decoding
+- Cryptographic Hashing (MD5, SHA-256) & XOR Operations
+- Automated Data Deobfuscation & Magic Operations
+- Indicator of Compromise (IOC) Extraction Mechanics
 
 ---
 
@@ -681,6 +700,7 @@ tryhackme-writeups/
 └── Windows Command Line/
 └── Networking Concepts/
 └── Introduction to SIEM/
+└── CyberChef: The Basics/
 
 ---
 
