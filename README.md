@@ -121,6 +121,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Data Transformation & Obfuscation Analysis
 - Automated IOC Extraction & Phishing Triage Workflows
 - Recipe Pipelines & Pattern Analysis (CyberChef)
+- Windows Exploitation & Unpatched Vulnerability Assessment (MS17-010)
+- Metasploit Post-Exploitation Framework & Meterpreter Mechanics
+- Credential Harvesting (SAM Hash Dumping) & Process Migration
 
 ---
 
@@ -172,6 +175,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Very Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
 | 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Very Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
 | 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
+| 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/welcome | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
 
 ---
 
@@ -406,6 +410,14 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Extracting Indicators of Compromise (IPs, URLs, Domains) from unstructured raw data streams
 - Leveraging automated detection tools (`Magic` operation) to identify unknown encoding schemes
 
+### Offensive Security & Exploitation
+
+- Identifying critical SMB vulnerabilities using targeted Nmap NSE scripts (`smb-vuln-ms17-010`)
+- Weaponizing Remote Code Execution (RCE) flaws using the Metasploit Framework
+- Upgrading standard command-line shells to interactive Meterpreter sessions
+- Stabilizing execution context via process migration (`migrate`) to elevated system services
+- Dumping local account password hashes from the Windows SAM database
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -499,6 +511,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - `xxd`
 - `base64` CLI
 - Regular Expressions (Regex Extractors)
+- Metasploit Framework (`msfconsole`)
+- Meterpreter
+- Nmap (`--script=vuln`)
+- Hashcat / John the Ripper
 
 ---
 
@@ -650,6 +666,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Cryptographic Hashing (MD5, SHA-256) & XOR Operations
 - Automated Data Deobfuscation & Magic Operations
 - Indicator of Compromise (IOC) Extraction Mechanics
+- Windows Remote Code Execution (MS17-010 / EternalBlue)
+- SMB Protocol Vulnerabilities & Exploitation
+- Post-Exploitation & Process Migration Techniques
+- Privilege Escalation & SAM Hash Extraction Mechanics
 
 ---
 
