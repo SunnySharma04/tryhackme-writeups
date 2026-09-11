@@ -1,699 +1,212 @@
-# TryHackMe Writeups and Cybersecurity Learning Notes
+<div align="center">
 
-Welcome! 👋
+# 🛡️ TryHackMe Cybersecurity Learning Portfolio
 
-This repository documents my **ongoing cybersecurity learning journey** through **TryHackMe**. It contains beginner-friendly learning notes, room summaries, key concepts, and practical takeaways from the rooms I complete.
+### Practical cybersecurity notes, room summaries, defensive insights, and learning documentation
 
-> **Note:** I do **not** share flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The purpose of this repository is to document concepts, methodologies, tools, and defensive security understanding.
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-sunnysharma11200-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sunnysharma11200)
+[![Rooms](https://img.shields.io/badge/Rooms%20Documented-46-blue)](#-rooms-completed)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Cybersecurity%20Learning-2962FF?logo=hashnode&logoColor=white)](https://cybersecurity-learning.hashnode.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-SunnySharma04-181717?logo=github&logoColor=white)](https://github.com/SunnySharma04)
+
+</div>
 
 ---
 
-## 🎯 About
+## 👋 About This Repository
 
-This repository serves as my public cybersecurity learning portfolio.
+This repository documents my **ongoing cybersecurity learning journey through TryHackMe**.
 
-For every TryHackMe room I complete, I follow a structured learning process:
+Instead of publishing room answers or flags, I use this repository to record what I actually learn: important concepts, methodologies, tools, defensive takeaways, and practical security observations.
+
+For each room, my workflow is:
+
+**Learn → Practice → Take Notes → Explain → Publish → Review**
 
 - ✅ Complete the room independently
-- 📝 Take structured notes
-- 📖 Publish a beginner-friendly Hashnode blog
-- 💻 Maintain organized GitHub notes
-- 🌐 Share my learning journey on LinkedIn
+- 📝 Create structured technical notes
+- 🧠 Extract important concepts and methodology
+- 🛡️ Add defensive-security takeaways where relevant
+- ✍️ Publish a beginner-friendly Hashnode article
+- 💻 Maintain organized GitHub documentation
 
-This approach helps me reinforce my understanding while building a consistent portfolio around practical cybersecurity learning, documentation, and defensive security thinking.
-
----
-
-## 💡 Why This Repository?
-
-Every completed room is documented with:
-
-- Structured notes
-- Room summaries
-- Key concepts
-- Practical takeaways
-- Defensive security insights
-- Beginner-friendly explanations
-
-The goal is to continuously improve my cybersecurity knowledge while creating a resource that demonstrates my learning process, technical documentation skills, and ethical security mindset.
+> [!IMPORTANT]
+> This repository is for **educational and portfolio purposes only**.  
+> I do **not** publish room flags, direct answers, passwords, usernames, private lab IPs, or step-by-step walkthrough solutions.
 
 ---
 
-## 🎯 TryHackMe Profile
+## 📌 Portfolio Snapshot
 
-**Profile:**  
-https://tryhackme.com/p/sunnysharma11200
+| Area | Current Coverage |
+|---|---|
+| 🧪 Platform | TryHackMe |
+| 📚 Rooms documented | **46** |
+| 🔎 Reconnaissance | Passive & active reconnaissance, OSINT, enumeration |
+| 🌐 Web Security | HTTP, SQL injection, access control, OWASP concepts, Burp Suite |
+| 🖥️ System Security | Linux, Windows, privilege concepts, operating-system fundamentals |
+| 🌍 Networking | TCP/IP, OSI, DNS, ARP, DHCP, subnetting, network diagnostics |
+| 🔐 Cryptography | Symmetric/asymmetric encryption, hashing, PKI, signatures |
+| 🛡️ Blue Team | SOC fundamentals, SIEM, alert triage, logging, IDS/IPS, incident response |
+| ⚔️ Offensive Security | Pentesting methodology, Metasploit, service enumeration, CTF workflow |
+| 📖 Documentation | GitHub notes + beginner-friendly Hashnode articles |
 
 ---
 
-## 🚀 Current Learning Status
+## 🎯 Current Learning Focus
 
-I am currently upskilling in cybersecurity by completing TryHackMe rooms and documenting everything I learn.
+I am currently strengthening practical skills across:
 
-### Current Focus Areas
+- **Security Operations & Blue Team:** SOC workflows, SIEM, alert triage, log analysis, EDR concepts, IDS/IPS, incident response
+- **Web Application Security:** HTTP analysis, authentication, authorization, SQL injection, IDOR, OWASP Top 10
+- **Networking & Infrastructure:** TCP/IP, OSI, subnetting, DNS, ARP, DHCP, network visibility, perimeter security
+- **Reconnaissance & Enumeration:** OSINT, passive/active reconnaissance, host discovery, service analysis
+- **System Security:** Linux fundamentals, Windows administration, event logs, privilege boundaries, persistence awareness
+- **Offensive Security Foundations:** pentesting methodology, CTF workflow, Metasploit, enumeration-first thinking
+- **Cryptography & Data Security:** hashing, AES, RSA/ECC, PKI, signatures, encoding and data transformation
 
-- Cybersecurity Fundamentals
-- Networking Fundamentals
-- Web Application Security
-- Linux Fundamentals
-- OSINT and Reconnaissance
-- Authentication and Password Security
-- Penetration Testing Methodology
-- CTF Methodology
-- Vulnerability Research and Management
-- OWASP Top 10 Concepts
-- SOC and Blue Team Fundamentals
-- Defensive Security and Incident Response
-- Privilege Escalation Basics
-- Responsible Security Documentation
-- Network Security Essentials
-- Network Visibility
-- Perimeter Security
-- Firewall Log Analysis
-- IDS and IPS Monitoring
-- SOC Analyst Investigation
-- Windows Reconnaissance & Enumeration
-- Web Application Directory Discovery
-- RDP Credential Security
-- Windows Local Privilege Escalation
-- Post-Exploitation Persistence Analysis
-- OWASP Top 10 Vulnerabilities
-- Broken Access Control & Authorization Logic
-- Burp Suite Proxy Analysis
-- Server-Side Security Architecture
-- Infrastructure Security & Network Services
-- NFS Root-Squashing Exploitation
-- Protocol-Level Enumeration (SMTP, MySQL)
-- Privilege Escalation via SUID Binaries
-- Operating System Architecture & Internals
-- Kernel Resource Management & Memory Isolation
-- System Administration & CLI Operations
-- Computer Science & Software Fundamentals
-- Binary, Decimal, and Hexadecimal Conversions
-- Low-Level Data Representation & Encoding
-- Computer Science & Data Standards
-- Character Sets & Encoding Protocols (ASCII, Unicode, UTF-8)
-- Payload Obfuscation & Base64 Transformation Analysis
-- Network Fundamentals & LAN Architecture
-- Layer 2 MAC & Layer 3 IP Address Resolution Mechanics
-- Subnetting & Network Segmentation Principles
-- Cybersecurity Principles & Security Mindset
-- Risk Assessment & Threat Modeling (CIA vs. DAD)
-- Fundamental Security Architecture & Controls
-- Applied Cryptography & Encryption Standards (AES, RSA, ECC)
-- Public Key Infrastructure (PKI) & Asymmetric Key Exchange
-- Digital Signatures, Key Management, and PKI Verification
-- Windows Operating System Architecture & Administration
-- Windows Registry Analysis & Persistence Mechanisms
-- User Account Control (UAC) & Windows Access Boundaries
-- Windows System Administration & Management Consoles
-- Windows Event Log Triage & Forensic Analysis (EVTX)
-- Task Scheduling & Persistence Audit Operations
-- Native Windows Command Line (CMD) Administration & Triage
-- Process Inspection & Correlation (`tasklist`, `taskkill`)
-- CLI Network Diagnostics & Socket Analysis (`ipconfig`, `netstat`)
-- Network Architecture & Layered Models (OSI & TCP/IP)
-- Protocol Analysis (DNS, ARP, DHCP, ICMP, TCP/UDP)
-- Network Infrastructure & Routing Fundamentals
-- SIEM Architecture & Log Ingestion Workflows
-- Correlation Rule Evaluation & Alert Triage
-- SOC Operations & Baseline Incident Response
-- Data Transformation & Obfuscation Analysis
-- Automated IOC Extraction & Phishing Triage Workflows
-- Recipe Pipelines & Pattern Analysis (CyberChef)
-- Windows Exploitation & Unpatched Vulnerability Assessment (MS17-010)
-- Metasploit Post-Exploitation Framework & Meterpreter Mechanics
-- Credential Harvesting (SAM Hash Dumping) & Process Migration
-- Tier 1 SOC Alert Triage & Incident Validation Workflows
-- EDR & Sysmon Telemetry Correlation (Process Creation, Network Sockets)
-- True Positive / False Positive Classification & Escalation Documentation
+---
+
+## 🧠 Skills Developed
+
+### 🌐 Networking & Reconnaissance
+- TCP/IP and OSI fundamentals
+- IPv4 addressing and subnetting
+- DNS, ARP, DHCP and ICMP concepts
+- Host and service discovery
+- Passive and active reconnaissance
+- WHOIS, DNS and Shodan-based investigation
+- Network troubleshooting and traffic visibility
+
+### 🔒 Web Application Security
+- HTTP request/response analysis
+- Web enumeration and directory discovery
+- Authentication vs. authorization
+- SQL injection concepts and mitigation
+- IDOR and broken access control
+- Burp Suite request analysis
+- OWASP Top 10 awareness
+- Secure-design and server-side authorization principles
+
+### 🛡️ SOC & Defensive Security
+- Alert validation and triage
+- True-positive / false-positive analysis
+- SIEM and centralized logging concepts
+- Windows Event Log and Sysmon awareness
+- IDS/IPS and firewall-monitoring concepts
+- IOC extraction and enrichment
+- Incident escalation and documentation
+- Basic threat-intelligence workflow
+
+### ⚔️ Penetration Testing & CTF Methodology
+- Rules of engagement and ethical testing
+- Enumeration-first methodology
+- Service and attack-surface analysis
+- Metasploit fundamentals
+- Initial-access concepts in authorized labs
+- Linux and Windows privilege-escalation awareness
+- Post-exploitation and persistence analysis
+- Professional reporting mindset
+
+### 🖥️ Operating Systems & Administration
+- Linux terminal and filesystem fundamentals
+- Windows filesystem, registry and UAC concepts
+- Process and service inspection
+- Windows Event Viewer and Task Scheduler
+- Command-line administration
+- Kernel/user-space and resource-management fundamentals
+
+### 🔐 Cryptography, Encoding & Data
+- Hashing and integrity verification
+- Symmetric and asymmetric encryption
+- Public Key Infrastructure (PKI)
+- Digital signatures
+- ASCII, Unicode and UTF-8
+- Base64, hexadecimal and data-transformation workflows
+- IOC extraction and basic deobfuscation
+
+---
+
+## 🧰 Tools Practiced
+
+| Category | Tools / Technologies |
+|---|---|
+| Recon & Scanning | `Nmap`, `Shodan`, `WHOIS`, `DNSDumpster`, `Gobuster` |
+| Web Security | `Burp Suite`, `OWASP ZAP`, Browser DevTools, FoxyProxy |
+| Pentesting | `Metasploit`, `Meterpreter`, `Netcat`, `Hydra` |
+| Networking | `ping`, `traceroute/tracert`, `nslookup`, `dig`, `arp`, `tcpdump` |
+| Windows | PowerShell, `cmd.exe`, Event Viewer, Task Scheduler, `tasklist`, `netstat` |
+| Linux / CLI | Bash, `grep`, `awk`, `xxd`, `base64`, `hexdump` |
+| Cryptography | `OpenSSL`, `GPG`, `ssh-keygen`, `sha256sum` |
+| SOC / Analysis | SIEM concepts, EDR concepts, Sysmon, CyberChef, VirusTotal, AbuseIPDB |
 
 ---
 
 ## 📚 Rooms Completed
 
-| No. | Room | Topic | Difficulty | TryHackMe Room | Blog | Notes |
-|---|---|---|---|---|---|---|
-| 1 | Search Skills | OSINT, Search, Documentation | Easy | https://tryhackme.com/room/searchskills | https://cybersecurity-learning.hashnode.dev/tryhackme-search-skills-beginner-friendly-step-by-step-learning-guide | [Notes](./Search-Skills/) |
-| 2 | Web Application Basics | Web Applications, HTTP, URLs | Easy | https://tryhackme.com/room/webapplicationbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide | [Notes](./Web-Application-Basics/) |
-| 3 | Nmap Live Host Discovery | Nmap, Host Discovery, Networking | Medium | https://tryhackme.com/room/nmap01 | https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide | [Notes](./Nmap-Live-Host-Discovery/) |
-| 4 | Hydra | Password Auditing, Authentication | Easy | https://tryhackme.com/room/hydra | https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide | [Notes](./Hydra/) |
-| 5 | Metasploit: Introduction | Metasploit Framework, Modules, msfconsole | Easy | https://tryhackme.com/room/metasploitintro | https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide | [Notes](./Metasploit-Introduction/) |
-| 6 | SOC Fundamentals | SOC, Blue Team, Defensive Security | Easy | https://tryhackme.com/room/socfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide | [Notes](./SOC-Fundamentals/) |
-| 7 | Introduction to OWASP ZAP | OWASP ZAP, Web Security, Scanning | Easy | https://tryhackme.com/room/learnowaspzap | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide | [Notes](./Introduction-to-OWASP-ZAP/) |
-| 8 | SOC Role in Blue Team | SOC, Blue Team, SOC Analyst Roles | Easy | https://tryhackme.com/room/socroleinblueteam | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide | [Notes](./SOC-Role-in-Blue-Team/) |
-| 9 | OpenVPN | VPN Connectivity, Lab Access, Networking | Easy | https://tryhackme.com/room/openvpn | https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide | [Notes](./OpenVPN/) |
-| 10 | Defensive Security Intro | Defensive Security, Blue Team, Incident Response | Easy | https://tryhackme.com/room/defensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide | [Notes](./Defensive-Security-Intro/) |
-| 11 | SQL Injection | SQL Injection, Web Security, Database Security | Medium | https://tryhackme.com/room/sqlinjectionlm | https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide | [Notes](./SQL-Injection/) |
-| 12 | Burp Suite: Repeater | Burp Suite, Repeater, Web Security | Easy | https://tryhackme.com/room/burpsuiterepeater | https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide | [Notes](./Burp-Suite-Repeater/) |
-| 13 | Offensive Security Intro | Offensive Security, Ethical Hacking Basics | Easy | https://tryhackme.com/room/offensivesecurityintro | https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide | [Notes](./Offensive-Security-Intro/) |
-| 14 | Inside a Computer System | Computer Fundamentals, Hardware Basics | Easy | https://tryhackme.com/room/insideacomputer | https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide | [Notes](./Inside-a-Computer-System/) |
-| 15 | Introductory Networking | Networking, OSI Model, TCP/IP, DNS | Easy | https://tryhackme.com/room/introtonetworking | https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide | [Notes](./Introductory-Networking/) |
-| 16 | Pentesting Fundamentals | Penetration Testing, Ethics, Methodologies | Easy | https://tryhackme.com/room/pentestingfundamentals | https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide | [Notes](./Pentesting-Fundamentals/) |
-| 17 | Vulnerabilities 101 | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | https://tryhackme.com/room/vulnerabilities101 | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide | [Notes](./Vulnerabilities-101/) |
-| 18 | OWASP Top 10 2025: IAAA Failures | OWASP Top 10, IAAA, Web Security | Easy | https://tryhackme.com/room/owasptopten2025one | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
-| 19 | OWASP Top 10 2025: Application Design Flaws | OWASP Top 10, Application Security, Secure Design | Easy | https://tryhackme.com/room/owasptopten2025two | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
-| 20 | OWASP Top 10 2025: Insecure Data Handling | OWASP Top 10, Data Security, Web Security | Easy | https://tryhackme.com/room/owasptopten2025three | https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
-| 21 | Corridor | IDOR, Broken Access Control, Web Security | Easy | https://tryhackme.com/room/corridor | https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide | [Notes](./Corridor/) |
-| 22 | Vulnversity | Reconnaissance, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/vulnversity | https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide | [Notes](./Vulnversity/) |
-| 23 | Passive Reconnaissance | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | https://tryhackme.com/room/passiverecon | https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide | [Notes](./Passive-Reconnaissance/) |
-| 24 | Active Reconnaissance | Active Reconnaissance, Networking, Service Interaction | Easy | https://tryhackme.com/room/activerecon | https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide | [Notes](./Active-Reconnaissance/) |
-| 25 | Basic Pentesting | Penetration Testing, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/basicpentestingjt | https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide | [Notes](./Basic-Pentesting/) |
-| 26 | Simple CTF | CTF, Enumeration, Linux, Privilege Escalation | Easy | https://tryhackme.com/room/easyctf | https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide | [Notes](./Simple-CTF/) |
-| 27 | RootMe | CTF, Web Security, Privilege Escalation | Easy | https://tryhackme.com/room/rrootme | https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide | [Notes](./RootMe/) |
-| 28 | Pickle Rick | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | https://tryhackme.com/room/picklerick | https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide | [Notes](./Pickle-Rick/) |
-| 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
-| 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
-| 31 | Broken Access Control | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | https://tryhackme.com/room/owaspbrokenaccesscontrol | https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive | [Notes](./Broken-Access-Control/) |
-| 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
-| 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
-| 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
-| 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
-| 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
-| 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
-| 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
-| 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
-| 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
-| 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
-| 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
-| 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
-| 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
-| 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/blue | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
-| 46 | SOC Level 1 - Alert Triage | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | https://tryhackme.com/room/socl1alerttriage | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide | [Notes](./SOC-L1-Alert-Triage/) |
+I keep room notes organized by topic and link each room to its TryHackMe page, related Hashnode article, and local GitHub notes.
 
----
+<details>
+<summary><strong>📂 View all 46 documented rooms</strong></summary>
 
-## 🛠 Skills Gained
+<br>
 
-Through these rooms, I have gained hands-on exposure to the following areas:
+| # | Room | Key Topics | Level | TryHackMe | Blog | Notes |
+|---:|---|---|:---:|:---:|:---:|:---:|
+| 1 | **Search Skills** | OSINT, Search, Documentation | Easy | [Room](https://tryhackme.com/room/searchskills) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-search-skills-beginner-friendly-step-by-step-learning-guide) | [Notes](./Search-Skills/) |
+| 2 | **Web Application Basics** | Web Applications, HTTP, URLs | Easy | [Room](https://tryhackme.com/room/webapplicationbasics) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-web-application-basics-beginner-friendly-learning-guide) | [Notes](./Web-Application-Basics/) |
+| 3 | **Nmap Live Host Discovery** | Nmap, Host Discovery, Networking | Medium | [Room](https://tryhackme.com/room/nmap01) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-nmap-live-host-discovery-beginner-friendly-step-by-step-learning-guide) | [Notes](./Nmap-Live-Host-Discovery/) |
+| 4 | **Hydra** | Password Auditing, Authentication | Easy | [Room](https://tryhackme.com/room/hydra) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-hydra-beginner-friendly-step-by-step-learning-guide) | [Notes](./Hydra/) |
+| 5 | **Metasploit: Introduction** | Metasploit Framework, Modules, msfconsole | Easy | [Room](https://tryhackme.com/room/metasploitintro) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-metasploit-introduction-beginner-friendly-learning-guide) | [Notes](./Metasploit-Introduction/) |
+| 6 | **SOC Fundamentals** | SOC, Blue Team, Defensive Security | Easy | [Room](https://tryhackme.com/room/socfundamentals) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-fundamentals-beginner-friendly-learning-guide) | [Notes](./SOC-Fundamentals/) |
+| 7 | **Introduction to OWASP ZAP** | OWASP ZAP, Web Security, Scanning | Easy | [Room](https://tryhackme.com/room/learnowaspzap) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-owasp-zap-beginner-friendly-learning-guide) | [Notes](./Introduction-to-OWASP-ZAP/) |
+| 8 | **SOC Role in Blue Team** | SOC, Blue Team, SOC Analyst Roles | Easy | [Room](https://tryhackme.com/room/socroleinblueteam) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-role-in-blue-team-beginner-friendly-learning-guide) | [Notes](./SOC-Role-in-Blue-Team/) |
+| 9 | **OpenVPN** | VPN Connectivity, Lab Access, Networking | Easy | [Room](https://tryhackme.com/room/openvpn) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-openvpn-beginner-friendly-learning-guide) | [Notes](./OpenVPN/) |
+| 10 | **Defensive Security Intro** | Defensive Security, Blue Team, Incident Response | Easy | [Room](https://tryhackme.com/room/defensivesecurityintro) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-defensive-security-intro-beginner-friendly-learning-guide) | [Notes](./Defensive-Security-Intro/) |
+| 11 | **SQL Injection** | SQL Injection, Web Security, Database Security | Medium | [Room](https://tryhackme.com/room/sqlinjectionlm) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-sql-injection-beginner-friendly-learning-guide) | [Notes](./SQL-Injection/) |
+| 12 | **Burp Suite: Repeater** | Burp Suite, Repeater, Web Security | Easy | [Room](https://tryhackme.com/room/burpsuiterepeater) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-burp-suite-repeater-beginner-friendly-learning-guide) | [Notes](./Burp-Suite-Repeater/) |
+| 13 | **Offensive Security Intro** | Offensive Security, Ethical Hacking Basics | Easy | [Room](https://tryhackme.com/room/offensivesecurityintro) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-offensive-security-intro-beginner-friendly-learning-guide) | [Notes](./Offensive-Security-Intro/) |
+| 14 | **Inside a Computer System** | Computer Fundamentals, Hardware Basics | Easy | [Room](https://tryhackme.com/room/insideacomputer) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-inside-a-computer-system-beginner-friendly-learning-guide) | [Notes](./Inside-a-Computer-System/) |
+| 15 | **Introductory Networking** | Networking, OSI Model, TCP/IP, DNS | Easy | [Room](https://tryhackme.com/room/introtonetworking) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-introductory-networking-beginner-friendly-learning-guide) | [Notes](./Introductory-Networking/) |
+| 16 | **Pentesting Fundamentals** | Penetration Testing, Ethics, Methodologies | Easy | [Room](https://tryhackme.com/room/pentestingfundamentals) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-pentesting-fundamentals-beginner-friendly-learning-guide) | [Notes](./Pentesting-Fundamentals/) |
+| 17 | **Vulnerabilities 101** | Vulnerabilities, CVSS, CVE, Vulnerability Research | Easy | [Room](https://tryhackme.com/room/vulnerabilities101) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-vulnerabilities-101-beginner-friendly-learning-guide) | [Notes](./Vulnerabilities-101/) |
+| 18 | **OWASP Top 10 2025: IAAA Failures** | OWASP Top 10, IAAA, Web Security | Easy | [Room](https://tryhackme.com/room/owasptopten2025one) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-iaaa-failures-beginner-friendly-learning-guide) | [Notes](./OWASP-Top-10-2025-IAAA-Failures/) |
+| 19 | **OWASP Top 10 2025: Application Design Flaws** | OWASP Top 10, Application Security, Secure Design | Easy | [Room](https://tryhackme.com/room/owasptopten2025two) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-application-design-flaws-beginner-friendly-learning-guide) | [Notes](./OWASP-Top-10-2025-Application-Design-Flaws/) |
+| 20 | **OWASP Top 10 2025: Insecure Data Handling** | OWASP Top 10, Data Security, Web Security | Easy | [Room](https://tryhackme.com/room/owasptopten2025three) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-owasp-top-10-2025-insecure-data-handling-beginner-friendly-learning-guide) | [Notes](./OWASP-Top-10-2025-Insecure-Data-Handling/) |
+| 21 | **Corridor** | IDOR, Broken Access Control, Web Security | Easy | [Room](https://tryhackme.com/room/corridor) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-corridor-beginner-friendly-learning-guide) | [Notes](./Corridor/) |
+| 22 | **Vulnversity** | Reconnaissance, Web Security, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/vulnversity) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-vulnversity-beginner-friendly-learning-guide) | [Notes](./Vulnversity/) |
+| 23 | **Passive Reconnaissance** | Passive Reconnaissance, OSINT, DNS, Shodan | Easy | [Room](https://tryhackme.com/room/passiverecon) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-passive-reconnaissance-beginner-friendly-learning-guide) | [Notes](./Passive-Reconnaissance/) |
+| 24 | **Active Reconnaissance** | Active Reconnaissance, Networking, Service Interaction | Easy | [Room](https://tryhackme.com/room/activerecon) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-active-reconnaissance-beginner-friendly-learning-guide) | [Notes](./Active-Reconnaissance/) |
+| 25 | **Basic Pentesting** | Penetration Testing, Web Security, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/basicpentestingjt) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-basic-pentesting-beginner-friendly-learning-guide) | [Notes](./Basic-Pentesting/) |
+| 26 | **Simple CTF** | CTF, Enumeration, Linux, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/easyctf) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-simple-ctf-beginner-friendly-learning-guide) | [Notes](./Simple-CTF/) |
+| 27 | **RootMe** | CTF, Web Security, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/rrootme) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-rootme-beginner-friendly-learning-guide) | [Notes](./RootMe/) |
+| 28 | **Pickle Rick** | CTF, Web Security, Linux Basics, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/picklerick) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-pickle-rick-beginner-friendly-learning-guide) | [Notes](./Pickle-Rick/) |
+| 29 | **Network Security Essentials** | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | [Room](https://tryhackme.com/room/networksecurityessentials) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide) | [Notes](./Network-Security-Essentials/) |
+| 30 | **Blaster** | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/blaster) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide) | [Notes](./Blaster/) |
+| 31 | **Broken Access Control** | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/owaspbrokenaccesscontrol) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive) | [Notes](./Broken-Access-Control/) |
+| 32 | **Network Services 2** | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy | [Room](https://tryhackme.com/room/networkservices2) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive) | [Notes](./Network-Services-2/) |
+| 33 | **Operating Systems: Introduction** | OS Architecture, Kernel Operations, Resource Management | Easy | [Room](https://tryhackme.com/room/operatingsystemsintroduction) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive) | [Notes](./Operating-Systems-Introduction/) |
+| 34 | **Data Representation** | Binary, Hexadecimal, Base Conversions, Color Encoding | Easy | [Room](https://tryhackme.com/room/datarepresentation) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive) | [Notes](./Data-Representation/) |
+| 35 | **Data Encoding** | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Easy | [Room](https://tryhackme.com/room/dataencoding) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive) | [Notes](./Data-Encoding/) |
+| 36 | **Intro to LAN** | Topologies, Subnetting, ARP, DHCP DORA | Easy | [Room](https://tryhackme.com/room/introtolan) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive) | [Notes](./Intro-to-LAN/) |
+| 37 | **The CIA Triad** | Confidentiality, Integrity, Availability, DAD Triad | Easy | [Room](https://tryhackme.com/room/theciatriad) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive) | [Notes](./The-CIA-Triad/) |
+| 38 | **Cryptography Concepts** | Symmetric & Asymmetric Encryption, Key Management, PKI | Easy | [Room](https://tryhackme.com/room/cryptographyconcepts) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive) | [Notes](./Cryptography-Concepts/) |
+| 39 | **Windows Fundamentals 1** | Windows Architecture, File System, Registry, UAC, Task Manager | Easy | [Room](https://tryhackme.com/room/windowsfundamentals1) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide) | [Notes](./Windows-Fundamentals-1/) |
+| 40 | **Windows Fundamentals 2** | Event Logs, Task Scheduler, Computer Management, System Config | Easy | [Room](https://tryhackme.com/room/windowsfundamentals2) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide) | [Notes](./Windows-Fundamentals-2/) |
+| 41 | **Windows Command Line** | File Operations, System & Process Management, Network Triage | Easy | [Room](https://tryhackme.com/room/windowscommandline) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide) | [Notes](./Windows-Command-Line/) |
+| 42 | **Networking Concepts** | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Easy | [Room](https://tryhackme.com/room/networkingconcepts) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide) | [Notes](./Networking-Concepts/) |
+| 43 | **Introduction to SIEM** | Log Management, Aggregation, Correlation Rules, Alert Triage | Easy | [Room](https://tryhackme.com/room/introtosiem) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide) | [Notes](./Introduction-to-SIEM/) |
+| 44 | **CyberChef: The Basics** | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | [Room](https://tryhackme.com/room/cyberchefbasics) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide) | [Notes](./CyberChef-The-Basics/) |
+| 45 | **Blue** | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | [Room](https://tryhackme.com/room/blue) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide) | [Notes](./Blue/) |
+| 46 | **SOC Level 1 - Alert Triage** | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | [Room](https://tryhackme.com/room/socl1alerttriage) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide) | [Notes](./SOC-L1-Alert-Triage/) |
 
-### Cybersecurity Foundations
-
-- Ethical hacking mindset
-- Safe lab practice
-- Technical documentation
-- Responsible disclosure awareness
-- Learning-in-public portfolio building
-- Defensive security thinking
-
-### Networking and Connectivity
-
-- TCP/IP fundamentals
-- OSI model concepts
-- IP addressing and subnetting basics
-- Host discovery methodology
-- DNS investigation concepts
-- VPN connectivity with OpenVPN
-- Network troubleshooting with ping and traceroute
-
-### Reconnaissance and OSINT
-
-- Passive reconnaissance methodology
-- Active reconnaissance methodology
-- WHOIS lookup concepts
-- DNS record investigation
-- Shodan and external attack surface awareness
-- Browser-based reconnaissance
-- Service response analysis
-
-### Web Application Security
-
-- HTTP request and response analysis
-- Web application enumeration
-- Directory discovery concepts
-- Source code awareness
-- Authentication and authorization basics
-- OWASP Top 10 awareness
-- SQL Injection concepts and remediation
-- IDOR and broken access control awareness
-- Secure file upload principles
-
-### Authentication and Password Security
-
-- Password auditing concepts
-- Hydra awareness in authorized labs
-- Brute-force risk understanding
-- Credential security best practices
-- Account lockout and rate limiting concepts
-- Multi-Factor Authentication awareness
-- Secure credential storage mindset
-
-### Penetration Testing and CTF Flow
-
-- Penetration testing ethics
-- Rules of engagement awareness
-- Black box, white box, and grey box testing concepts
-- Enumeration-first methodology
-- Initial access concepts
-- Shell access concepts
-- Linux enumeration basics
-- Privilege escalation awareness
-- Professional reporting mindset
-
-### Vulnerability Research and OWASP
-
-- Vulnerability vs exploit understanding
-- CVSS and VPR scoring concepts
-- CVE and vulnerability database awareness
-- Risk prioritization basics
-- IAAA security model concepts
-- Security misconfiguration awareness
-- Software supply chain security basics
-- Cryptographic failure awareness
-- Injection and data integrity concepts
-- Secure application design mindset
-
-### SOC and Defensive Security
-
-- SOC team structure awareness
-- Alert triage basics
-- Security monitoring concepts
-- Log analysis mindset
-- Incident response lifecycle awareness
-- Threat intelligence concepts
-- SIEM, EDR, IDS, and IPS awareness
-- Defensive monitoring for reconnaissance, web attacks, and privilege activity
-
-### Computer and Linux Fundamentals
-
-- Computer hardware and software basics
-- CPU, RAM, storage, BIOS, and UEFI awareness
-- Linux terminal familiarity
-- Files, directories, users, groups, and permissions
-- Least privilege principles
-- System hardening awareness
-
-### Network Security & Perimeter Monitoring
-
-- Network security fundamentals
-- Network component awareness
-- Network visibility concepts
-- Host-centric log awareness
-- Network-centric log awareness
-- Firewall monitoring concepts
-- IDS and IPS concepts
-- VPN gateway security awareness
-- Perimeter security concepts
-- Port scanning detection concepts
-- Brute-force detection concepts
-- Malware beaconing awareness
-- Perimeter log investigation
-- SOC analyst mindset
-
-### Windows Exploitation & Privilege Escalation
-
-- Web directory discovery and enumeration
-- Service scanning and protocol analysis
-- RDP attack surface evaluation
-- Windows initial access execution
-- Local privilege escalation methodology
-- SYSTEM authority escalation concepts
-- Post-exploitation persistence analysis
-- SOC event log correlation (Event IDs 4624, 4625, 4688)
-
-### Web Application Security & Authorization
-
-- Access control model evaluation (DAC, MAC, RBAC, ABAC)
-- Burp Suite HTTP proxy manipulation
-- Parameter tampering and client-side logic bypass
-- Vertical privilege escalation detection
-- Insecure Direct Object Reference (IDOR) awareness
-- Server-side authorization enforcement
-- Least Privilege & Deny-by-Default implementation
-
-### Infrastructure Security & Protocol Exploitation
-
-- NFS share discovery & mount manipulation
-- Root-squashing misconfiguration exploitation
-- SMTP account enumeration & mapping
-- MySQL database remote access & querying
-- Local privilege escalation via SUID binaries
-
-### System Architecture & Operating Systems
-
-- Kernel-space vs. User-space execution boundary analysis
-- CPU scheduling and memory allocation concepts
-- File system abstraction and device management
-- Operating system landscape evaluation (Windows, Linux, macOS)
-- CLI and shell administration fundamentals
-
-### Computer Science & Data Fundamentals
-
-- Base numbering system conversions (Binary, Decimal, Hexadecimal)
-- Bit, Byte, and Nibble data mapping
-- RGB color triplet encoding and Hex code analysis
-- Low-level binary structure interpretation for memory & traffic analysis
-
-### Data Encoding & System Standards
-
-- ASCII bit mapping and Unicode variable-length (UTF-8) mechanics
-- Base64 6-bit indexing, binary regrouping, and padding verification
-- Command-line data transformation pipelines (`base64`, `xxd`, `hexdump`)
-- Identifying payload obfuscation techniques in web security and log triage
-
-### Network Architecture & Fundamentals
-
-- Evaluating physical and logical network topologies (Star, Bus, Ring, Mesh)
-- Calculating subnets, host capacities, and subnet masks using CIDR notation
-- Analyzing ARP resolution traffic and local ARP cache management
-- Inspecting DHCP DORA packet sequences and troubleshooting lease assignments
-
-### Security Architecture & Principles
-
-- Evaluating system architecture against Confidentiality, Integrity, and Availability requirements
-- Analyzing security breaches using the Disclosure, Alteration, and Destruction (DAD) framework
-- Verifying data integrity using cryptographic hashing and digital signatures
-- Balancing risk mitigation with business usability and operational availability
-
-### Cryptography & Data Protection
-
-- Implementing symmetric encryption (AES-256) for secure data-at-rest storage
-- Generating, managing, and securing asymmetric key pairs (RSA, ECC) using OpenSSL and GPG
-- Analyzing hybrid encryption workflows used in SSL/TLS and SSH protocols
-- Signing and verifying digital files to enforce data integrity and non-repudiation
-
-### Operating System & Host Administration
-
-- Navigating and analyzing Windows OS file structures (`C:\Windows`, `C:\Program Files`, `C:\Users`)
-- Querying and inspecting Windows Registry hives (`HKLM`, `HKCU`) for system configuration and persistence analysis
-- Managing Windows user privileges, local accounts, and User Account Control (UAC) boundaries
-- Monitoring active processes, services, and system performance using Task Manager and PowerShell
-
-### System Diagnostics & Event Analysis
-
-- Navigating and utilizing core administrative tools (`compmgmt.msc`, `eventvwr.msc`, `taskschd.msc`, `msconfig`)
-- Inspecting and querying Windows Event Logs (Security, System, Application) using PowerShell (`Get-WinEvent`) and `wevtutil`
-- Auditing active scheduled tasks to identify potential system persistence entries
-- Managing and controlling Windows background services using command-line utilities (`sc`)
-
-### Command Line & System Administration
-
-- Navigating and managing the Windows filesystem via Command Prompt (`cmd.exe`)
-- Querying hardware, OS configuration, and system patch levels using `systeminfo`
-- Correlating active processes to open network sockets using `tasklist` and `netstat -ano`
-- Managing process execution and forcing termination of rogue tasks via `taskkill`
-
-### Networking & Infrastructure
-
-- Mapping communication workflows across OSI and TCP/IP protocol stacks
-- Troubleshooting Layer 2/3 connectivity using `ip`, `arp`, and `traceroute`
-- Querying and diagnosing DNS record hierarchies using `nslookup` and `dig`
-- Analyzing address resolution mechanics (ARP) and IP subnetting structures
-
-### Security Operations & SIEM
-
-- Aggregating, parsing, and normalizing security logs across heterogenous network environments
-- Writing and evaluating search queries to detect suspicious authentication and execution events
-- Triaging SIEM dashboard alerts to differentiate between true threats and false positives
-- Building forensic timelines by correlating time-synchronized logs across endpoints and firewalls
-
-### Analysis & Data Transformation
-
-- Constructing multi-stage processing pipelines to decode obfuscated payloads and strings
-- Performing multi-scheme encoding/decoding operations (Base64, Hex, URL, ROT13, XOR)
-- Extracting Indicators of Compromise (IPs, URLs, Domains) from unstructured raw data streams
-- Leveraging automated detection tools (`Magic` operation) to identify unknown encoding schemes
-
-### Offensive Security & Exploitation
-
-- Identifying critical SMB vulnerabilities using targeted Nmap NSE scripts (`smb-vuln-ms17-010`)
-- Weaponizing Remote Code Execution (RCE) flaws using the Metasploit Framework
-- Upgrading standard command-line shells to interactive Meterpreter sessions
-- Stabilizing execution context via process migration (`migrate`) to elevated system services
-- Dumping local account password hashes from the Windows SAM database
-
-### Security Operations & Incident Triage
-
-- Executing end-to-end alert verification lifecycle (Verify -> Contextualize -> Determine Severity -> Document)
-- Differentiating True Positives, False Positives, and Benign activity using contextual telemetry
-- Investigating process execution trees (Sysmon Event ID 1) and network connections (Sysmon Event ID 3)
-- Authoring structured escalation tickets with attached IOCs for Tier 2/3 incident response
-
----
-
-## 🧰 Tools and Concepts Practiced
-
-- Nmap
-- Hydra
-- Metasploit Framework
-- msfconsole
-- OWASP ZAP
-- Burp Suite Repeater
-- Browser Developer Tools
-- GitHub Search
-- VirusTotal
-- Shodan
-- OpenVPN
-- Linux Terminal
-- Ping
-- Traceroute
-- WHOIS
-- nslookup
-- dig
-- DNSDumpster
-- Telnet
-- Netcat
-- Gobuster Concepts
-- SIEM Concepts
-- EDR Concepts
-- IDS/IPS Concepts
-- Firewall Monitoring Concepts
-- Threat Intelligence Concepts
-- Ticketing System Concepts
-- Network Security Concepts
-- Firewall Log Analysis Concepts
-- IDS Concepts
-- IPS Concepts
-- VPN Gateway Monitoring Concepts
-- SIEM Concepts
-- Perimeter Monitoring Concepts
-- Network Visibility Concepts
-- SOC Investigation Concepts
-- Nmap
-- Gobuster
-- xfreerdp / RDP Clients
-- Metasploit Framework
-- Windows System Utilities
-- Windows Event Viewer
-- Burp Suite Proxy
-- FoxyProxy
-- Web Application Developer Tools
-- Showmount
-- SMTP User Enum
-- MySQL Client
-- Nmap RPC & Database Scripts
-- Linux Shell / Bash
-- Windows PowerShell
-- OS Monitoring Utilities
-- Hex Editors / Converters
-- Base Conversion Tools
-- `base64` CLI
-- `xxd` / `hexdump`
-- CyberChef
-- `arp` / `arping`
-- `ip` / `ifconfig` / `ipconfig`
-- `dhclient`
-- `tcpdump`
-- `sha256sum` / `md5sum`
-- `gpg`
-- `openssl`
-- `icacls`
-- `ssh-keygen`
-- `regedit` / `reg` CLI
-- `lusrmgr.msc`
-- `services.msc`
-- Task Manager / Resource Monitor
-- `eventvwr.msc`
-- `taskschd.msc`
-- `compmgmt.msc`
-- `wevtutil` / `schtasks`
-- `cmd.exe`
-- `tasklist` / `taskkill`
-- `systeminfo`
-- `netstat` / `ipconfig`
-- `dig` / `nslookup`
-- `ip` / `ipconfig`
-- `arp`
-- `traceroute` / `tracert`
-- SIEM Engines (Splunk / Elastic / Generic SIEM)
-- `grep` / `awk` (Log Parsing)
-- PowerShell `Get-WinEvent`
-- CyberChef
-- `xxd`
-- `base64` CLI
-- Regular Expressions (Regex Extractors)
-- Metasploit Framework (`msfconsole`)
-- Meterpreter
-- Nmap (`--script=vuln`)
-- Hashcat / John the Ripper
-- SIEM / EDR Dashboards
-- Sysmon / Windows Event Viewer
-- OSINT Lookup Tools (VirusTotal, AbuseIPDB, Whois)
-
----
-
-## 📖 Topics Covered
-
-- Access Control
-- Active Reconnaissance
-- Application Design Flaws
-- Authentication Security
-- Blue Team Security
-- Broken Access Control
-- Burp Suite Repeater
-- Capture The Flag
-- Computer Fundamentals
-- Cryptographic Failures
-- CTF Methodology
-- Cybersecurity Fundamentals
-- Database Security
-- Defensive Monitoring
-- Defensive Security
-- Directory Discovery
-- DNS Fundamentals
-- Ethical Hacking
-- File Upload Security
-- Host Discovery
-- HTTP Fundamentals
-- IDOR
-- Incident Response
-- Injection Concepts
-- Linux Basics
-- Linux Enumeration
-- Networking Fundamentals
-- Nmap
-- OSINT
-- OWASP Top 10
-- Password Auditing
-- Penetration Testing
-- Privilege Escalation
-- Reconnaissance
-- Responsible Security Learning
-- Rules of Engagement
-- Security Monitoring
-- Shell Access Concepts
-- SOC Fundamentals
-- Software Supply Chain Security
-- Source Code Awareness
-- SQL Injection
-- Vulnerability Management
-- Vulnerability Research
-- Web Application Enumeration
-- Web Application Security
-- Web Server Exposure
-- Network Security Essentials
-- Network Security
-- Defensive Security
-- Network Visibility
-- Network Perimeter
-- Firewall Logs
-- IDS
-- IPS
-- VPN Gateway Monitoring
-- Perimeter Monitoring
-- Port Scanning Detection
-- Brute-Force Detection
-- Malware Beaconing
-- Host-Centric Logs
-- Network-Centric Logs
-- SOC Analyst Thinking
-- Perimeter Log Investigation
-- Defensive Monitoring
-- Blaster
-- Windows Security
-- Web Enumeration
-- Directory Brute-Forcing
-- Remote Desktop Protocol (RDP)
-- Initial Access
-- Windows Privilege Escalation
-- SYSTEM Privileges
-- Post-Exploitation
-- Persistence Mechanisms
-- SOC Log Analysis
-- Broken Access Control
-- OWASP Top 10 (A01:2021)
-- Authorization vs Authentication
-- Role-Based Access Control (RBAC)
-- Attribute-Based Access Control (ABAC)
-- Client-Side Parameter Tampering
-- Vertical Privilege Escalation
-- Server-Side Mitigation Strategies
-- Network Services 2
-- NFS Security
-- Root Squashing
-- SMTP Enumeration
-- MySQL Hardening
-- Infrastructure Exploitation
-- Operating Systems Basics
-- Kernel Architecture
-- Process Scheduling
-- Memory Management
-- CLI vs. GUI
-- Data Representation
-- Binary Arithmetic
-- Hexadecimal Encoding
-- RGB Color Models
-- Low-Level Computing
-- Data Encoding vs Encryption vs Hashing
-- ASCII & Extended ASCII
-- Unicode & UTF-8 / UTF-16 / UTF-32
-- Base64 Encoding Mechanics
-- Payload Transformations
-- Network Topologies
-- IPv4 Subnetting & CIDR
-- Address Resolution Protocol (ARP)
-- Dynamic Host Configuration Protocol (DHCP)
-- Network Interface Configuration
-- The CIA Triad (Confidentiality, Integrity, Availability)
-- The DAD Triad (Disclosure, Alteration, Destruction)
-- Security Mindset & Controls Balancing
-- Data Integrity & Cryptographic Hashing
-- Symmetric Encryption (AES, DES, 3DES)
-- Asymmetric Encryption (RSA, ECC)
-- Hybrid Cryptography & Key Distribution
-- Digital Signatures & File Verification
-- Public Key Infrastructure (PKI)
-- Windows File System (NTFS) Structure
-- Windows Registry Hives (`HKLM`, `HKCU`, `HKCR`, `HKU`)
-- User Account Control (UAC) & Privilege Management
-- Windows Services & Task Manager Inspection
-- System Diagnostics via Command Prompt & PowerShell
-- Windows Event Logging & Security Event IDs (`4624`, `4625`, `4698`)
-- Task Scheduler & Persistence Mechanisms
-- Computer Management Snap-ins & Disk Management
-- System Configuration (`msconfig`) & Boot Parameters
-- Windows Service Control Manager (`sc`)
-- Windows File System Navigation & Manipulation
-- System Configuration & Patch Retrieval
-- Process & Task Management
-- Network Interface Diagnostics & Socket Inspection
-- OSI 7-Layer & TCP/IP Models
-- IPv4 vs. IPv6 Addressing & Subnetting
-- Address Resolution Protocol (ARP)
-- Domain Name System (DNS) & DHCP Mechanics
-- Network Path Diagnostics & ICMP
-- SIEM Architecture & Operational Workflows
-- Centralized Log Collection & Normalization
-- Correlation Rules & Behavioral Detection
-- Alert Triage & Incident Investigation
-- Multi-Stage Data Encoding & Decoding
-- Cryptographic Hashing (MD5, SHA-256) & XOR Operations
-- Automated Data Deobfuscation & Magic Operations
-- Indicator of Compromise (IOC) Extraction Mechanics
-- Windows Remote Code Execution (MS17-010 / EternalBlue)
-- SMB Protocol Vulnerabilities & Exploitation
-- Post-Exploitation & Process Migration Techniques
-- Privilege Escalation & SAM Hash Extraction Mechanics
-- SOC Level 1 Triage Methodology & SLA Workflows
-- Process Execution Analysis & Parent-Child Relationships
-- True Positive vs. False Positive Analysis
-- Incident Ticket Structuring & Escalation Documentation
+</details>
 
 ---
 
 ## 📁 Repository Structure
 
-Each room has its own folder containing organized notes.
+Each room has its own folder containing structured notes.
 
 ```text
 tryhackme-writeups/
@@ -727,44 +240,116 @@ tryhackme-writeups/
 ├── Pickle-Rick/
 ├── Network-Security-Essentials/
 ├── Blaster/
-├── Broken Access Control/
-├── Data Representation/
-├── Data Encoding/
-├── Intro to LAN/
-├── The CIA Triad/
-├── Cryptography Concepts/
-├── Windows Fundamentals 1/
-├── Windows Fundamentals 2/
-├── Windows Command Line/
-├── Networking Concepts/
-├── Introduction to SIEM/
-├── CyberChef: The Basics/
+├── Broken-Access-Control/
+├── Network-Services-2/
+├── Operating-Systems-Introduction/
+├── Data-Representation/
+├── Data-Encoding/
+├── Intro-to-LAN/
+├── The-CIA-Triad/
+├── Cryptography-Concepts/
+├── Windows-Fundamentals-1/
+├── Windows-Fundamentals-2/
+├── Windows-Command-Line/
+├── Networking-Concepts/
+├── Introduction-to-SIEM/
+├── CyberChef-The-Basics/
 ├── Blue/
-├── SOC Level 1 - Alert Triage/
+└── SOC-L1-Alert-Triage/
+```
+
+A typical room folder follows a simple structure:
+
+```text
+Room-Name/
+└── README.md
+```
+
+The room-level README focuses on:
+
+- What the room teaches
+- Core concepts
+- Important commands or tools
+- Methodology
+- Defensive-security perspective
+- Key takeaways
+- Further learning
 
 ---
 
 ## ✍️ Hashnode Blog
 
-I regularly publish beginner-friendly blogs explaining the concepts I learn while completing TryHackMe rooms.
+I regularly publish beginner-friendly articles explaining the cybersecurity concepts I learn while completing TryHackMe rooms.
 
-🌐 **Hashnode:** [https://cybersecurity-learning.hashnode.dev/](https://cybersecurity-learning.hashnode.dev/)
+🌐 **Blog:** [cybersecurity-learning.hashnode.dev](https://cybersecurity-learning.hashnode.dev/)
+
+The goal is to practice not only **doing cybersecurity work**, but also **explaining technical concepts clearly**.
+
+---
+
+## 🚀 Learning Philosophy
+
+I use TryHackMe as a practical learning environment rather than a checklist of completed rooms.
+
+My focus is to understand:
+
+1. **What is happening?**
+2. **Why does it work?**
+3. **How can it be detected?**
+4. **How can it be prevented or mitigated?**
+5. **How would I explain it clearly to someone else?**
+
+This helps me connect offensive-security concepts with defensive-security thinking.
+
+---
+
+## 🗺️ What I'm Building Toward
+
+My long-term goal is to build a strong foundation across:
+
+- Security Operations / SOC
+- Network Security
+- Web Application Security
+- Incident Response
+- Threat Detection
+- Vulnerability Assessment
+- Penetration Testing Fundamentals
+- Security Automation and Analysis
+
+I will continue updating this repository as I complete more rooms and develop deeper practical skills.
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [SunnySharma04](https://github.com/SunnySharma04)
-- **Hashnode:** [cybersecurity-learning.hashnode.dev](https://cybersecurity-learning.hashnode.dev/)
-- **TryHackMe:** [sunnysharma11200](https://tryhackme.com/p/sunnysharma11200)
-- **LinkedIn:** [Sunny Sharma](https://www.linkedin.com/in/sunny-sharma-2487312a7/)
+- 💻 **GitHub:** [SunnySharma04](https://github.com/SunnySharma04)
+- 🛡️ **TryHackMe:** [sunnysharma11200](https://tryhackme.com/p/sunnysharma11200)
+- ✍️ **Hashnode:** [cybersecurity-learning.hashnode.dev](https://cybersecurity-learning.hashnode.dev/)
+- 💼 **LinkedIn:** [Sunny Sharma](https://www.linkedin.com/in/sunny-sharma-2487312a7/)
 
 ---
 
 ## 📄 Disclaimer
 
-These notes are created for **educational purposes only**.
+All content in this repository is created for **educational purposes, authorized lab practice, and personal skill development**.
 
-I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
+I do **not** publish:
 
-The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.ing journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
+- TryHackMe room flags
+- Direct task answers
+- Passwords or usernames
+- Private lab IP addresses
+- Sensitive credentials
+- Copy-paste walkthrough solutions
+
+The repository focuses on **concepts, methodology, tools, defensive understanding, and learning outcomes** while respecting the TryHackMe learning experience.
+
+---
+
+<div align="center">
+
+### ⭐ If you find these notes useful, consider starring the repository.
+
+**Keep learning. Keep practicing. Document what you understand.**
+
+</div>
