@@ -165,18 +165,18 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 29 | Network Security Essentials | Network Security, Defensive Security, SOC, Perimeter Monitoring | Easy | https://tryhackme.com/room/networksecurityessentials | https://cybersecurity-learning.hashnode.dev/tryhackme-network-security-essentials-beginner-friendly-learning-guide | [Notes](./Network-Security-Essentials/) |
 | 30 | Blaster | Windows Security, Web Recon, RDP Access, Privilege Escalation | Easy | https://tryhackme.com/room/blaster | https://cybersecurity-learning.hashnode.dev/tryhackme-blaster-beginner-friendly-learning-guide | [Notes](./Blaster/) |
 | 31 | Broken Access Control | Web Security, OWASP Top 10, Burp Suite, Privilege Escalation | Easy | https://tryhackme.com/room/owaspbrokenaccesscontrol | https://cybersecurity-learning.hashnode.dev/tryhackme-broken-access-control-room-comprehensive-learning-guide-deep-dive | [Notes](./Broken-Access-Control/) |
-| 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy / Medium | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
-| 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Very Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
-| 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Very Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
-| 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Very Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
-| 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Very Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
-| 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Very Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
-| 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Very Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
-| 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Very Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
-| 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Very Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
-| 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Very Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
-| 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Very Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
-| 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Very Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
+| 32 | Network Services 2 | Network Security, NFS, SMTP, MySQL, Privilege Escalation | Easy | https://tryhackme.com/room/networkservices2 | https://cybersecurity-learning.hashnode.dev/tryhackme-network-services-2-room-comprehensive-learning-guide-deep-dive | [Notes](./Network-Services-2/) |
+| 33 | Operating Systems: Introduction | OS Architecture, Kernel Operations, Resource Management | Easy | https://tryhackme.com/room/operatingsystemsintroduction | https://cybersecurity-learning.hashnode.dev/tryhackme-operating-systems-introduction-room-comprehensive-learning-guide-deep-dive | [Notes](./Operating-Systems-Introduction/) |
+| 34 | Data Representation | Binary, Hexadecimal, Base Conversions, Color Encoding | Easy | https://tryhackme.com/room/datarepresentation | https://cybersecurity-learning.hashnode.dev/tryhackme-data-representation-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Representation/) |
+| 35 | Data Encoding | ASCII, Unicode, UTF-8, Base64, CLI Transformations | Easy | https://tryhackme.com/room/dataencoding | https://cybersecurity-learning.hashnode.dev/tryhackme-data-encoding-room-comprehensive-learning-guide-deep-dive | [Notes](./Data-Encoding/) |
+| 36 | Intro to LAN | Topologies, Subnetting, ARP, DHCP DORA | Easy | https://tryhackme.com/room/introtolan | https://cybersecurity-learning.hashnode.dev/tryhackme-intro-to-lan-comprehensive-learning-guide-deep-dive | [Notes](./Intro-to-LAN/) |
+| 37 | The CIA Triad | Confidentiality, Integrity, Availability, DAD Triad | Easy | https://tryhackme.com/room/theciatriad | https://cybersecurity-learning.hashnode.dev/tryhackme-the-cia-triad-room-comprehensive-learning-guide-deep-dive | [Notes](./The-CIA-Triad/) |
+| 38 | Cryptography Concepts | Symmetric & Asymmetric Encryption, Key Management, PKI | Easy | https://tryhackme.com/room/cryptographyconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-cryptography-concepts-comprehensive-learning-guide-deep-dive | [Notes](./Cryptography-Concepts/) |
+| 39 | Windows Fundamentals 1 | Windows Architecture, File System, Registry, UAC, Task Manager | Easy | https://tryhackme.com/room/windowsfundamentals1 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-1-learning-guide | [Notes](./Windows-Fundamentals-1/) |
+| 40 | Windows Fundamentals 2 | Event Logs, Task Scheduler, Computer Management, System Config | Easy | https://tryhackme.com/room/windowsfundamentals2 | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-fundamentals-2-learning-guide | [Notes](./Windows-Fundamentals-2/) |
+| 41 | Windows Command Line | File Operations, System & Process Management, Network Triage | Easy | https://tryhackme.com/room/windowscommandline | https://cybersecurity-learning.hashnode.dev/tryhackme-windows-command-line-learning-guide | [Notes](./Windows-Command-Line/) |
+| 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
+| 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
 | 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
 | 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/welcome | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
 | 46 | SOC Level 1 - Alert Triage | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | https://tryhackme.com/room/alerttriage | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide | [Notes](./SOC-L1-Alert-Triage/) |
@@ -744,27 +744,32 @@ tryhackme-writeups/
 
 ---
 
+---
+
 ## ✍️ Hashnode Blog
 
 I regularly publish beginner-friendly blogs explaining the concepts I learn while completing TryHackMe rooms.
 
-🌐 **Hashnode**  
-https://cybersecurity-learning.hashnode.dev/
+🌐 **Hashnode:** [https://cybersecurity-learning.hashnode.dev/](https://cybersecurity-learning.hashnode.dev/)
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/SunnySharma04
-- **Hashnode:** https://cybersecurity-learning.hashnode.dev/
-- **TryHackMe:** https://tryhackme.com/p/sunnysharma11200
-- **LinkedIn:** https://www.linkedin.com/in/sunny-sharma-2487312a7/
+- **GitHub:** [SunnySharma04](https://github.com/SunnySharma04)
+- **Hashnode:** [cybersecurity-learning.hashnode.dev](https://cybersecurity-learning.hashnode.dev/)
+- **TryHackMe:** [sunnysharma11200](https://tryhackme.com/p/sunnysharma11200)
+- **LinkedIn:** [Sunny Sharma](https://www.linkedin.com/in/sunny-sharma-2487312a7/)
 
 ---
 
 ## 📄 Disclaimer
 
 These notes are created for **educational purposes only**.
+
+I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
+
+The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
 
 I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
 
