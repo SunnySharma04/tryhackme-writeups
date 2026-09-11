@@ -178,7 +178,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 42 | Networking Concepts | OSI/TCP-IP Models, IP Addressing, Subnetting, DNS, ARP | Easy | https://tryhackme.com/room/networkingconcepts | https://cybersecurity-learning.hashnode.dev/tryhackme-networking-concepts-learning-guide | [Notes](./Networking-Concepts/) |
 | 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
 | 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
-| 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/welcome | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
+| 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/blue | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
 | 46 | SOC Level 1 - Alert Triage | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | https://tryhackme.com/room/socl1alerttriage | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide | [Notes](./SOC-L1-Alert-Triage/) |
 
 ---
