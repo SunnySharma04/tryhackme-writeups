@@ -744,8 +744,6 @@ tryhackme-writeups/
 
 ---
 
----
-
 ## ✍️ Hashnode Blog
 
 I regularly publish beginner-friendly blogs explaining the concepts I learn while completing TryHackMe rooms.
@@ -769,8 +767,4 @@ These notes are created for **educational purposes only**.
 
 I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
 
-The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
-
-I do **not** publish room flags, direct answers, passwords, usernames, payloads, private lab IPs, or walkthrough solutions. The focus of this repository is to document concepts, methodologies, practical learning, and defensive security understanding while respecting the TryHackMe learning experience.
-
-The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
+The content shared here reflects my personal learning journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.ing journey and is intended to help reinforce my understanding while building a public cybersecurity portfolio.
