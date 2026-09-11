@@ -124,6 +124,9 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 - Windows Exploitation & Unpatched Vulnerability Assessment (MS17-010)
 - Metasploit Post-Exploitation Framework & Meterpreter Mechanics
 - Credential Harvesting (SAM Hash Dumping) & Process Migration
+- Tier 1 SOC Alert Triage & Incident Validation Workflows
+- EDR & Sysmon Telemetry Correlation (Process Creation, Network Sockets)
+- True Positive / False Positive Classification & Escalation Documentation
 
 ---
 
@@ -176,6 +179,7 @@ I am currently upskilling in cybersecurity by completing TryHackMe rooms and doc
 | 43 | Introduction to SIEM | Log Management, Aggregation, Correlation Rules, Alert Triage | Very Easy | https://tryhackme.com/room/introtosiem | https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-siem-learning-guide | [Notes](./Introduction-to-SIEM/) |
 | 44 | CyberChef: The Basics | Data Transformation, Encoding/Decoding, Hashing, IOC Extraction | Easy | https://tryhackme.com/room/cyberchefbasics | https://cybersecurity-learning.hashnode.dev/tryhackme-cyberchef-the-basics-learning-guide | [Notes](./CyberChef-The-Basics/) |
 | 45 | Blue | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | https://tryhackme.com/room/welcome | https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide | [Notes](./Blue/) |
+| 46 | SOC Level 1 - Alert Triage | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | https://tryhackme.com/room/alerttriage | https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide | [Notes](./SOC-L1-Alert-Triage/) |
 
 ---
 
@@ -418,6 +422,13 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Stabilizing execution context via process migration (`migrate`) to elevated system services
 - Dumping local account password hashes from the Windows SAM database
 
+### Security Operations & Incident Triage
+
+- Executing end-to-end alert verification lifecycle (Verify -> Contextualize -> Determine Severity -> Document)
+- Differentiating True Positives, False Positives, and Benign activity using contextual telemetry
+- Investigating process execution trees (Sysmon Event ID 1) and network connections (Sysmon Event ID 3)
+- Authoring structured escalation tickets with attached IOCs for Tier 2/3 incident response
+
 ---
 
 ## 🧰 Tools and Concepts Practiced
@@ -515,6 +526,9 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - Meterpreter
 - Nmap (`--script=vuln`)
 - Hashcat / John the Ripper
+- SIEM / EDR Dashboards
+- Sysmon / Windows Event Viewer
+- OSINT Lookup Tools (VirusTotal, AbuseIPDB, Whois)
 
 ---
 
@@ -670,6 +684,10 @@ Through these rooms, I have gained hands-on exposure to the following areas:
 - SMB Protocol Vulnerabilities & Exploitation
 - Post-Exploitation & Process Migration Techniques
 - Privilege Escalation & SAM Hash Extraction Mechanics
+- SOC Level 1 Triage Methodology & SLA Workflows
+- Process Execution Analysis & Parent-Child Relationships
+- True Positive vs. False Positive Analysis
+- Incident Ticket Structuring & Escalation Documentation
 
 ---
 
@@ -707,20 +725,22 @@ tryhackme-writeups/
 ├── Simple-CTF/
 ├── RootMe/
 ├── Pickle-Rick/
-└── Network-Security-Essentials/
-└── Blaster/
-└── Broken Access Control/
-└── Data Representation/
-└── Data Encoding/
-└── Intro to LAN/
-└── The CIA Triad/
-└── Cryptography Concepts/
-└── Windows Fundamentals 1/
-└── Windows Fundamentals 2/
-└── Windows Command Line/
-└── Networking Concepts/
-└── Introduction to SIEM/
-└── CyberChef: The Basics/
+├── Network-Security-Essentials/
+├── Blaster/
+├── Broken Access Control/
+├── Data Representation/
+├── Data Encoding/
+├── Intro to LAN/
+├── The CIA Triad/
+├── Cryptography Concepts/
+├── Windows Fundamentals 1/
+├── Windows Fundamentals 2/
+├── Windows Command Line/
+├── Networking Concepts/
+├── Introduction to SIEM/
+├── CyberChef: The Basics/
+├── Blue/
+├── SOC Level 1 - Alert Triage/
 
 ---
 
