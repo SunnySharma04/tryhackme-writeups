@@ -5,7 +5,7 @@
 ### Practical cybersecurity notes, room summaries, defensive insights, and learning documentation
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sunnysharma11200-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sunnysharma11200)
-[![Rooms](https://img.shields.io/badge/Rooms%20Documented-47-blue)](#-rooms-completed)
+[![Rooms](https://img.shields.io/badge/Rooms%20Documented-48-blue)](#-rooms-completed)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Cybersecurity%20Learning-2962FF?logo=hashnode&logoColor=white)](https://cybersecurity-learning.hashnode.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-SunnySharma04-181717?logo=github&logoColor=white)](https://github.com/SunnySharma04)
 
@@ -41,7 +41,7 @@ For each room, my workflow is:
 | Area | Current Coverage |
 |---|---|
 | 🧪 Platform | TryHackMe |
-| 📚 Rooms documented | **47** |
+| 📚 Rooms documented | **48** |
 | 🔎 Reconnaissance | Passive & active reconnaissance, OSINT, enumeration |
 | 🌐 Web Security | HTTP, SQL injection, access control, OWASP concepts, Burp Suite |
 | 🖥️ System Security | Linux, Windows, privilege concepts, operating-system fundamentals |
@@ -57,7 +57,7 @@ For each room, my workflow is:
 
 I am currently strengthening practical skills across:
 
-- **Security Operations & Blue Team:** SOC workflows, SIEM, alert triage, alert reporting, escalation, log analysis, EDR concepts, IDS/IPS, incident response
+- **Security Operations & Blue Team:** SOC workflows, SIEM, alert triage, alert reporting, escalation, EDR telemetry and investigations, log analysis, IDS/IPS, incident response
 - **Web Application Security:** HTTP analysis, authentication, authorization, SQL injection, IDOR, OWASP Top 10
 - **Networking & Infrastructure:** TCP/IP, OSI, subnetting, DNS, ARP, DHCP, network visibility, perimeter security
 - **Reconnaissance & Enumeration:** OSINT, passive/active reconnaissance, host discovery, service analysis
@@ -95,6 +95,12 @@ I am currently strengthening practical skills across:
 - Alert escalation from L1 to L2 and support-request workflows
 - SOC communication and crisis-escalation best practices
 - SIEM and centralized logging concepts
+- EDR architecture, endpoint agents, consoles and telemetry
+- Process-tree and parent-child process investigation
+- Endpoint telemetry analysis: processes, network connections, command lines, files and registry changes
+- Signature-, behavior- and IOC-based endpoint detection concepts
+- MITRE ATT&CK mapping and alert-context analysis
+- Basic EDR triage and endpoint-response workflow
 - Windows Event Log and Sysmon awareness
 - IDS/IPS and firewall-monitoring concepts
 - IOC extraction and enrichment
@@ -141,7 +147,7 @@ I am currently strengthening practical skills across:
 | Windows | PowerShell, `cmd.exe`, Event Viewer, Task Scheduler, `tasklist`, `netstat` |
 | Linux / CLI | Bash, `grep`, `awk`, `xxd`, `base64`, `hexdump` |
 | Cryptography | `OpenSSL`, `GPG`, `ssh-keygen`, `sha256sum` |
-| SOC / Analysis | SIEM concepts, EDR concepts, Sysmon, CyberChef, VirusTotal, AbuseIPDB |
+| SOC / Analysis | SIEM, EDR, Sysmon, CyberChef, VirusTotal, AbuseIPDB |
 
 ---
 
@@ -150,7 +156,7 @@ I am currently strengthening practical skills across:
 I keep room notes organized by topic and link each room to its TryHackMe page, related Hashnode article, and local GitHub notes.
 
 <details>
-<summary><strong>📂 View all 47 documented rooms</strong></summary>
+<summary><strong>📂 View all 48 documented rooms</strong></summary>
 
 <br>
 
@@ -203,6 +209,7 @@ I keep room notes organized by topic and link each room to its TryHackMe page, r
 | 45 | **Blue** | MS17-010 (EternalBlue), Nmap Vulnerability Scanning, Metasploit, Process Migration, SAM Hash Dumping | Easy | [Room](https://tryhackme.com/room/blue) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-blue-windows-exploitation-learning-guide) | [Notes](./Blue/) |
 | 46 | **SOC Level 1 - Alert Triage** | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | [Room](https://tryhackme.com/room/socl1alerttriage) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide) | [Notes](./SOC-L1-Alert-Triage/) |
 | 47 | **SOC L1 Alert Reporting** | Alert Reporting, Escalation, SOC Communication, 5Ws | Easy | [Room](https://tryhackme.com/room/socl1alertreporting) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-reporting-learning-guide) | [Notes](./SOC-L1-Alert-Reporting/) |
+| 48 | **Introduction to EDR** | Endpoint Detection & Response, Telemetry, Detection, MITRE ATT&CK, Alert Investigation | Easy | [Room](https://tryhackme.com/room/introductiontoedrs) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-edr-learning-guide) | [Notes](./Introduction-to-EDR/) |
 
 </details>
 
@@ -260,7 +267,8 @@ tryhackme-writeups/
 ├── CyberChef-The-Basics/
 ├── Blue/
 ├── SOC-L1-Alert-Triage/
-└── SOC-L1-Alert-Reporting/
+├── SOC-L1-Alert-Reporting/
+└── Introduction-to-EDR/
 ```
 
 A typical room folder follows a simple structure:
