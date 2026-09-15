@@ -5,7 +5,7 @@
 ### Practical cybersecurity notes, room summaries, defensive insights, and learning documentation
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sunnysharma11200-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sunnysharma11200)
-[![Rooms](https://img.shields.io/badge/Rooms%20Documented-48-blue)](#-rooms-completed)
+[![Rooms](https://img.shields.io/badge/Rooms%20Documented-49-blue)](#-rooms-completed)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Cybersecurity%20Learning-2962FF?logo=hashnode&logoColor=white)](https://cybersecurity-learning.hashnode.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-SunnySharma04-181717?logo=github&logoColor=white)](https://github.com/SunnySharma04)
 
@@ -41,7 +41,7 @@ For each room, my workflow is:
 | Area | Current Coverage |
 |---|---|
 | 🧪 Platform | TryHackMe |
-| 📚 Rooms documented | **48** |
+| 📚 Rooms documented | **49** |
 | 🔎 Reconnaissance | Passive & active reconnaissance, OSINT, enumeration |
 | 🌐 Web Security | HTTP, SQL injection, access control, OWASP concepts, Burp Suite |
 | 🖥️ System Security | Linux, Windows, privilege concepts, operating-system fundamentals |
@@ -118,7 +118,7 @@ I am currently strengthening practical skills across:
 - Professional reporting mindset
 
 ### 🖥️ Operating Systems & Administration
-- Linux terminal and filesystem fundamentals
+- Linux terminal, essential commands, filesystem navigation and file-search fundamentals
 - Windows filesystem, registry and UAC concepts
 - Process and service inspection
 - Windows Event Viewer and Task Scheduler
@@ -156,7 +156,7 @@ I am currently strengthening practical skills across:
 I keep room notes organized by topic and link each room to its TryHackMe page, related Hashnode article, and local GitHub notes.
 
 <details>
-<summary><strong>📂 View all 48 documented rooms</strong></summary>
+<summary><strong>📂 View all 49 documented rooms</strong></summary>
 
 <br>
 
@@ -210,6 +210,7 @@ I keep room notes organized by topic and link each room to its TryHackMe page, r
 | 46 | **SOC Level 1 - Alert Triage** | Alert Validation, True/False Positive Analysis, Telemetry Correlation, Incident Escalation | Easy | [Room](https://tryhackme.com/room/socl1alerttriage) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-triage-learning-guide) | [Notes](./SOC-L1-Alert-Triage/) |
 | 47 | **SOC L1 Alert Reporting** | Alert Reporting, Escalation, SOC Communication, 5Ws | Easy | [Room](https://tryhackme.com/room/socl1alertreporting) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-soc-l1-alert-reporting-learning-guide) | [Notes](./SOC-L1-Alert-Reporting/) |
 | 48 | **Introduction to EDR** | Endpoint Detection & Response, Telemetry, Detection, MITRE ATT&CK, Alert Investigation | Easy | [Room](https://tryhackme.com/room/introductiontoedrs) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-introduction-to-edr-learning-guide) | [Notes](./Introduction-to-EDR/) |
+| 49 | **Linux Fundamentals Part 1** | Linux CLI, Filesystem Navigation, File Search, Basic Commands, Shell Operators | Easy | [Room](https://tryhackme.com/room/linuxfundamentalspart1) | [Blog](https://cybersecurity-learning.hashnode.dev/tryhackme-linux-fundamentals-pt1-learning-guide) | [Notes](./Linux-Fundamentals-Part-1/) |
 
 </details>
 
@@ -268,7 +269,8 @@ tryhackme-writeups/
 ├── Blue/
 ├── SOC-L1-Alert-Triage/
 ├── SOC-L1-Alert-Reporting/
-└── Introduction-to-EDR/
+├── Introduction-to-EDR/
+└── Linux-Fundamentals-Part-1/
 ```
 
 A typical room folder follows a simple structure:
